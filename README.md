@@ -13,7 +13,7 @@ A scheduled GitHub Actions workflow (daily at 7:00 UTC):
 
 ## Setup
 
-Add these secrets in **Settings > Secrets and variables > Actions**:
+Add these as **repository secrets** at [Settings > Secrets and variables > Actions](https://github.com/soobrosa/blogdiff/settings/secrets/actions):
 
 | Secret | Value |
 |---|---|
