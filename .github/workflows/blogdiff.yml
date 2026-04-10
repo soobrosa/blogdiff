@@ -1,0 +1,35 @@
+name: Blog Diff Check
+
+on:
+  schedule:
+    - cron: "0 7 * * *"  # daily at 7:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run blogdiff
+        id: diff
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python blogdiff.py
+
+      - name: Commit updated snapshot
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add snapshot.txt
+          git diff --cached --quiet || git commit -m "Update blog snapshot"
+          git push
