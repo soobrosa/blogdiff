@@ -25,6 +25,20 @@ def strip_html(html):
     return unescape(text).strip()
 
 
+def parse_table_rows(html):
+    rows = []
+    for tr_match in sub(r"\n", "", html).split("</tr>"):
+        cells = []
+        for td_match in tr_match.split("</td>"):
+            cell_text = unescape(sub(r"<[^>]+>", "", td_match).strip())
+            cell_text = " ".join(cell_text.split())
+            if cell_text:
+                cells.append(cell_text)
+        if len(cells) >= 2:
+            rows.append(" | ".join(cells))
+    return rows
+
+
 def fetch_posts(url):
     req = Request(url, headers={"User-Agent": "blogdiff/1.0"})
     with urlopen(req, timeout=30) as resp:
@@ -35,8 +49,17 @@ def fetch_posts(url):
         title = entry.findtext(f"{ATOM_NS}title", "").strip()
         published = entry.findtext(f"{ATOM_NS}published", "").strip()
         content_el = entry.find(f"{ATOM_NS}content")
-        content = strip_html(content_el.text or "") if content_el is not None else ""
-        posts.append(f"=== {title} ({published}) ===\n{content}\n")
+        html = content_el.text or "" if content_el is not None else ""
+        if "<table" in html.lower():
+            table_start = html.lower().index("<table")
+            rows = parse_table_rows(html[table_start:])
+            if rows and rows[0].startswith("Date"):
+                rows = rows[1:]
+            content = "\n".join(rows)
+        else:
+            content = strip_html(html)
+        if content:
+            posts.append(f"=== {title} ({published}) ===\n{content}\n")
     return "\n".join(posts)
 
 
