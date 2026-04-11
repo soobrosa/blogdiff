@@ -4,21 +4,40 @@ import hashlib
 import os
 import smtplib
 import sys
+import xml.etree.ElementTree as ET
 from email.mime.text import MIMEText
+from html import unescape
 from pathlib import Path
+from re import sub
 from urllib.request import urlopen, Request
 
-BLOG_URL = "http://mytrueintent.blogspot.com"
+FEED_URL = "http://mytrueintent.blogspot.com/feeds/posts/default"
 SNAPSHOT_FILE = Path(__file__).parent / "snapshot.txt"
 RECIPIENT = "soobrosa@gmail.com"
 SENDER = os.environ.get("GMAIL_USER", "soobrosa@gmail.com")
 APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
 
+ATOM_NS = "{http://www.w3.org/2005/Atom}"
 
-def fetch_page(url):
+
+def strip_html(html):
+    text = sub(r"<[^>]+>", "", html)
+    return unescape(text).strip()
+
+
+def fetch_posts(url):
     req = Request(url, headers={"User-Agent": "blogdiff/1.0"})
     with urlopen(req, timeout=30) as resp:
-        return resp.read().decode("utf-8", errors="replace")
+        data = resp.read()
+    root = ET.fromstring(data)
+    posts = []
+    for entry in root.findall(f"{ATOM_NS}entry"):
+        title = entry.findtext(f"{ATOM_NS}title", "").strip()
+        published = entry.findtext(f"{ATOM_NS}published", "").strip()
+        content_el = entry.find(f"{ATOM_NS}content")
+        content = strip_html(content_el.text or "") if content_el is not None else ""
+        posts.append(f"=== {title} ({published}) ===\n{content}\n")
+    return "\n".join(posts)
 
 
 def send_email(subject, body):
@@ -37,7 +56,7 @@ def send_email(subject, body):
 
 
 def main():
-    current = fetch_page(BLOG_URL)
+    current = fetch_posts(FEED_URL)
     current_hash = hashlib.sha256(current.encode()).hexdigest()
 
     if SNAPSHOT_FILE.exists():
@@ -69,10 +88,10 @@ def main():
 
     diff_text = "\n".join(diff_lines)
     if not previous:
-        subject = f"[blogdiff] Initial snapshot of {BLOG_URL}"
+        subject = "[blogdiff] Initial snapshot of mytrueintent.blogspot.com"
         body = f"First snapshot captured ({len(current)} chars). Future runs will send diffs."
     else:
-        subject = f"[blogdiff] Changes detected on {BLOG_URL}"
+        subject = "[blogdiff] Changes detected on mytrueintent.blogspot.com"
         body = diff_text
 
     send_email(subject, body)
