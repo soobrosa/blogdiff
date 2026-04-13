@@ -1,42 +1,4 @@
-===  (2026-04-11T10:02:01.965-07:00) ===
-11.04.26 | The Aristocrats | Columbia Theater
-11.04.26 | sold out | Christian Steiffen | Columbiahalle
-11.04.26 | Unverkalt - Record Release Show / Nalar / Haven | Exil-Klinke
-11.04.26 | Rikas | Frannz
-11.04.26 | Mega | Gretchen
-11.04.26 | cancelled | Levin Liam | Heimathafen Neukölln
-11.04.26 | Soulbound | Hole
-11.04.26 | Project Pitchfork | Huxleys
-11.04.26 | Jenke Von Wilmsdorff | Kleine Arena Tempodrom
-11.04.26 | Inselschlacht - Aschenvater, Death Monkey, Nalar, Source Of Rage | Kulturhaus Insel
-11.04.26 | Goldlink / Team Palm Trees | Lido
-11.04.26 | sold out | Guitarricadelefuente | Metropol
-11.04.26 | sold out | Fayan | Mikropol
-11.04.26 | ASAGRAUM / ENISUM / WALDGEFLÜSTER | Modus
-11.04.26 | sold out | Vendetta Fest 2026 - Day 2 - https://www.facebook.com/events/neue-zukunft/vendetta-fest-2026/640173692516917/ | Neue Zukunft
-11.04.26 | FABIAN MÜLLER Klavierwerke von Ligeti und Chopin | Pierre Boulez Saal
-11.04.26 | Jeden Tag Silvester | Privatclub
-11.04.26 | Saturno 4000 - Instore Gig & Signing | Rough Trade Berlin
-11.04.26 | Technopolice / Überall Algen | Schokoladen
-11.04.26 | Alkhemia / Depressive Witches | Spirale
-11.04.26 | Gate 49 / Deadroads / Spielothek | Supamolly
-11.04.26 | Grind Guardian #3 w/ Insinstent / No God Rhetoric / Botulism / plus tba | Tommy-Weisbecker-Haus
-11.04.26 | Santiano | Uber Arena
-11.04.26 | Stefan Gwildis | Waschhaus Potsdam
-11.04.26 | Anti-Queens / Hell Angry | Wild At Heart
-11.04.26 | Benefiz Show w/ The Lamplighters / tba | Wild At Heart
-12.04.26 | Casey | Bi Nuu
-12.04.26 | Novelist / Tss / Vianova | Columbia Theater
-12.04.26 | Lacazette | Columbiahalle
-12.04.26 | LA YEGROS - Electric Trío | Gretchen
-12.04.26 | Kapa Tull | Hole
-12.04.26 | Hommaga an Yerevan - Eine Liebeserklärung - Vahagn Hayrapetyan Jazz Trio feat. Hauy Perosyan | Kesselhaus
-12.04.26 | Desert Storm / Fuchur / Borders Down | Neue Zukunft
-12.04.26 | The Wave Pictures | Neue Zukunft
-12.04.26 | Feinrausch: filmabend - Kerosin95 zeigt No Other Land | Passage Kino
-12.04.26 | The Saxophones / Julian Brown | Prachtwerk
-12.04.26 | Mauerpogo - Lesung (Sonja M. Schultz) | Schokoladen
-12.04.26 | Lili Refrain | Urban Spree
+===  (2026-04-12T23:14:18.664-07:00) ===
 13.04.26 | Julia Effekt | Badehaus
 13.04.26 | sold out | Big Thief / Dylan Meek | Columbiahalle
 13.04.26 | Son Little | Frannz
@@ -260,6 +222,7 @@
 25.04.26 | Sind / Minneapolis | Kesselhaus
 25.04.26 | Valerio Tricoli / Hanno Leichtmann | KM 28
 25.04.26 | Astral Bakers | Kulturhaus Insel
+25.04.26 | new | Corpus Delicti | Lido
 25.04.26 | Dark Spring Festival 2026 w/ Klez.e, Corpu Delicti, The Devil & The Universe, Varg i Veum plus more | Lido
 25.04.26 | Pie O My / tba | Loge
 25.04.26 | Punk-A-Velli Vol. 4 w/ Full Of Shit, Rats Don't Sink, Magda, Void Queen, Artikel 5 | Orwohaus
@@ -493,6 +456,7 @@
 11.05.26 | Acid Mothers Temple / The Melting Paraiso U.F.O. | Neue Zukunft
 11.05.26 | Myler | Prachtwerk
 11.05.26 | Real Farmer / tba | Schokoladen
+11.05.26 | new | Kollaps / tba | Urban Spree
 12.05.26 | Sofia Isella / Seb Lowe | Columbiahalle
 12.05.26 | Philine Sonny | Frannz
 12.05.26 | Jutes | Hole
@@ -1018,6 +982,7 @@
 09.08.26 | EA80 / tba | Cassiopeia
 09.08.26 | Magma Festival - Anthony Naples, Deki Alem und Joy Orbison plus more tba - Day 2 | RSO Berlin
 11.08.26 | Bonnie Prince Billy | RBB Großer Sendesaal
+11.08.26 | new | Total Chao / Rumkicks / The Dollheads | SO36
 12.08.26 | Lagwagon - performing "Hoss" front to back | SO36
 12.08.26 | new | Spätkauf - Eintritt frei | Wild At Heart
 13.08.26 | Blond - open air | Kulturbrauerei
@@ -1053,6 +1018,7 @@
 28.08.26 | Moka Efti Orchstra / Candy Hammerschmidt | Freilichtbühne Weissensee
 28.08.26 | new | Upright Citizens / Erection | SO36
 28.08.26 | Mono Inc. - Open Air | Waschhaus Potsdam
+28.08.26 | new | Tankzilla feat. Peter of Peter Pan Speedrock / tba | Wild At Heart
 28.08.26 | Trailerpark Open Air 2026 | Zitadelle Spandau
 29.08.26 | Die Höchste Eisenbahn | Freilichtbühne Weißensee
 29.08.26 | The Notwist @ Pop-Kultur Festival | Kesselhaus
