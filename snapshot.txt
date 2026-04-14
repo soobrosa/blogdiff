@@ -1,4 +1,4 @@
-===  (2026-04-12T23:14:18.664-07:00) ===
+===  (2026-04-13T10:13:00.000-07:00) ===
 13.04.26 | Julia Effekt | Badehaus
 13.04.26 | sold out | Big Thief / Dylan Meek | Columbiahalle
 13.04.26 | Son Little | Frannz
@@ -24,7 +24,7 @@
 14.04.26 | Olive Jones | Privatclub
 14.04.26 | Grandma's House / Lobsterbomb | Schokoladen
 14.04.26 | Crack Cloud | Silent Green
-15.04.26 | Marlon Magnée | Bi Nuu
+15.04.26 | sold out | Marlon Magnée | Bi Nuu
 15.04.26 | Leap | Columbia Theater
 15.04.26 | cancelled | Papooz | Festsaal Kreuzberg
 15.04.26 | Minor Majority | Frannz
@@ -82,7 +82,7 @@
 17.04.26 | Tangerinecat | Supamolly
 17.04.26 | Versengold | Tempodrom
 17.04.26 | Frank The Baptist / Whispers In The Shadow / Telegram Frank | Urban Spree
-17.04.26 | Herzblut / Out Of Dungeons - Benefizkonzert | Wild At Heart
+17.04.26 | Herzblut / Out Of Dungeons - Benefizkonzert - Support wegen Koka36 Insolvenz | Wild At Heart
 18.04.26 | sold out | Hannah Bahng | Astra
 18.04.26 | Skuth | Badehaus
 18.04.26 | The Kids - 50th anniversary | Clash
@@ -756,7 +756,7 @@
 11.06.26 | Sugar / J. Robbins (Jawbox / Burning Airlines) | Huxleys
 11.06.26 | cancelled | Jordana | Kantine Berghain
 11.06.26 | Iguana Death Cult | Neue Zukunft
-11.06.26 | Die Expressionisten / Gratefull Cat | Schokoladen
+11.06.26 | Die Expressionisten / Grateful Cat | Schokoladen
 11.06.26 | Paradise Must Be Nice Festival - https://www.paradisemustbenice.de/ - Day 1 | Several Locations
 11.06.26 | 6k United! | Uber Arena
 12.06.26 | The Adicts | Astra
@@ -942,6 +942,7 @@
 18.07.26 | Mark Forster | Zitadelle Spandau
 19.07.26 | Arch Enemy | Bi Nuu
 19.07.26 | Lollapallooza Festival 2026 - Day 2 - https://www.lollapaloozade.com/ | Olympiastadion
+20.07.26 | new | La Delio Valdez | Columbia Theater
 21.07.26 | Glu | Mikropol
 22.07.26 | The Molotovs | Kantine Berghain
 23.07.26 | Loveth Besamoh / tba | Schokoladen
@@ -1025,6 +1026,7 @@
 29.08.26 | Swing'It | Säälchen
 29.08.26 | Elle & L's Festival - international female multi-genre festival - Day 1 - https://www.elleandls.com/ | Several Locations
 29.08.26 | Joji | Velodrom
+29.08.26 | new | Smith & Smart / Meckie Berlinutz | Wild At Heart
 29.08.26 | Klassentreffen Festival Tag 1 w/ Sido, Kool Savas, Max Herre & Joy Denalane, Afrob & Ferris MC, Eko Fresh u.v.a. | Zentraler Festplatz
 30.08.26 | Diana Ezerex | Kulturhaus Insel
 30.08.26 | Dead Moon - a night with Toody Cole and her band - additional show | Neue Zukunft
@@ -1124,6 +1126,7 @@
 25.09.26 | Blues Caravan | Quasimodo
 25.09.26 | Evanescence / Poppy | Velodrom
 25.09.26 | Erobique | Waschhaus Potsdam
+25.09.26 | new | The Soap Girls - Rebel DNA | Wild At Heart
 26.09.26 | ASP | Huxleys
 26.09.26 | Current 93 | Silent Green
 26.09.26 | Reezy | Velodrom
@@ -1199,6 +1202,7 @@
 10.10.26 | Madsen | Tempodrom
 11.10.26 | Stu Larsen | Lark
 11.10.26 | The Mountain Goats | Metropol
+12.10.26 | new | Freya Ridings | Admiralspalast
 13.10.26 | Declan Welsh & The Decadent West | Badehaus
 13.10.26 | Blood Red Shoes | Festsaal Kreuzberg
 13.10.26 | Laibach | Huxleys
@@ -1214,6 +1218,7 @@
 15.10.26 | Fink | Metropol
 15.10.26 | Tito & Tarantula - Best Of Tour | SO36
 15.10.26 | Annett Louisan | Tempodrom
+15.10.26 | new | The Strokes | Uber Arena
 15.10.26 | Miss Allie | Waschhaus Potsdam
 16.10.26 | James Blake | Astra
 16.10.26 | Civo | Huxleys
@@ -1376,6 +1381,7 @@
 11.11.26 | Pohlmann | Frannz
 11.11.26 | Son Mieux | Hole
 11.11.26 | Bloc Party / Interpol | Uber Arena
+12.11.26 | new | GVLLOW | Cassiopeia
 12.11.26 | Bonaparte - 20 Years | Columbiahalle
 12.11.26 | Messa | Frannz
 12.11.26 | Nils Petter Molvær Trio | Gretchen
@@ -1450,6 +1456,7 @@
 24.11.26 | Moonwalker | Hole
 24.11.26 | The Kid Laroi | Uber Eats Music Hall
 25.11.26 | Afrob & Ferris MC | Festsaal Kreuzberg
+25.11.26 | new | The Scratch | Frannz
 26.11.26 | Baby Lasagna | Columbia Theater
 26.11.26 | Grossstadtgeflüster | Columbiahalle
 26.11.26 | Faroon | Hole
@@ -1598,13 +1605,17 @@
 19.03.27 | Tash Sultana | Velodrom
 20.03.27 | The Dead Daisies | Columbia Theater
 26.03.27 | Kat Frankie - Bodies | Tempodrom
+08.04.27 | new | Die Ärzte | Max-Schmeling-Halle
 08.04.27 | Ian Hooper | Metropol
 09.04.27 | Kati K | Columbia Theater
+09.04.27 | new | Die Ärzte | Max-Schmeling-Halle
 10.04.27 | Leony | Huxleys
 12.04.27 | Monet192 | Huxleys
 14.04.27 | new | Hinnerk Köhn | Waschhaus Potsdam
 18.04.27 | Michèl von Wussow | Privatclub
 02.05.27 | LEA | Uber Arena
+05.06.27 | new | Die Ärzte | Wuhlheide
+06.06.27 | new | Die Ärzte | Wuhlheide
 15.06.27 | Herbert Grönemeyer | Waldbühne
 21.07.27 | Rush | Uber Arena
 30.10.27 | Andrea Berg | Uber Arena
