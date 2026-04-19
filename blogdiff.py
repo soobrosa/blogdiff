@@ -2,9 +2,10 @@
 import difflib
 import hashlib
 import os
+import re as re_mod
 import smtplib
-import sys
 import xml.etree.ElementTree as ET
+from datetime import datetime, timezone
 from email.mime.text import MIMEText
 from html import unescape
 from pathlib import Path
@@ -78,6 +79,83 @@ def send_email(subject, body):
     print("Email sent.")
 
 
+DATE_PATTERN = re_mod.compile(r"^(\d{2})\.(\d{2})\.(\d{2})\s*\|")
+
+
+def parse_event_date(line):
+    m = DATE_PATTERN.match(line)
+    if not m:
+        return None
+    day, month, year = int(m.group(1)), int(m.group(2)), int(m.group(3))
+    return datetime(2000 + year, month, day).date()
+
+
+def is_header_line(line):
+    return line.startswith("=== ")
+
+
+def is_only_new_label_change(removed, added):
+    """True when the only difference is a 'new' tag being added or removed."""
+    def strip_new(s):
+        return re_mod.sub(r"\|\s*new\s*\|", "|", s).strip()
+    return strip_new(removed) == strip_new(added)
+
+
+def filter_relevant(diff_lines):
+    today = datetime.now(timezone.utc).date()
+    relevant = []
+    removed_buf = []
+    added_buf = []
+
+    def flush_pair():
+        nonlocal removed_buf, added_buf
+        paired = []
+        unpaired_removed = list(removed_buf)
+        unpaired_added = list(added_buf)
+
+        for r in list(unpaired_removed):
+            for a in list(unpaired_added):
+                if is_only_new_label_change(r[1:], a[1:]):
+                    paired.append((r, a))
+                    unpaired_removed.remove(r)
+                    unpaired_added.remove(a)
+                    break
+
+        keep = []
+        for line in unpaired_removed:
+            content = line[1:]
+            if is_header_line(content):
+                continue
+            d = parse_event_date(content)
+            if d and d < today:
+                continue
+            keep.append(line)
+        for line in unpaired_added:
+            content = line[1:]
+            if is_header_line(content):
+                continue
+            keep.append(line)
+
+        removed_buf = []
+        added_buf = []
+        return keep
+
+    for line in diff_lines:
+        if line.startswith("---") or line.startswith("+++") or line.startswith("@@"):
+            relevant.extend(flush_pair())
+            continue
+        if line.startswith("-") and not line.startswith("---"):
+            removed_buf.append(line)
+            continue
+        if line.startswith("+") and not line.startswith("+++"):
+            added_buf.append(line)
+            continue
+        relevant.extend(flush_pair())
+
+    relevant.extend(flush_pair())
+    return relevant
+
+
 def main():
     current = fetch_posts(FEED_URL)
     current_hash = hashlib.sha256(current.encode()).hexdigest()
@@ -109,13 +187,19 @@ def main():
 
     SNAPSHOT_FILE.write_text(current, encoding="utf-8")
 
-    diff_text = "\n".join(diff_lines)
     if not previous:
         subject = "[blogdiff] Initial snapshot of mytrueintent.blogspot.com"
         body = f"First snapshot captured ({len(current)} chars). Future runs will send diffs."
     else:
+        relevant = filter_relevant(diff_lines)
+        if not relevant:
+            print("No relevant changes (only housekeeping).")
+            if "GITHUB_OUTPUT" in os.environ:
+                with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+                    f.write("changed=true\n")
+            return
         subject = "[blogdiff] Changes detected on mytrueintent.blogspot.com"
-        body = diff_text
+        body = "\n".join(relevant)
 
     send_email(subject, body)
 
