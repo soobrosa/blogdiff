@@ -1,36 +1,4 @@
-===  (2026-04-22T00:37:00.000-07:00) ===
-22.04.26 | Calvin Love | 8MM Bar
-22.04.26 | Marlon Williams | Frannz
-22.04.26 | Luisa Cadotsch - Liun + The Science Fiction Band | Gretchen
-22.04.26 | Kruder & Dorfmeister | Huxleys
-22.04.26 | Newhvn ( ex A Burial At Sea) / Dusk Saffron | Kantine Berghain
-22.04.26 | Dante Yn | Kesselhaus
-22.04.26 | Ka Baird & Audrey Chen & Li-Chin Li | KM 28
-22.04.26 | Smag På Dig Selv | Lark
-22.04.26 | We Are Scientists | Lido
-22.04.26 | Godsleep / Loud Silence / Dead Wolf | Neue Zukunft
-22.04.26 | Cat Clyde | Privatclub
-22.04.26 | new | Mattrey-Dickson-Cajado-Downes / Seok-Matsuno | Richten 25
-22.04.26 | Seldom Pretty / Cardboard | Schokoladen
-22.04.26 | Anda Morts | SO36
-22.04.26 | Skaphos / Antania | Tommy-Weisbecker-Haus
-22.04.26 | Two Stories Away EP Release Show - Eintritt frei - Wirld Wednesday | Wild At Heart
-23.04.26 | Los Bitchos / Las Petunias - Soundhood Berlin | Bi Nuu
-23.04.26 | Kiki Rockwell | Columbia Theater
-23.04.26 | new | Terror - "A Deeper "Struggle" Doku Screening (18 Uhr) & "Still Suffer" Listening Party | Coretex Record Store
-23.04.26 | G Sessions feat. Johnny Woodham / Move 78 / Rosa Landers | Gretchen
-23.04.26 | Adam Goodwin | KM 28
-23.04.26 | Matteo Mancuso / tba | Lido
-23.04.26 | Wintersleep | Mikropol
-23.04.26 | The Bevis Frond | Quasimodo
-23.04.26 | The Marsh | Säälchen
-23.04.26 | Science Man / Morgen Teuer Töten | Schokoladen
-23.04.26 | Viko & Penglord | SO36
-23.04.26 | Casino Gitano | Supamolly
-23.04.26 | Lune | Tempodrom
-23.04.26 | Holosoil - EP Release Show / Minivan | Urban Spree
-23.04.26 | Exit Void / KMRU w/ Anja Plaschg, David Reumüller, Alex Kranabetter, Wolfgang Lehmann, Manfred Engelmayr, Katrin Euller | Volksbühne
-23.04.26 | Let's Get Bizarre Fest Vol. 3 - Saba Lou / Ark White & a burlesque show & open Q & A Session | Wiener Blut
+===  (2026-04-23T11:45:06.566-07:00) ===
 24.04.26 | MandelKokainSchnaps / Alarmbaby | Badehaus
 24.04.26 | Aonghus McEvoy / Ben Lubin | Bis Aufs Messer Recordstore
 24.04.26 | Coalesce | Cassiopeia
@@ -71,7 +39,7 @@
 25.04.26 | Corpus Delicti | Lido
 25.04.26 | Dark Spring Festival 2026 w/ Klez.e, Corpu Delicti, The Devil & The Universe, Varg i Veum plus more | Lido
 25.04.26 | new | Kilminister - A tribute to Motörhead | Lindenpark Potsdam
-25.04.26 | Pie O My / tba | Loge
+25.04.26 | Pie O My / Peitsche | Loge
 25.04.26 | Punk-A-Velli Vol. 4 w/ Full Of Shit, Rats Don't Sink, Magda, Void Queen, Artikel 5 | Orwohaus
 25.04.26 | KUNAL LAHIRY - Journey to Softness: Klavierwerke v.Beethoven, Ligeti, Glass, Radiohead | Pierre Boulez Saal
 25.04.26 | Katie Stephenson | Prachtwerk
@@ -155,6 +123,7 @@
 01.05.26 | 90Mil Festival - Day 1- https://www.90mil.berlin/90milfestival/ | 90Mil / Jannowitzbrücke
 01.05.26 | HAGEN QUARTETT & JULIA HAGEN Werke von Beethoven, Schubert und Webern | Pierre Boulez Saal
 01.05.26 | Stina Holmquist | Privatclub
+01.05.26 | new | Widerstand und Spaß - ein Gesprächskonzert mit Bernadette La Hengst und Knarf Rellöm | Salon Wellenmaschine
 01.05.26 | Cosmic Psychos | SO36
 01.05.26 | Rosalía | Uber Arena
 01.05.26 | Rüfüs Du Sol | Velodrom
@@ -173,7 +142,7 @@
 02.05.26 | CARLOS PIÑANA & ENSEMBLE The Journey of Instruments IV | Pierre Boulez Saal
 02.05.26 | Wylhem | Privatclub
 02.05.26 | new | Yusuf Can Seftali / LagarDuo / Niloofar Asghary | Richten 25
-02.05.26 | Itches / Angel | Schokoladen
+02.05.26 | Itches / Angel CCAA | Schokoladen
 02.05.26 | 6euroneunzig | SO36
 02.05.26 | new | Dr. Green | Supamolly
 02.05.26 | Johannes Oerding | Uber Arena
@@ -304,6 +273,7 @@
 10.05.26 | Ishan | Mikropol
 10.05.26 | Black Veil | Neue Zukunft
 10.05.26 | Tanga Elektra | Sisyphos Club
+10.05.26 | new | Fotocrime / Abraxas | Urban Spree
 11.05.26 | Public Image Limited | Columbia Theater
 11.05.26 | Greeen | Columbiahalle
 11.05.26 | Godwin | Frannz
@@ -527,6 +497,7 @@
 29.05.26 | new | EKLIPSE / Molllust - Females. Music. Art. | Lindenpark Potsdam
 29.05.26 | Hannes | Mikropol
 29.05.26 | Jasper Tygner | Monarch
+29.05.26 | new | Brown Spirits / Menk | Neue Zukunft
 29.05.26 | Immergut Festival - Day 2- https://immergutrocken.de/ | Neustrelitz
 29.05.26 | Desecration Fest #2 - Day 2 - https://berlindesecrationfest.bigcartel.com/ | Orwohaus
 29.05.26 | RIAS KAMMERCHOR BERLIN & ENSEMBLE RESONANZ Fantasie & Farewell: Werke v. V. Williams, Parry, Elgar, Marsh | Pierre Boulez Saal
@@ -598,6 +569,7 @@
 05.06.26 | new | Teratoma / Indian Nightmare / Ploutonium | Neue Zukunft
 05.06.26 | BOULEZ ENSEMBLE & THOMAS GUGGEIS Werke von Alban Berg & Johann Strauß | Pierre Boulez Saal
 05.06.26 | Zucchero | Uber Arena
+05.06.26 | new | Bavagers / Ricky Ratt | Wild At Heart
 05.06.26 | Ravagers / Ricky Rat of the Trash Bats | Wild At Heart
 05.06.26 | Fat Freddys Drop | Zitadelle Spandau
 06.06.26 | Oomph! / Lorena / Kaizer / My Inner Circle / Dyers Finch - Pladelu Festival 2026 | Columbiahalle
@@ -673,6 +645,7 @@
 15.06.26 | Sorry | Lido
 15.06.26 | Hania Rani | Philharmonie
 15.06.26 | Beat - The music of 80s King Crimson | Uber Eats Music Hall
+15.06.26 | new | Midrift | Urban Spree
 16.06.26 | Max McNown | Columbiahalle
 16.06.26 | Cass McCombs & Band | Lido
 16.06.26 | Zeke | Mikropol
@@ -731,6 +704,7 @@
 23.06.26 | Asal | Lido
 23.06.26 | Guns N' Roses | Uber Arena
 23.06.26 | Belvedere / MakeWar | Wild At Heart
+24.06.26 | new | Oxis | Kantine Berghain
 24.06.26 | Shady Nasty | Mikropol
 24.06.26 | Julie's Haircut / tba | Schokoladen
 24.06.26 | Nothing / Haywire | SO36
@@ -869,6 +843,7 @@
 02.08.26 | Molly Green | Kulturhaus Insel
 02.08.26 | Good Riddance / Faster Disaster | SO36
 03.08.26 | H2O | Lido
+03.08.26 | new | N8Noface | Mikropol
 04.08.26 | System Solar | Gretchen
 04.08.26 | Systema Solar | Gretchen
 04.08.26 | Lara Hulo | Kulturhaus Insel
@@ -905,6 +880,7 @@
 18.08.26 | Deftones | Wuhlheide
 18.08.26 | OMD - Orchestral Manoeuvres in the Dark | Zitadelle Spandau
 19.08.26 | Off Days 2026 - Blood Orange plus more acts | Zitadelle Spandau
+20.08.26 | new | Two Feet | Huxleys
 20.08.26 | Die Fantastischen Vier | Waldbühne
 21.08.26 | War On Woman / tba | Wild At Heart
 21.08.26 | sold out | Kraftklub - Zusatzshow | Wuhlheide
@@ -956,6 +932,7 @@
 05.09.26 | Dritte Wahl - Open Air | Waschhaus Potsdam
 06.09.26 | Foy Vance | Heimathafen Neukölln
 06.09.26 | Farin Urlaub & Jochen Schlieman - Redetour übers Reisen | RBB Sendesaal
+07.09.26 | new | Francis Of Delirium | Neue Zukunft
 08.09.26 | Junkyard Drive | Badehaus
 08.09.26 | Weird Nightmare | Urban Spree
 09.09.26 | new | Tara Clerkin Trio | Neue Zukunft
@@ -968,6 +945,7 @@
 11.09.26 | Annie Taylor | Cassiopeia
 11.09.26 | Marlo Grosshardt | Huxleys
 11.09.26 | Berlin Swamp Fest 2026 - Day 2 - https://www.swampconspiracy.org/ | Neue Zukunft
+11.09.26 | new | F.B.I. / Astmatica - Benefizshow wegen Koka Insolvenz | Wild At Heart
 11.09.26 | Nina Chuba | Wuhlheide
 12.09.26 | Feng | Columbia Theater
 12.09.26 | Asgeir | Hole
@@ -1140,6 +1118,7 @@
 14.10.26 | Des Rocs | Gretchen
 14.10.26 | Jalen Ngonda | Huxleys
 14.10.26 | Dazzling Killmen | Neue Zukunft
+14.10.26 | new | Elephant9 | Neue Zukunft
 15.10.26 | James Blake | Astra
 15.10.26 | The Beatles Tribute Show | Columbia Theater
 15.10.26 | Cat Power - "The Greatest" 20th Anniversary | Huxleys
@@ -1487,6 +1466,7 @@
 11.12.26 | Nimo | Velodrom
 12.12.26 | Paulk | Badehaus
 12.12.26 | sold out | Sidos Weihnachtsshow 2026 | Columbiahalle
+12.12.26 | new | Haller | Hole
 12.12.26 | Laing - Die Grosse Gala - Zusatzshow | Huxleys
 12.12.26 | The Butlers - 40 years of Ska & Soulpower | SO36
 12.12.26 | Elif | Uber Eats Music Hall
@@ -1501,6 +1481,7 @@
 16.12.26 | sold out | Sidos Weihnachtsshow 2026 | Columbiahalle
 16.12.26 | Mika Noé | Festsaal Kreuzberg
 16.12.26 | Azet | Huxleys
+16.12.26 | new | The Tubs | Kantine Berghain
 17.12.26 | Le Fly | Mikropol
 17.12.26 | Die Fantastischen Vier | Uber Arena
 18.12.26 | Jamin | Badehaus
@@ -1531,6 +1512,7 @@
 18.01.27 | Anne Clark & Band | Huxleys
 19.01.27 | Anne Clark & Band | Huxleys
 22.01.27 | Götz Widmann | SO36
+23.01.27 | new | Dave Hause & The Mermaid | Frannz
 23.01.27 | new | KYLES TOLONE | Lindenpark Potsdam
 23.01.27 | Fliehende Stürme / Der Fluch / Totenwald / Elektrokohle | SO36
 23.01.27 | Jan Böhmermann & Rundfunk-Tanzorchester Ehrenfeld | Uber Arena
