@@ -1,14 +1,4 @@
-===  (2026-05-01T00:25:00.000-07:00) ===
-01.05.26 | 90Mil Festival - Day 1- https://www.90mil.berlin/90milfestival/ | 90Mil / Jannowitzbrücke
-01.05.26 | HAGEN QUARTETT & JULIA HAGEN Werke von Beethoven, Schubert und Webern | Pierre Boulez Saal
-01.05.26 | Stina Holmquist | Privatclub
-01.05.26 | Widerstand und Spaß - ein Gesprächskonzert mit Bernadette La Hengst und Knarf Rellöm | Salon Wellenmaschine
-01.05.26 | Gum Takes Tooth / KeyMP | Schokoladen
-01.05.26 | Cosmic Psychos / Good Sniff / S.U.G.A.R. | SO36
-01.05.26 | Rosalía | Uber Arena
-01.05.26 | Rüfüs Du Sol | Velodrom
-01.05.26 | Dekker | Waschhaus Potsdam
-01.05.26 | MilleniumKid | Waschhaus Potsdam
+===  (2026-05-02T00:56:00.000-07:00) ===
 02.05.26 | 90Mil Festival - Day 2- https://www.90mil.berlin/90milfestival/ | 90Mil / Jannowitzbrücke
 02.05.26 | sold out | Haggefugg | Badehaus
 02.05.26 | MIA / ISE | Columbiahalle
@@ -1152,6 +1142,7 @@
 19.10.26 | Europe - The Final Countdown | Admiralspalast
 19.10.26 | Matterz | Columbia Theater
 19.10.26 | Sisters Of Mercy | Columbiahalle
+19.10.26 | new | Young The Giant | Kesselhaus
 20.10.26 | Darren Kiely | Frannz
 21.10.26 | Jassin | Columbiahalle
 21.10.26 | Mal Élevé | Festsaal Kreuzberg
@@ -1399,6 +1390,7 @@
 24.11.26 | Moonwalker | Hole
 24.11.26 | Lézard | Mikropol
 24.11.26 | The Kid Laroi | Uber Eats Music Hall
+25.11.26 | new | The Ruins Of Beverast / Esoteric / Imha Tarikat | Bi Nuu
 25.11.26 | Afrob & Ferris MC | Festsaal Kreuzberg
 25.11.26 | The Scratch / Dug | Frannz
 25.11.26 | Sarah Julia | Mikropol
