@@ -1,39 +1,9 @@
-===  (2026-05-02T00:56:00.000-07:00) ===
-02.05.26 | 90Mil Festival - Day 2- https://www.90mil.berlin/90milfestival/ | 90Mil / Jannowitzbrücke
-02.05.26 | sold out | Haggefugg | Badehaus
-02.05.26 | MIA / ISE | Columbiahalle
-02.05.26 | Die Toten Crackhuren Im Kofferraum | Festsaal Kreuzberg
-02.05.26 | Pestpocken | Franken
-02.05.26 | Nubiyan Twist | Gretchen
-02.05.26 | Tul8te | Huxleys
-02.05.26 | Sono | Lido
-02.05.26 | Jessica Baio | Mikropol
-02.05.26 | A.S. Fanning / Morphine Ridges | Neue Zukunft
-02.05.26 | Malmequer / Lea Reiche Orchestra | Neue Zukunft
-02.05.26 | CARLOS PIÑANA & ENSEMBLE The Journey of Instruments IV | Pierre Boulez Saal
-02.05.26 | Wylhem | Privatclub
-02.05.26 | Yusuf Can Seftali / LagarDuo / Niloofar Asghary | Richten 25
-02.05.26 | Itches / Angel CCAA | Schokoladen
-02.05.26 | 6euroneunzig | SO36
-02.05.26 | Dr. Green | Supamolly
-02.05.26 | Johannes Oerding | Uber Arena
-02.05.26 | sold out | Blue | Uber Eats Music Hall
-02.05.26 | new | Sexverbot | Westgermany
-02.05.26 | Mojo Substrat | Wiener Blut
-02.05.26 | The Moggies / Caitlin Cracker & The Dynamit T. Orchestra | Wild At Heart
-03.05.26 | 90Mil Festival - Day 3- https://www.90mil.berlin/90milfestival/ | 90Mil / Jannowitzbrücke
-03.05.26 | Swrms | Badehaus
-03.05.26 | Oxxxymiron | Columbiahalle
-03.05.26 | Conic Rose | Gretchen
-03.05.26 | Atmosphere | Lido
-03.05.26 | Florence Road | Mikropol
-03.05.26 | The Jins / Ganser | Neue Zukunft
-03.05.26 | CHRISTIAN TETZLAFF Bach: Sonaten und Partiten für Violine solo | Pierre Boulez Saal
-03.05.26 | Grade 2 / Müde | Privatclub
+===  (2026-05-04T01:48:00.000-07:00) ===
 04.05.26 | new | Grade2 - In-store gig - fully amplified & for free - 20 Uhr | Coretex Record Store
 04.05.26 | Sababa 5 | Gretchen
 04.05.26 | cancelled | Amber Mark | Hole
 04.05.26 | sold out | Maeckes & ein weiteres Experiment | Kulturhaus Insel
+04.05.26 | Die Alten Waisen - Eine musikalische Lesung mit A. Chaos Franck, Stefan Fiebig & Patrick Zinke | Mikropol
 04.05.26 | Page Eight | Neue Zukunft
 04.05.26 | Grigory Sokolov | Philharmonie
 04.05.26 | AKADEMIEKONZERT Kammermusik mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
@@ -1337,6 +1307,7 @@
 17.11.26 | Hip Hop Lebt | Heimathafen Neukölln
 17.11.26 | The Wedding Present - Seamonsters 35th Anniversary Tour | Hole
 17.11.26 | Hatsune Miku | Velodrom
+18.11.26 | new | Earth Crisis / Moral Law | Cassiopeia
 18.11.26 | Despiced Icon / Carnifex / Suffocation | Columbia Theater
 18.11.26 | The Pretty Reckless | Huxleys
 18.11.26 | Rowli | Lido
@@ -1384,6 +1355,7 @@
 23.11.26 | Skipinnish | Columbia Theater
 23.11.26 | Black Oak County | Mikropol
 23.11.26 | Tina Dico | RBB Sendesaal
+23.11.26 | new | First Aid Kit | Theater des Westens
 24.11.26 | Currents / Erra | Astra
 24.11.26 | Portugal. The Man | Columbiahalle
 24.11.26 | The Veils | Gretchen
