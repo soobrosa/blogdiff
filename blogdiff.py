@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
+import csv
 import difflib
 import hashlib
+import io
 import os
 import re
 import smtplib
@@ -10,7 +12,6 @@ from datetime import date
 from email.mime.text import MIMEText
 from html import unescape
 from pathlib import Path
-from re import sub
 from urllib.request import urlopen, Request
 
 FEED_URL = "http://mytrueintent.blogspot.com/feeds/posts/default"
@@ -21,52 +22,78 @@ APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
 
 ATOM_NS = "{http://www.w3.org/2005/Atom}"
 
-STATUS_FLAGS = ("new venue", "new date", "sold out", "cancelled", "new")
+STATUS_FLAGS = ("new venue", "new date", "sold out", "cancelled", "postponed", "new")
 STATUS_SET = set(STATUS_FLAGS)
 TBA_TOKENS = {"tba", "t.b.a.", "t.b.a", "tbc"}
 
 
-def strip_html(html):
-    text = sub(r"<[^>]+>", "", html)
-    return unescape(text).strip()
+SHEET_IFRAME_RE = re.compile(
+    r"docs\.google\.com/spreadsheets/d/e/([\w-]+)/pubhtml\?gid=(\d+)", re.I
+)
 
 
-def parse_table_rows(html):
-    rows = []
-    for tr_match in sub(r"\n", "", html).split("</tr>"):
-        cells = []
-        for td_match in tr_match.split("</td>"):
-            cell_text = unescape(sub(r"<[^>]+>", "", td_match).strip())
-            cell_text = " ".join(cell_text.split())
-            if cell_text:
-                cells.append(cell_text)
-        if len(cells) >= 2:
-            rows.append(" | ".join(cells))
-    return rows
+def _http_get(url):
+    req = Request(url, headers={"User-Agent": "blogdiff/1.0"})
+    with urlopen(req, timeout=30) as resp:
+        return resp.read()
+
+
+def find_sheet_sources(feed_xml):
+    root = ET.fromstring(feed_xml)
+    sources = []
+    seen = set()
+    for entry in root.findall(f"{ATOM_NS}entry"):
+        content_el = entry.find(f"{ATOM_NS}content")
+        html = (content_el.text or "") if content_el is not None else ""
+        html = unescape(html)
+        for m in SHEET_IFRAME_RE.finditer(html):
+            key = (m.group(1), m.group(2))
+            if key not in seen:
+                seen.add(key)
+                sources.append(key)
+    return sources
+
+
+def sheet_csv_url(doc_id, gid):
+    return (
+        f"https://docs.google.com/spreadsheets/d/e/{doc_id}/pub"
+        f"?gid={gid}&single=true&output=csv"
+    )
+
+
+def csv_rows_to_lines(data):
+    text = data.decode("utf-8")
+    lines = []
+    for row in csv.reader(io.StringIO(text)):
+        if len(row) < 4:
+            continue
+        date_raw, note, artist, venue = (c.strip() for c in row[:4])
+        if not DATE_PREFIX_RE.match(date_raw):
+            continue
+        cells = [date_raw]
+        if note and note.lower() in STATUS_SET:
+            cells.append(note.lower())
+        elif note:
+            artist = f"{artist} - {note}" if artist else note
+        if artist:
+            cells.append(artist)
+        if venue:
+            cells.append(venue)
+        lines.append(" | ".join(cells))
+    return lines
 
 
 def fetch_posts(url):
-    req = Request(url, headers={"User-Agent": "blogdiff/1.0"})
-    with urlopen(req, timeout=30) as resp:
-        data = resp.read()
-    root = ET.fromstring(data)
-    posts = []
-    for entry in root.findall(f"{ATOM_NS}entry"):
-        title = entry.findtext(f"{ATOM_NS}title", "").strip()
-        published = entry.findtext(f"{ATOM_NS}published", "").strip()
-        content_el = entry.find(f"{ATOM_NS}content")
-        html = content_el.text or "" if content_el is not None else ""
-        if "<table" in html.lower():
-            table_start = html.lower().index("<table")
-            rows = parse_table_rows(html[table_start:])
-            if rows and rows[0].startswith("Date"):
-                rows = rows[1:]
-            content = "\n".join(rows)
-        else:
-            content = strip_html(html)
-        if content:
-            posts.append(f"=== {title} ({published}) ===\n{content}\n")
-    return "\n".join(posts)
+    feed = _http_get(url)
+    sources = find_sheet_sources(feed)
+    out = []
+    for doc_id, gid in sources:
+        rows = csv_rows_to_lines(_http_get(sheet_csv_url(doc_id, gid)))
+        if rows:
+            out.append(f"=== Gigs (gid {gid}) ===")
+            out.extend(rows)
+            out.append("")
+    return "\n".join(out)
 
 
 # ---------- structured diff ----------
@@ -84,10 +111,14 @@ class Event:
     raw: str = ""
 
 
-SIMPLE_DATE_RE = re.compile(r"^(\d{1,2})\.(\d{1,2})\.(\d{2})$")
-RANGE_SAME_MONTH_RE = re.compile(r"^(\d{1,2})\.-(\d{1,2})\.(\d{1,2})\.(\d{2})$")
-RANGE_CROSS_MONTH_RE = re.compile(r"^(\d{1,2})\.(\d{1,2})\.-(\d{1,2})\.(\d{1,2})\.(\d{2})$")
+SIMPLE_DATE_RE = re.compile(r"^(\d{1,2})\.(\d{1,2})\.(\d{2,4})$")
+RANGE_SAME_MONTH_RE = re.compile(r"^(\d{1,2})\.-(\d{1,2})\.(\d{1,2})\.(\d{2,4})$")
+RANGE_CROSS_MONTH_RE = re.compile(r"^(\d{1,2})\.(\d{1,2})\.-(\d{1,2})\.(\d{1,2})\.(\d{2,4})$")
 DATE_PREFIX_RE = re.compile(r"^\d{1,2}\.")
+
+
+def _full_year(y):
+    return y + 2000 if y < 100 else y
 
 
 def parse_date_range(s):
@@ -96,7 +127,7 @@ def parse_date_range(s):
     if m:
         d, mo, y = (int(x) for x in m.groups())
         try:
-            dt = date(2000 + y, mo, d)
+            dt = date(_full_year(y), mo, d)
         except ValueError:
             return None, None
         return dt, dt
@@ -104,14 +135,14 @@ def parse_date_range(s):
     if m:
         d1, d2, mo, y = (int(x) for x in m.groups())
         try:
-            return date(2000 + y, mo, d1), date(2000 + y, mo, d2)
+            return date(_full_year(y), mo, d1), date(_full_year(y), mo, d2)
         except ValueError:
             return None, None
     m = RANGE_CROSS_MONTH_RE.match(s)
     if m:
         d1, mo1, d2, mo2, y = (int(x) for x in m.groups())
         try:
-            return date(2000 + y, mo1, d1), date(2000 + y, mo2, d2)
+            return date(_full_year(y), mo1, d1), date(_full_year(y), mo2, d2)
         except ValueError:
             return None, None
     return None, None
