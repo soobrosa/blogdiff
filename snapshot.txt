@@ -1,20 +1,7 @@
 === Gigs (gid 415332589) ===
-29.06.2026 | CocoRosie | Festsaal Kreuzberg
-29.06.2026 | December 10 | Frannz
-29.06.2026 | ShitKid / tba | Neue Zukunft
-29.06.2026 | JJerome87 (Joe Newman of alt-J): 'The Canyon' Q&A + Live Acoustic + Signing | Rough Trade Berlin
-29.06.2026 | Fritz Open Air 2026 w/ Ikkimel, Filow, Kayla Shyx u.v.m. | Waschhaus Potsdam
-30.06.2026 | Yami Safdie | Gretchen
-30.06.2026 | Sina Bathaie | Heimathafen Neukölln
-30.06.2026 | Cory Wong | Huxleys
-30.06.2026 | Alkaline Trio | Metropol
-30.06.2026 | Free Throw / Saturdays At Your Place / Pool Kids | Neue Zukunft
-30.06.2026 | Ghosts And Errors / Crystal Glass | Schokoladen
-30.06.2026 | Converge / Heriot / Boneflower/ Crouch | SO36
-30.06.2026 | Nick Cave + The Bad Seeds | Waldbühne
-30.06.2026 | Pixies - Celebrating 40 Years | Zitadelle Spandau
 01.07.2026 | miniLab #15 - Marina Cyrino, Liz Albee, Cate Hops | Ölbergkirche
 01.07.2026 | Foo Fighters / Idles / Fat Dog | Olympiastadion
+01.07.2026 | new | Cacao Munch | Schokoladen
 01.07.2026 | Son Sompe Pera / The Reptiles / Kumbia Ambassadors | SO36
 01.07.2026 | Replicat - Eintritt frei - Wild Wednesday | Wild At Heart
 01.07.2026 | A Perfect Circle | Zitadelle Spandau
@@ -24,12 +11,14 @@
 02.07.2026 | Bitume / Television Knockout | Schokoladen
 03.07.2026 | Art Critics Orchestra / Die!Landschaft / Fuck, Je T'aime / Gegenphase / Komandante / La Stampa / Mietminderung | Beate Uwe - Schillingstr 31
 03.07.2026 | Strung Out / The Corps / We Will Fly | Cassiopeia
+03.07.2026 | new | Adi Scotheque / Rasco | Schokoladen
 03.07.2026 | 6k United! | Uber Arena
 03.07.2026 | Os Estilhacos | Wild At Heart
 04.07.2026 | sold out | Finch | Alte Försterei
 04.07.2026 | sold out | Crucchi Gang - Luna di Luglio - Una Notte d’Estate con la Crucchi Gang | Freilichtbühne Weissensee
 04.07.2026 | cancelled | Eric Hutchinson | Mikropol
 04.07.2026 | Bayjoy, Güner Künier, Anthony Hüseyin & more - Berlin Global - Eintritt frei | Schlüterhof
+04.07.2026 | new | Anelis Assumpcao / Mayara Baptista | Schokoladen
 04.07.2026 | Letzte Hoffnung - Members of Fehlfarben + Nichts Performing the Best Of „Der KFC“ / ÖPNV | Tommy-Weisbecker-Haus
 04.07.2026 | Dikka | Uber Arena
 04.07.2026 | Rocktreff - 16 Bands Live / Eintritt frei - https://rocktreff.de/ - Tag 2 | Volkspark Mariendorf
@@ -43,6 +32,7 @@
 06.07.2026 | Ansa Sauermann | Kulturhaus Insel
 06.07.2026 | Bold / Drink Deep / tba | Neue Zukunft
 06.07.2026 | new | Bold / Ecotage / Drink Deep | Neue Zukunft
+06.07.2026 | new | Sisters Of Doom / U-Bahn Schubser | Schokoladen
 06.07.2026 | Sunn O))) / tba | Silent Green
 07.07.2026 | cancelled | Dua Saleh | Gretchen
 07.07.2026 | Isolation Berlin - Sommerinsel Open Air / Elfi | Kulturhaus Insel
@@ -54,7 +44,7 @@
 08.07.2026 | Dominique Fils-Aimé | Gretchen
 08.07.2026 | Backengrillen / tba | Neue Zukunft
 08.07.2026 | System Of A Down / Queens Of The Stone Age / Acid Bath | Olympiastadion
-08.07.2026 | The Schizophonics / tba | Schokoladen
+08.07.2026 | The Schizophonics / Blister | Schokoladen
 08.07.2026 | Michael McColgan And The Bomb Squad / Arrested Denial | SO36
 08.07.2026 | Robyn | Uber Arena
 08.07.2026 | Die Dunkle Seite Der Diskokugel - Eintritt frei - Wild Wednesday | Wild At Heart
@@ -64,8 +54,10 @@
 09.07.2026 | Poison Ruin / Gum / Clavv | SO36
 09.07.2026 | Mumford + Sons | Waldbühne
 09.07.2026 | Lower Class Brats / Red At Night | Wild At Heart
+10.07.2026 | new | Lady Lazarus - Instore Gig & Signing | Coretex Recordstore
 10.07.2026 | Tulipa Ruiz | Gretchen
 10.07.2026 | cancelled | Eli | Mikropol
+10.07.2026 | new | Wood In Di Fire | Schokoladen
 10.07.2026 | Electric Teds / Mental Shakedown | Wild At Heart
 10.07.2026 | sold out | The Cure / The Twilight Sad / Just Mustard | Wuhlheide
 11.07.2026 | Recycle: Neosignal Berlin feat. Phace + Buunschin | Gretchen
@@ -83,8 +75,10 @@
 13.07.2026 | Haevn | Classic Open Air
 13.07.2026 | Cút Lon / I Hate The Bouncers | Schokoladen
 14.07.2026 | House Of Protection | Mikropol
+14.07.2026 | new | Ghosts Of Berlin / Whirlpool | Schokoladen
 14.07.2026 | Marillion | Tempodrom
 15.07.2026 | Gum Bleed / Dummy Toys | Badehaus
+15.07.2026 | new | Toshin & The Teleporters | Schokoladen
 15.07.2026 | Foxy / Flatfood 56 | Wild At Heart
 16.07.2026 | G Sessions feat. Peter Somuah & more tba | Gretchen
 16.07.2026 | Pansy Division / tba | Lido
@@ -97,7 +91,6 @@
 17.07.2026 | Dobranotch | Maschinenhaus
 17.07.2026 | Dueja | Mikropol
 17.07.2026 | Odd Couple / Kmbynat Robotron | Neue Zukunft
-17.07.2026 | Echoes & Errors: Pris V / Fragil/Stabil | Schokoladen
 17.07.2026 | Hoffest - 36 Jahre Schokoladen - Tag 1 w/ Gibfum, Tremore, Lottalärm, Malmequer, Menstruationsmassaker | Schokoladen
 17.07.2026 | Silly - Open Air | Waschhaus Potsdam
 17.07.2026 | Zeit Driver - Record Release / tba | Wild At Heart
@@ -116,6 +109,7 @@
 21.07.2026 | Reggie Watts | Lido
 21.07.2026 | Glu | Mikropol
 22.07.2026 | The Molotovs | Kantine Berghain
+22.07.2026 | new | Golden Disco Ship / Oh No Noh | Schokoladen
 22.07.2026 | Undead Abuelas - Eintritt frei - Wild Wednesday | Wild At Heart
 23.07.2026 | Loveth Besamoh / Apelast | Schokoladen
 23.07.2026 | Adam Lambert | Uber Eats Music Hall
@@ -125,22 +119,27 @@
 24.07.2026 | Assembalage23 | Frannz
 24.07.2026 | Pabllo Vitar presents Club Vittar | Huxleys
 24.07.2026 | Liturgy / Machukha | Neue Zukunft
+24.07.2026 | new | Open Stage Punk Drag Night | Schokoladen
 24.07.2026 | Wolfpack / Not Tonight | Wild At Heart
 24.07.2026 | Wincent Weiss | Zitadelle Spandau
 25.07.2026 | Sundrowner Fest 5 w/ Lares, War, Endonomous, Bees Made Honey In The Vein Tree - Tag 2 | 52grad - An der Ostbahn 7
 25.07.2026 | cancelled | Vowws | Mikropol
 25.07.2026 | Faraquet | Neue Zukunft
+25.07.2026 | new | Cigarette Butt / Moppi Galoppi | Schokoladen
 25.07.2026 | The Crisps feat. Members of Radio Birdman, Lime Spiders, New Christs / Chris Masuak's Dog Soldier | Wild At Heart
 27.07.2026 | Kidd Voodoo | Columbia Theater
 27.07.2026 | Benedict Cork | Mikropol
+27.07.2026 | new | Ballyhoo / Launce | Schokoladen
 27.07.2026 | Lenny Kravitz | Uber Arena
 28.07.2026 | Yngwie Malmsteen | Huxleys
 28.07.2026 | The Queers / The 66ers | Wild At Heart
 29.07.2026 | Evolfo | Neue Zukunft
+29.07.2026 | new | Luna del Ciervo feat. Shumay / Misa Negra / San Pedro Bonfim | Schokoladen
 29.07.2026 | Tales For The Tillerman - Eintritt frei - Wild Wednesday | Wild At Heart
 30.07.2026 | Less Than Jake / A Wilhelm Scream / The Suicide Machine | Columbia Theater
 30.07.2026 | sold out | Black Label Society | Huxleys
 30.07.2026 | cancelled | Becks | Revier Südost
+30.07.2026 | new | Nothing Works | Schokoladen
 31.07.2026 | Sacred Reich / Sarcator | Lido
 31.07.2026 | The Lost Lyrics / The Resets | Schokoladen
 31.07.2026 | Evergreen Terrace / FxUxCxK | SO36
@@ -152,7 +151,7 @@
 01.08.2026 | Sophia. - Open Air | Waschhaus Potsdam
 01.08.2026 | Ruin Royal / tba | Wild At Heart
 01.08.2026 | Alligatoah | Wuhlheide
-02.08.2026 | Muncipal Waste / Battlecreek | Hole
+02.08.2026 | Municipal Waste / Battlecreek | Hole
 02.08.2026 | Thievery Corporation | Huxleys
 02.08.2026 | Molly Green | Kulturhaus Insel
 02.08.2026 | Good Riddance / Faster Disaster | SO36
@@ -185,7 +184,7 @@
 09.08.2026 | Magma Festival - Anthony Naples, Deki Alem und Joy Orbison plus more tba - Day 2 | RSO Berlin
 09.08.2026 | sold out | Turbostaat / Zhaat - Matinee-Show | Schokoladen
 09.08.2026 | Haseeeb Iqbal - Sip! - 15 Uhr / open air | Zenner
-11.08.2026 | Ratos De Porão | Cassiopeia
+11.08.2026 | Ratos De Porão / Ruinache | Cassiopeia
 11.08.2026 | Bonnie Prince Billy / Dawn Landes | RBB Sendesaal
 11.08.2026 | Total Chaos / Rumkicks / The Dollheads | SO36
 12.08.2026 | cancelled | Missio | Frannz
@@ -258,11 +257,12 @@
 29.08.2026 | Swing'It | Säälchen
 29.08.2026 | Ben Racken / Sheef | Schokoladen
 29.08.2026 | Elle + L's Festival - international female multi-genre festival - Day 1 - https://www.elleandls.com/ | Several Locations
+29.08.2026 | new | Leaether Strip / Rhys Fulber | Urban Spree
 29.08.2026 | Joji | Velodrom
 29.08.2026 | Smith + Smart / Meckie Berlinutz | Wild At Heart
 29.08.2026 | Klassentreffen Festival Tag 1 w/ Sido, Kool Savas, Max Herre + Joy Denalane, Afrob + Ferris MC, Eko Fresh u.v.a. | Zentraler Festplatz
 29.08.2026 | sold out | Trailerpark & Friends Open Air 2026 - Day 2 | Zitadelle Spandau
-30.08.2026 | Buzz Kull | Cassiopeia
+30.08.2026 | Buzz Kull / Body Deluxe / Dream Council | Cassiopeia
 30.08.2026 | Diana Ezerex | Kulturhaus Insel
 30.08.2026 | Wine Lips / The Boojums | Lido
 30.08.2026 | Dead Moon - a night with Toody Cole and her band / Top Down - additional show | Neue Zukunft
@@ -294,6 +294,7 @@
 04.09.2026 | Alex Spencer | Privatclub
 04.09.2026 | Marcos Coll - Album Release Concert | Quasimodo
 04.09.2026 | Lola / Muttis Lieblinge | Wild At Heart
+05.09.2026 | new | Buzzcocks - Celebrating 50 years of Buzzcocks | Astra
 05.09.2026 | Kein Bock Auf Nazis - 20 Jahre Stabil - Familienfest + Konzert mit Paula Carolina, ZSK und anderen | Columbiahalle
 05.09.2026 | Drangsal | Heimathafen Neukölln
 05.09.2026 | Modern English | Hole
@@ -384,7 +385,7 @@
 17.09.2026 | Fear Factory / Crystal Lake / Hate / Nocturnal Affair | Huxleys
 17.09.2026 | Dice | Mikropol
 17.09.2026 | Nuqoosh | Pierre Boulez Saal
-17.09.2026 | 1000 Rabbits / tba | Schokoladen
+17.09.2026 | 1000 Rabbits / Lande Hekt | Schokoladen
 17.09.2026 | Sex Mask | Urban Spree
 17.09.2026 | Berlin Beat Invasion No. 8 - Day 1 w/ Cream Soda + aftershow dance party | Wiener Blut
 17.09.2026 | Scarfold / tba | Wild At Heart
@@ -413,6 +414,7 @@
 19.09.2026 | Maria Iskariot | Urban Spree
 19.09.2026 | Kackbratze / Band Ohne Anspruch | Wild At Heart
 20.09.2026 | Brigitte Calls Me Baby | Huxleys
+20.09.2026 | new | Lovejoy | Metropol
 20.09.2026 | sold out | Pale Waves | Mikropol
 20.09.2026 | Bruno Kawelke | Prachtwerk
 20.09.2026 | Anja Huwe / Xmal Deutschland @ Sonic Morgue | Silent Green
@@ -476,6 +478,7 @@
 27.09.2026 | Holly Humberstone | Metropol
 27.09.2026 | Soulified | Privatclub
 28.09.2026 | Turbopaola | Columbia Theater
+28.09.2026 | new | Dirk von Lowtzow - "Detektive" Buchpremiere - Lesung mit Konzert | Festsaal Kreuzberg
 28.09.2026 | María José Llergo | Frannz
 28.09.2026 | Sessa | Gretchen
 28.09.2026 | The Lemon Twigs | Hole
@@ -1013,6 +1016,7 @@
 17.11.2026 | Hip Hop Lebt - Live Podcast + Konzert | Heimathafen Neukölln
 17.11.2026 | The Wedding Present - Seamonsters 35th Anniversary Tour | Hole
 17.11.2026 | Kingfishr | Huxleys
+17.11.2026 | new | Flora Hibbred | Neue Zukunft
 17.11.2026 | Hatsune Miku | Velodrom
 18.11.2026 | Earth Crisis / Moral Law | Cassiopeia
 18.11.2026 | Despiced Icon / Carnifex / Suffocation | Columbia Theater
@@ -1489,19 +1493,19 @@
 09.04.2027 | William The Conqueror | Mikropol
 09.04.2027 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
 10.04.2027 | Mono Inc. | Admiralspalast
-10.04.2027 | Josh. | Columbia Theater
-10.04.2027 | Eläkeläiset | Festsaal Kreuzberg
-10.04.2027 | Leony | Huxleys
-10.04.2027 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+10.04.27 | Josh. | Columbia Theater
+10.04.27 | Eläkeläiset | Festsaal Kreuzberg
+10.04.27 | Leony | Huxleys
+10.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
 11.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
-12.04.27 | Monet192 | Huxleys
-13.04.27 | Luna Simao | Modus
+12.4.27 | Monet192 | Huxleys
+13.4.27 | Luna Simao | Modus
 13.04.27 | Ema Nikolovska & Hikaru Kanki | Pierre Boulez Saal
-14.04.27 | Laurenz Nikolaus | Badehaus
-14.4.27 | Hinnerk Köhn | Waschhaus Potsdam
-15.4.27 | Raum27 | Huxleys
+14.4.27 | Laurenz Nikolaus | Badehaus
+14.04.27 | Hinnerk Köhn | Waschhaus Potsdam
+15.04.27 | Raum27 | Huxleys
 15.04.27 | Patricia Brennan | Pierre Boulez Saal
-16.4.27 | Alless. | Maaya
+16.04.27 | Alless. | Maaya
 16.04.27 | Marc Atlas | Mikropol
 16.04.27 | Nasmé Ensemble | Pierre Boulez Saal
 17.04.27 | Victory | Hole
@@ -1550,8 +1554,8 @@
 13.06.27 | Boulez Ensemble & Jörg Widmann | Pierre Boulez Saal
 15.06.27 | Herbert Grönemeyer | Waldbühne
 21.07.27 | Rush | Uber Arena
-20.08.27 | Die Fantastischen Vier | Waldbühne
-11.09.27 | Danger Dan | Wuhlheide
+20.8.27 | Die Fantastischen Vier | Waldbühne
+11.9.27 | Danger Dan | Wuhlheide
 02.10.27 | Lychee Lassi | Gretchen
 08.10.27 | Tom Twers | Huxleys
 23.10.27 | Subway To Sally | Passionskirche
@@ -1577,7 +1581,6 @@
 22.-31.01.27 | CTM 2027 - https://www.ctm-festival.de/ | Several Locations
 24.-25.07.26 | Sundrowner Fest 5 w/ Lares, War, Endonomous, Bees Made Honey In The Vein Tree | 52grad - An der Ostbahn 7
 24.-29.08.26 | Pop Kultur Festival 2026 - https://www.pop-kultur.berlin/ | Several Locations
-26.-27.06.26 | Pothead's Potstock Festival 2026 - https://www.potstock.com/potstock_home.html | Hohenlobbese/Bad Belzig
 28.-29.08.26 | sold out | Trailerpark & Friends Open Air 2026 | Zitadelle Spandau
 29.-30.08.26 | Elle + L's Festival - international female multi-genre festival - https://www.elleandls.com/ | Several Locations
 29.-30.08.26 | Klassentreffen Festival - w/ Sido, Kool Savas, Max Herre + Joy Denalane, Afrob + Ferris MC, Eko Fresh u.v.a. | Zentraler Festplatz
