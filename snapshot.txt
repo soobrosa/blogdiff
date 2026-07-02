@@ -1,10 +1,4 @@
 === Gigs (gid 415332589) ===
-01.07.2026 | miniLab #15 - Marina Cyrino, Liz Albee, Cate Hops | Ölbergkirche
-01.07.2026 | Foo Fighters / Idles / Fat Dog | Olympiastadion
-01.07.2026 | new | Cacao Munch | Schokoladen
-01.07.2026 | Son Sompe Pera / The Reptiles / Kumbia Ambassadors | SO36
-01.07.2026 | Replicat - Eintritt frei - Wild Wednesday | Wild At Heart
-01.07.2026 | A Perfect Circle | Zitadelle Spandau
 02.07.2026 | Delta Goodrem | Frannz
 02.07.2026 | Dygl | Neue Zukunft
 02.07.2026 | The Datsuns / Operators | Neue Zukunft
@@ -206,6 +200,7 @@
 16.08.2026 | Nathan Evans + The Saint Phxn Band / Ewan McKenna + Connor Skinner | Columbia Theater
 16.08.2026 | Dead Fish | SO36
 16.08.2026 | Coco María - Sip! - 15 Uhr / open air | Zenner
+17.08.2026 | new | Evening Elephants | Kantine Berghain
 17.08.2026 | Borderline | Mikropol
 18.08.2026 | Rose Tattoo / Velvet Rush | Astra
 18.08.2026 | Ron Sexsmith | Frannz
@@ -646,6 +641,7 @@
 15.10.2026 | new | Gewalt - 10 Jahre Gewalt Gala feat. Kevin Kuhn, Fee Kürten, Matthias Mewferst, Florian Pühs | Neue Zukunft
 15.10.2026 | Morgenstern Trio | Pierre Boulez Saal
 15.10.2026 | Berre | Prachtwerk
+15.10.2026 | new | I Promised The World | Privatclub
 15.10.2026 | 54 Ultra | Säälchen
 15.10.2026 | Tito + Tarantula - Best Of Tour | SO36
 15.10.2026 | Annett Louisan | Tempodrom
@@ -800,6 +796,7 @@
 28.10.2026 | Black River Delta | Mikropol
 28.10.2026 | The Clockworks | Neue Zukunft
 28.10.2026 | Susie Ibarra | Pierre Boulez Saal
+28.10.2026 | new | Chanel Beads / ulrika's bedroom | Silent Green
 28.10.2026 | Codefendants | SO36
 28.10.2026 | The Fray | Tempodrom
 28.10.2026 | Lip Critic | Urban Spree
@@ -1314,6 +1311,7 @@
 29.12.2026 | Extrabreit | Hole
 29.12.2026 | Sir András Schiff, Jörg Widmann & Isabelle Faust | Pierre Boulez Saal
 30.12.2026 | Alexa Feser | Columbia Theater
+30.12.2026 | new | Berliner Weisse / Bernauer Kneipenchor / Derry | SO36
 30.12.2026 | Eisheilige Nacht w/ Subway To Sally, Fiddler's Green, Manntra, Saint City Orchestra | Waschhaus Potsdam
 31.12.2026 | Sir András Schiff, Jörg Widmann & Clemens Hagen | Pierre Boulez Saal
 02.01.2027 | Sir András Schiff & Julian Prégardien | Pierre Boulez Saal
@@ -1493,17 +1491,17 @@
 09.04.2027 | William The Conqueror | Mikropol
 09.04.2027 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
 10.04.2027 | Mono Inc. | Admiralspalast
-10.04.27 | Josh. | Columbia Theater
-10.04.27 | Eläkeläiset | Festsaal Kreuzberg
+10.04.2027 | Josh. | Columbia Theater
+10.04.2027 | Eläkeläiset | Festsaal Kreuzberg
 10.04.27 | Leony | Huxleys
 10.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
 11.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
-12.4.27 | Monet192 | Huxleys
-13.4.27 | Luna Simao | Modus
-13.04.27 | Ema Nikolovska & Hikaru Kanki | Pierre Boulez Saal
+12.04.27 | Monet192 | Huxleys
+13.04.27 | Luna Simao | Modus
+13.4.27 | Ema Nikolovska & Hikaru Kanki | Pierre Boulez Saal
 14.4.27 | Laurenz Nikolaus | Badehaus
 14.04.27 | Hinnerk Köhn | Waschhaus Potsdam
-15.04.27 | Raum27 | Huxleys
+15.4.27 | Raum27 | Huxleys
 15.04.27 | Patricia Brennan | Pierre Boulez Saal
 16.04.27 | Alless. | Maaya
 16.04.27 | Marc Atlas | Mikropol
@@ -1518,6 +1516,7 @@
 22.04.27 | sold out | And One | Columbia Theater
 23.04.27 | Haggefugg | Cassiopeia
 23.04.27 | Rafael Fingerlos & Joseph Middleton | Pierre Boulez Saal
+24.04.27 | new | Moonkid | Frannz
 24.04.27 | The Coronas | Frannz
 24.04.27 | Xavi | Gretchen
 25.04.27 | Moslem Rahal & Ensemble | Pierre Boulez Saal
@@ -1554,9 +1553,9 @@
 13.06.27 | Boulez Ensemble & Jörg Widmann | Pierre Boulez Saal
 15.06.27 | Herbert Grönemeyer | Waldbühne
 21.07.27 | Rush | Uber Arena
-20.8.27 | Die Fantastischen Vier | Waldbühne
+20.08.27 | Die Fantastischen Vier | Waldbühne
 11.9.27 | Danger Dan | Wuhlheide
-02.10.27 | Lychee Lassi | Gretchen
+2.10.27 | Lychee Lassi | Gretchen
 08.10.27 | Tom Twers | Huxleys
 23.10.27 | Subway To Sally | Passionskirche
 30.10.27 | Andrea Berg | Uber Arena
