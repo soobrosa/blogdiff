@@ -24,7 +24,6 @@
 05.07.2026 | Rocktreff - 16 Bands Live / Eintritt frei - https://rocktreff.de/ - Tag 3 | Volkspark Mariendorf
 06.07.2026 | Alexander Abreu Y Havana D'Primera | Kesselhaus
 06.07.2026 | Ansa Sauermann | Kulturhaus Insel
-06.07.2026 | Bold / Drink Deep / tba | Neue Zukunft
 06.07.2026 | new | Bold / Ecotage / Drink Deep | Neue Zukunft
 06.07.2026 | new | Sisters Of Doom / U-Bahn Schubser | Schokoladen
 06.07.2026 | Sunn O))) / tba | Silent Green
@@ -291,7 +290,7 @@
 04.09.2026 | Lola / Muttis Lieblinge | Wild At Heart
 05.09.2026 | new | Buzzcocks - Celebrating 50 years of Buzzcocks | Astra
 05.09.2026 | Kein Bock Auf Nazis - 20 Jahre Stabil - Familienfest + Konzert mit Paula Carolina, ZSK und anderen | Columbiahalle
-05.09.2026 | Drangsal | Heimathafen Neukölln
+05.09.2026 | Drangsal - 10 Jahre »Harieschaim« / Die Mausis | Heimathafen Neukölln
 05.09.2026 | Modern English | Hole
 05.09.2026 | The Dresden Dolls | Huxleys
 05.09.2026 | cancelled | Traumatin | Lido
@@ -534,6 +533,7 @@
 04.10.2026 | Say Yes Dog | Kesselhaus
 04.10.2026 | BRKN | Metropol
 04.10.2026 | Wüstenberg / Redwood | Mikropol
+04.10.2026 | new | LSD & The Search for God / Yumi Jun | Neue Zukunft
 04.10.2026 | LSD + The Search for God | Neue Zukunft
 04.10.2026 | Belcea Quartet | Pierre Boulez Saal
 04.10.2026 | Veronica Fusaro | Prachtwerk
@@ -742,6 +742,7 @@
 23.10.2026 | Kärbholz | Huxleys
 23.10.2026 | Cléa Vincent | Kantine Berghain
 23.10.2026 | Gazelle | Kleine Arena Tempodrom
+23.10.2026 | new | Margot Erkner / Kpt. Plasto | Loge
 23.10.2026 | Hank | Maschinenhaus
 23.10.2026 | Thizzy52 | Metropol
 23.10.2026 | Yung Pepp | Modus
@@ -1037,6 +1038,7 @@
 19.11.2026 | Eluveitie | Huxleys
 19.11.2026 | Imperial Triumphant / Knoll | Neue Zukunft
 19.11.2026 | Infinity Song | Säälchen
+19.11.2026 | new | Die Anstalt | SO36
 19.11.2026 | The Pogues | Tempodrom
 19.11.2026 | Freya Skye | Uber Eats Music Hall
 20.11.2026 | Nie Und Nimmer | Columbia Theater
@@ -1428,6 +1430,7 @@
 01.03.2027 | Kovacs | Metropol
 02.03.2027 | Marie-Laure Garnier & Célia Oneto Bensaid | Pierre Boulez Saal
 03.03.2027 | The Next Movement | Gretchen
+03.03.2027 | new | Madeline Juno | Huxleys
 03.03.2027 | Midge Ure And Band Electronica | Metropol
 04.03.2027 | Blanco White | Huxleys
 04.03.2027 | Nduduzo Makhathini & Omagugu; Special Guest: Ganavya | Pierre Boulez Saal
@@ -1490,18 +1493,19 @@
 09.04.2027 | sold out | Die Ärzte | Max-Schmeling-Halle
 09.04.2027 | William The Conqueror | Mikropol
 09.04.2027 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
-10.04.2027 | Mono Inc. | Admiralspalast
-10.04.2027 | Josh. | Columbia Theater
-10.04.2027 | Eläkeläiset | Festsaal Kreuzberg
+10.04.27 | Mono Inc. | Admiralspalast
+10.04.27 | Josh. | Columbia Theater
+10.04.27 | Eläkeläiset | Festsaal Kreuzberg
 10.04.27 | Leony | Huxleys
-10.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
-11.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+10.04.27 | new | Tulpe | Lido
+10.4.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+11.4.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
 12.04.27 | Monet192 | Huxleys
-13.04.27 | Luna Simao | Modus
-13.4.27 | Ema Nikolovska & Hikaru Kanki | Pierre Boulez Saal
-14.4.27 | Laurenz Nikolaus | Badehaus
+13.4.27 | Luna Simao | Modus
+13.04.27 | Ema Nikolovska & Hikaru Kanki | Pierre Boulez Saal
+14.04.27 | Laurenz Nikolaus | Badehaus
 14.04.27 | Hinnerk Köhn | Waschhaus Potsdam
-15.4.27 | Raum27 | Huxleys
+15.04.27 | Raum27 | Huxleys
 15.04.27 | Patricia Brennan | Pierre Boulez Saal
 16.04.27 | Alless. | Maaya
 16.04.27 | Marc Atlas | Mikropol
@@ -1550,12 +1554,12 @@
 06.06.27 | sold out | Die Ärzte | Wuhlheide
 07.06.27 | Akademiekonzert - Kammermusik mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
 08.06.27 | Kristian Bezuidenhout | Pierre Boulez Saal
-13.06.27 | Boulez Ensemble & Jörg Widmann | Pierre Boulez Saal
-15.06.27 | Herbert Grönemeyer | Waldbühne
+13.6.27 | Boulez Ensemble & Jörg Widmann | Pierre Boulez Saal
+15.6.27 | Herbert Grönemeyer | Waldbühne
 21.07.27 | Rush | Uber Arena
 20.08.27 | Die Fantastischen Vier | Waldbühne
-11.9.27 | Danger Dan | Wuhlheide
-2.10.27 | Lychee Lassi | Gretchen
+11.09.27 | Danger Dan | Wuhlheide
+02.10.27 | Lychee Lassi | Gretchen
 08.10.27 | Tom Twers | Huxleys
 23.10.27 | Subway To Sally | Passionskirche
 30.10.27 | Andrea Berg | Uber Arena
