@@ -1,28 +1,4 @@
 === Gigs (gid 415332589) ===
-03.07.2026 | Art Critics Orchestra / Die!Landschaft / Fuck, Je T'aime / Gegenphase / Komandante / La Stampa / Mietminderung | Beate Uwe - Schillingstr 31
-03.07.2026 | Strung Out / The Corps / We Will Fly | Cassiopeia
-03.07.2026 | Adi Scotheque / Rasco | Schokoladen
-03.07.2026 | 6k United! | Uber Arena
-03.07.2026 | Os Estilhacos | Wild At Heart
-04.07.2026 | sold out | Finch | Alte Försterei
-04.07.2026 | sold out | Crucchi Gang - Luna di Luglio - Una Notte d’Estate con la Crucchi Gang | Freilichtbühne Weissensee
-04.07.2026 | cancelled | Eric Hutchinson | Mikropol
-04.07.2026 | Bayjoy, Güner Künier, Anthony Hüseyin & more - Berlin Global - Eintritt frei | Schlüterhof
-04.07.2026 | Anelis Assumpcao / Mayara Baptista | Schokoladen
-04.07.2026 | Letzte Hoffnung - Members of Fehlfarben + Nichts Performing the Best Of „Der KFC“ / ÖPNV | Tommy-Weisbecker-Haus
-04.07.2026 | Dikka | Uber Arena
-04.07.2026 | Rocktreff - 16 Bands Live / Eintritt frei - https://rocktreff.de/ - Tag 2 | Volkspark Mariendorf
-04.07.2026 | Nasty Neighbours / Not The Ones | Wild At Heart
-05.07.2026 | Down By The River Festival w/ Seth Faergolzia + Freschard + Räubertochter + Paloma 004 + Sonic Soup + BGTCB u.v.a. | About Blank
-05.07.2026 | Jimi Prasad Orchestra | Gretchen
-05.07.2026 | Madness | Tempodrom
-05.07.2026 | Dikka | Uber Arena
-05.07.2026 | Rocktreff - 16 Bands Live / Eintritt frei - https://rocktreff.de/ - Tag 3 | Volkspark Mariendorf
-06.07.2026 | Alexander Abreu Y Havana D'Primera | Kesselhaus
-06.07.2026 | Ansa Sauermann | Kulturhaus Insel
-06.07.2026 | Bold / Ecotage / Drink Deep | Neue Zukunft
-06.07.2026 | Sisters Of Doom / U-Bahn Schubser | Schokoladen
-06.07.2026 | Sunn O))) / tba | Silent Green
 07.07.2026 | cancelled | Dua Saleh | Gretchen
 07.07.2026 | Isolation Berlin - Sommerinsel Open Air / Elfi | Kulturhaus Insel
 07.07.2026 | Macabre | Neue Zukunft
@@ -70,7 +46,7 @@
 15.07.2026 | Toshin & The Teleporters | Schokoladen
 15.07.2026 | Foxy / Flatfood 56 | Wild At Heart
 16.07.2026 | G Sessions feat. Peter Somuah & more tba | Gretchen
-16.07.2026 | Pansy Division / tba | Lido
+16.07.2026 | Pansy Division / Eat Lipstick / Bleach & The Bumholes | Lido
 16.07.2026 | Culture Wars | Mikropol
 16.07.2026 | Doom Gong / Ixzhilion | Neue Zukunft
 16.07.2026 | Juanes | Uber Eats Music Hall
@@ -100,8 +76,8 @@
 22.07.2026 | The Molotovs | Kantine Berghain
 22.07.2026 | Golden Disco Ship / Oh No Noh | Schokoladen
 22.07.2026 | Undead Abuelas - Eintritt frei - Wild Wednesday | Wild At Heart
-23.07.2026 | Loveth Besamoh / Apelast | Schokoladen
 23.07.2026 | new venue | Adam Lambert | Huxleys
+23.07.2026 | Loveth Besamoh / Apelast | Schokoladen
 23.07.2026 | Sorry About Your Daughter / Ape Shifter | Wild At Heart
 23.07.2026 | Seal | Zitadelle Spandau
 24.07.2026 | Sundrowner Fest 5 w/ Lares, War, Endonomous, Bees Made Honey In The Vein Tree - Tag 1 | 52grad - An der Ostbahn 7
@@ -128,7 +104,7 @@
 30.07.2026 | Less Than Jake / A Wilhelm Scream / The Suicide Machine | Columbia Theater
 30.07.2026 | sold out | Black Label Society | Huxleys
 30.07.2026 | cancelled | Becks | Revier Südost
-30.07.2026 | Nothing Works | Schokoladen
+30.07.2026 | Nothing Works / Swiss Pleasure | Schokoladen
 31.07.2026 | Sacred Reich / Sarcator | Lido
 31.07.2026 | The Lost Lyrics / The Resets | Schokoladen
 31.07.2026 | Evergreen Terrace / FxUxCxK | SO36
@@ -368,6 +344,8 @@
 16.09.2026 | h3nce | Cassiopeia
 16.09.2026 | Lime Garden | Frannz
 16.09.2026 | Gia Margaret | Genezarethkirche
+16.09.2026 | new | Gia Margaret / Resavoir | Genezarethkirche
+16.09.2026 | new | Olgy Myko | Kantine Berghain
 16.09.2026 | Cory Hanson | Neue Zukunft
 16.09.2026 | Mazen El Bagir & Ensemble | Pierre Boulez Saal
 16.09.2026 | Maia Manser | Privatclub
@@ -517,6 +495,7 @@
 02.10.2026 | PHYSICAL GRAFFITI - "Performing Led Zeppelin” | Lindenpark Potsdam
 02.10.2026 | Nena | Max-Schmeling-Halle
 02.10.2026 | Kolja Goldstein | Metropol
+02.10.2026 | new | Amelie Lens | Uber Eats Music Hall
 02.10.2026 | UFO361 | Velodrom
 02.10.2026 | Waltari / tba | Wild At Heart
 03.10.2026 | Shoreline | Badehaus
@@ -941,6 +920,7 @@
 10.11.2026 | Bleachers | Columbiahalle
 10.11.2026 | True Loves | Gretchen
 10.11.2026 | feeble little horse | Kantine Berghain
+10.11.2026 | new | Sons Of Legion | Lido
 10.11.2026 | Red Hot Chili Pipers | Mikropol
 10.11.2026 | Holy Fawn / Outlander | Privatclub
 10.11.2026 | Poppy Ackroyd | Silent Green
@@ -1041,7 +1021,7 @@
 19.11.2026 | Eluveitie | Huxleys
 19.11.2026 | Imperial Triumphant / Knoll | Neue Zukunft
 19.11.2026 | Infinity Song | Säälchen
-19.11.2026 | Die Anstalt | SO36
+19.11.2026 | Die Anstalt / Güner Künier / The Pleasure Majenta | SO36
 19.11.2026 | The Pogues | Tempodrom
 19.11.2026 | Freya Skye | Uber Eats Music Hall
 20.11.2026 | Nie Und Nimmer | Columbia Theater
@@ -1074,6 +1054,7 @@
 21.11.2026 | The Prodigy | Velodrom
 21.11.2026 | Krashkarma | Wild At Heart
 22.11.2026 | Klone | Bi Nuu
+22.11.2026 | new | Boy Harsher | Columbiahalle
 22.11.2026 | Fatoumata Diawara | Festsaal Kreuzberg
 22.11.2026 | Joan As A Police Woman | Grosser Sendesaal RBB
 22.11.2026 | Genesis Owusu | Hole
@@ -1296,6 +1277,7 @@
 19.12.2026 | Veysel | Hole
 19.12.2026 | Orgi's Weihnachtsshow | Huxleys
 19.12.2026 | DxBxSx | Neue Zukunft
+19.12.2026 | new | Bonez MC & Raf Camora | Uber Arena
 20.12.2026 | sold out | Sidos Weihnachtsshow 2026 | Columbiahalle
 20.12.2026 | The Ocean / Hypno5e / Pothamus | Kesselhaus
 20.12.2026 | Kadavar / Earth Tongue / Scott Hepple & The Sun Band | SO36
@@ -1448,6 +1430,7 @@
 06.03.2027 | new | Bombus | Mikropol
 06.03.2027 | WIEŻE FABRY - Sky's The Limit! Fest | Neue Zukunft
 06.03.2027 | MiA. | Waschhaus Potsdam
+07.03.2027 | new | The Haunted Youth | Columbia Theater
 08.03.2027 | Waed Bouhassoun & Orpheus 21 | Pierre Boulez Saal
 09.03.2027 | Turnover / Nothing | Festsaal Kreuzberg
 09.03.2027 | Elternzeitkonzert: Waed Bouhassoun & Orpheus 21 | Pierre Boulez Saal
@@ -1493,32 +1476,32 @@
 04.04.2027 | Yungmon + Lyran Dasz | Lido
 07.04.2027 | Quartet Amabile | Pierre Boulez Saal
 08.04.2027 | sold out | Die Ärzte | Max-Schmeling-Halle
-08.04.27 | Ian Hooper | Metropol
-09.04.27 | Kati K | Columbia Theater
-09.04.27 | sold out | Die Ärzte | Max-Schmeling-Halle
-09.04.27 | William The Conqueror | Mikropol
-09.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
-10.4.27 | Mono Inc. | Admiralspalast
-10.4.27 | Josh. | Columbia Theater
-10.04.27 | Eläkeläiset | Festsaal Kreuzberg
-10.4.27 | Leony | Huxleys
-10.04.27 | Tulpe | Lido
-10.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
-11.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
-12.04.27 | Monet192 | Huxleys
-13.04.27 | Luna Simao | Modus
-13.04.27 | Ema Nikolovska & Hikaru Kanki | Pierre Boulez Saal
-14.04.27 | Laurenz Nikolaus | Badehaus
-14.04.27 | Hinnerk Köhn | Waschhaus Potsdam
+08.04.2027 | Ian Hooper | Metropol
+09.04.2027 | Kati K | Columbia Theater
+09.04.2027 | sold out | Die Ärzte | Max-Schmeling-Halle
+09.04.2027 | William The Conqueror | Mikropol
+09.04.2027 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+10.04.2027 | Mono Inc. | Admiralspalast
+10.04.2027 | Josh. | Columbia Theater
+10.04.2027 | Eläkeläiset | Festsaal Kreuzberg
+10.04.2027 | Leony | Huxleys
+10.04.2027 | Tulpe | Lido
+10.04.2027 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+11.04.2027 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+12.04.2027 | Monet192 | Huxleys
+13.04.2027 | Luna Simao | Modus
+13.04.2027 | Ema Nikolovska & Hikaru Kanki | Pierre Boulez Saal
+14.04.2027 | Laurenz Nikolaus | Badehaus
+14.04.2027 | Hinnerk Köhn | Waschhaus Potsdam
 15.04.27 | Raum27 | Huxleys
 15.04.27 | Patricia Brennan | Pierre Boulez Saal
 16.04.27 | Alless. | Maaya
 16.04.27 | Marc Atlas | Mikropol
 16.04.27 | Nasmé Ensemble | Pierre Boulez Saal
-17.04.27 | Victory | Hole
-18.04.27 | Bibiza | Columbiahalle
+17.4.27 | Victory | Hole
+18.4.27 | Bibiza | Columbiahalle
 18.04.27 | Belcea Quartet | Pierre Boulez Saal
-18.04.27 | Michèl von Wussow | Privatclub
+18.4.27 | Michèl von Wussow | Privatclub
 20.04.27 | Akademiekonzert - Kammermusik mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
 21.04.27 | Junyan Chen | Pierre Boulez Saal
 22.04.27 | Katlix | Badehaus
@@ -1554,8 +1537,8 @@
 28.05.27 | Kirill Gerstein & Gurdjieff Ensemble | Pierre Boulez Saal
 29.05.27 | Heath Quartet | Pierre Boulez Saal
 01.06.27 | John Vincent III | Privatclub
-5.6.27 | Akademiekonzert - Orchester der Barenboim-Said Akademie & Nabil Shehata | Pierre Boulez Saal
-5.6.27 | sold out | Die Ärzte | Wuhlheide
+05.06.27 | Akademiekonzert - Orchester der Barenboim-Said Akademie & Nabil Shehata | Pierre Boulez Saal
+05.06.27 | sold out | Die Ärzte | Wuhlheide
 06.06.27 | sold out | Die Ärzte | Wuhlheide
 07.06.27 | Akademiekonzert - Kammermusik mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
 08.06.27 | Kristian Bezuidenhout | Pierre Boulez Saal
@@ -1563,8 +1546,8 @@
 15.06.27 | Herbert Grönemeyer | Waldbühne
 21.07.27 | Rush | Uber Arena
 20.08.27 | Die Fantastischen Vier | Waldbühne
-11.9.27 | Danger Dan | Wuhlheide
-2.10.27 | Lychee Lassi | Gretchen
+11.09.27 | Danger Dan | Wuhlheide
+02.10.27 | Lychee Lassi | Gretchen
 08.10.27 | Tom Twers | Huxleys
 23.10.27 | Subway To Sally | Passionskirche
 30.10.27 | Andrea Berg | Uber Arena
