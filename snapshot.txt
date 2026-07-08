@@ -1,10 +1,4 @@
 === Gigs (gid 415332589) ===
-07.07.2026 | cancelled | Dua Saleh | Gretchen
-07.07.2026 | Isolation Berlin - Sommerinsel Open Air / Elfi | Kulturhaus Insel
-07.07.2026 | Macabre | Neue Zukunft
-07.07.2026 | Sunn O))) / tba | Silent Green
-07.07.2026 | Curtis Harding | Waschhaus Potsdam
-07.07.2026 | Morrissey | Zitadelle Spandau
 08.07.2026 | sold out | Angus + Julia Stone | Astra
 08.07.2026 | Dominique Fils-Aimé | Gretchen
 08.07.2026 | Backengrillen / tba | Neue Zukunft
@@ -29,7 +23,7 @@
 11.07.2026 | Jigitz | Kantine Berghain
 11.07.2026 | sold out | Die Toten Hosen / Beatsteaks / The Stranglers | Olympiastadion
 11.07.2026 | Moloch / Pink Wonder | Schokoladen
-11.07.2026 | Werwolf In Aspik / Adventure Team | Villa Kuriosum
+11.07.2026 | Werwolf In Aspik / Adventure Team - 15 Uhr | Villa Kuriosum
 11.07.2026 | Pet Shop Boys | Waldbühne
 11.07.2026 | The Lamplighters / Die Ausreden - Benefizshow | Wild At Heart
 11.07.2026 | sold out | The Cure / The Twilight Sad / Just Mustard | Wuhlheide
@@ -39,7 +33,7 @@
 12.07.2026 | sold out | The Cure / The Twilight Sad / Just Mustard | Wuhlheide
 13.07.2026 | Haevn | Classic Open Air
 13.07.2026 | Cút Lon / I Hate The Bouncers | Schokoladen
-14.07.2026 | House Of Protection | Mikropol
+14.07.2026 | sold out | House Of Protection | Mikropol
 14.07.2026 | Ghosts Of Berlin / Whirlpool | Schokoladen
 14.07.2026 | Marillion | Tempodrom
 15.07.2026 | Gum Bleed / Dummy Toys | Badehaus
@@ -77,6 +71,7 @@
 22.07.2026 | Golden Disco Ship / Oh No Noh | Schokoladen
 22.07.2026 | Undead Abuelas - Eintritt frei - Wild Wednesday | Wild At Heart
 23.07.2026 | new venue | Adam Lambert | Huxleys
+23.07.2026 | new | The Pleasure Majente / Sometimes With Others / Nochteff | OGH
 23.07.2026 | Loveth Besamoh / Apelast | Schokoladen
 23.07.2026 | Sorry About Your Daughter / Ape Shifter | Wild At Heart
 23.07.2026 | Seal | Zitadelle Spandau
@@ -119,6 +114,7 @@
 02.08.2026 | Municipal Waste / Battlecreek | Hole
 02.08.2026 | Thievery Corporation | Huxleys
 02.08.2026 | Molly Green | Kulturhaus Insel
+02.08.2026 | new | Blitzer / Snitsh Pitsh | OGH
 02.08.2026 | Good Riddance / Faster Disaster | SO36
 03.08.2026 | Soulfly | Columbia Theater
 03.08.2026 | H2O / tba | Lido
@@ -143,6 +139,7 @@
 08.08.2026 | Recycle: 15 Years Flexout Audio | Gretchen
 08.08.2026 | Magma Festival - Anthony Naples, Deki Alem und Joy Orbison plus more tba - Day 1 | RSO Berlin
 08.08.2026 | EA80 - Hofkonzert | Schokoladen
+08.08.2026 | new | Fleischfressende Pflanzen | Teepeeland
 08.08.2026 | Raw Kings Rats / Boogie Trash | Wild At Heart
 08.08.2026 | Electric Callboy | Wuhlheide
 09.08.2026 | EA80 / Das Nest | Cassiopeia
@@ -193,6 +190,7 @@
 22.08.2026 | Lilith + The Noise Boys / The Giraffe Men feat. Marietta's Sister | Wild At Heart
 22.08.2026 | sold out | Kraftklub | Wuhlheide
 23.08.2026 | Young Rebel Set | Cassiopeia
+23.08.2026 | new | Fleischfressende Pflanzen | Mellenseepark
 23.08.2026 | Kyle Toole & Millie McKee / Zapa Records - Sip! - 15 Uhr / open air | Zenner
 24.08.2026 | Love Spells | Kantine Berghain
 24.08.2026 | Hudson Freeman | Privatclub
@@ -351,12 +349,12 @@
 16.09.2026 | Maia Manser | Privatclub
 16.09.2026 | Concrete Vehicles (fka Computer) | Schokoladen
 16.09.2026 | Apache207 | Uber Arena
+17.09.2026 | new venue | Sex Mask | Cassiopeia
 17.09.2026 | Witchz | Gretchen
 17.09.2026 | Fear Factory / Crystal Lake / Hate / Nocturnal Affair | Huxleys
 17.09.2026 | Dice | Mikropol
 17.09.2026 | Nuqoosh | Pierre Boulez Saal
 17.09.2026 | 1000 Rabbits / Lande Hekt | Schokoladen
-17.09.2026 | Sex Mask | Urban Spree
 17.09.2026 | Berlin Beat Invasion No. 8 - Day 1 w/ Cream Soda + aftershow dance party | Wiener Blut
 17.09.2026 | Scarfold / tba | Wild At Heart
 18.09.2026 | Ella Mai | Huxleys
@@ -372,6 +370,7 @@
 19.09.2026 | Anuv Jain | Columbia Theater
 19.09.2026 | All The Feelings Tour w/ Metric, Broken Social Scene, Stars | Columbiahalle
 19.09.2026 | Dov'è Liana | Gretchen
+19.09.2026 | new | Recycle: LSB & DRS present Space Age | Gretchen
 19.09.2026 | Jiluka | Hole
 19.09.2026 | Tjark | Huxleys
 19.09.2026 | The Maine | Kesselhaus
@@ -501,6 +500,7 @@
 03.10.2026 | Shoreline | Badehaus
 03.10.2026 | The Boyband | Columbia Theater
 03.10.2026 | Unity - VNV Nation, IAMX, Zeromancer plus more Day 2 | Columbiahalle
+03.10.2026 | new | Romare / Wayne Snow | Gretchen
 03.10.2026 | Deep Forest | Privatclub
 03.10.2026 | Pöbel + Gesocks | SO36
 03.10.2026 | Holy Fuck | Urban Spree
@@ -615,6 +615,7 @@
 14.10.2026 | Telenova | Privatclub
 15.10.2026 | James Blake | Astra
 15.10.2026 | The Beatles Tribute Show | Columbia Theater
+15.10.2026 | new | La Hafla Weekender - Day 1 | Gretchen
 15.10.2026 | sold out | Cat Power - "The Greatest" 20th Anniversary | Huxleys
 15.10.2026 | Fink | Metropol
 15.10.2026 | Gewalt - 10 Jahre Gewalt Gala feat. Kevin Kuhn, Fee Kürten, Matthias Mewferst, Florian Pühs | Neue Zukunft
@@ -627,6 +628,7 @@
 15.10.2026 | The Strokes | Uber Arena
 15.10.2026 | Miss Allie | Waschhaus Potsdam
 16.10.2026 | James Blake | Astra
+16.10.2026 | new | La Hafla Weekender - Day 2 | Gretchen
 16.10.2026 | Civo | Huxleys
 16.10.2026 | AoxoToxoA | Kulturhaus Insel
 16.10.2026 | Alex Mofa Gang | Lido
@@ -642,7 +644,7 @@
 16.10.2026 | Nice One Weekender - Day 1 | Zenner
 16.10.2026 | Tomo Katsurada & Jonny Nash | Zenner
 17.10.2026 | sold out | Ólafur Arnalds | Admiralspalast
-17.10.2026 | Sixpence None The Richer | Columbia Theater
+17.10.2026 | cancelled | Sixpence None The Richer | Columbia Theater
 17.10.2026 | Betontod | Columbiahalle
 17.10.2026 | Future Palace | Festsaal Kreuzberg
 17.10.2026 | Fast Boy | Hole
@@ -698,6 +700,7 @@
 21.10.2026 | The Lemonheads | Metropol
 21.10.2026 | Ulrika Spacek | Neue Zukunft
 21.10.2026 | The Brooks | Quasimodo
+21.10.2026 | new | Mleko | Schokoladen
 22.10.2026 | Dú Maroc | Badehaus
 22.10.2026 | Naked Cameo | Bi Nuu
 22.10.2026 | Deine Cousine | Columbiahalle
@@ -814,6 +817,7 @@
 30.10.2026 | Escape With Romeo | Urban Spree
 31.10.2026 | The Temperance Movement | Columbia Theater
 31.10.2026 | 100000 Tonnen Kruppstahl / ryr / War / Deibel | Friedenskirche
+31.10.2026 | new | Mark Guiliana Beat Music | Gretchen
 31.10.2026 | Brosie | Kulturhaus Insel
 31.10.2026 | De Staat | Lido
 31.10.2026 | Seein Red / Mörser / Rytes | Tommy-Weisbecker-Haus
@@ -845,6 +849,7 @@
 03.11.2026 | Lizz Wright | Philharmonie
 03.11.2026 | Brooklyn Rider | Pierre Boulez Saal
 04.11.2026 | Fischer-Z | Admiralspalast
+04.11.2026 | new | Weekend Nachos / Cyness / Wojczech | Archiv Potsdam
 04.11.2026 | Brian Fallon & The Painkillers / Chris Farren | Astra
 04.11.2026 | Lugatti | Bi Nuu
 04.11.2026 | Dirty Three - kein support! 20 Uhr Beginn! | Columbia Theater
@@ -976,6 +981,7 @@
 14.11.2026 | Morpheuz | Maaya
 14.11.2026 | Against The Current | Metropol
 14.11.2026 | Tomas Tulpe | Mikropol
+14.11.2026 | new | Really Good Time | Monarch
 14.11.2026 | new | King No-One | Privatclub
 14.11.2026 | Voodoo Jürgens und die Ansa Panier | Säälchen
 14.11.2026 | Sutcliff No More (Ex Sutcliff Jugend) / Controll / Kommando | Slaughterhouse
@@ -1320,6 +1326,7 @@
 20.01.2027 | Sawyer Hill | Badehaus
 20.01.2027 | Kauta | Columbia Theater
 20.01.2027 | Cuarteto Casals | Pierre Boulez Saal
+21.01.2027 | new | Slow Pulp | Columbia Theater
 22.01.2027 | Dramatist | Neue Zukunft
 22.01.2027 | Götz Widmann | SO36
 23.01.2027 | Catch Your Breath / Elijah / Ocean Sleeper | Columbia Theater
@@ -1381,6 +1388,7 @@
 18.02.2027 | The Magic Mumble Jumble | Heimathafen Neukölln
 18.02.2027 | Amble | Metropol
 19.02.2027 | Brunke | Frannz
+19.02.2027 | new | BAC | Heimathafen Neukölln
 19.02.2027 | Draconia / Saturnus / Ann My Guard | Lido
 19.02.2027 | Juse Ju | Metropol
 19.02.2027 | Solar Fake | Passionskirche
@@ -1485,23 +1493,23 @@
 10.04.2027 | Josh. | Columbia Theater
 10.04.2027 | Eläkeläiset | Festsaal Kreuzberg
 10.04.2027 | Leony | Huxleys
-10.04.2027 | Tulpe | Lido
-10.04.2027 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
-11.04.2027 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
-12.04.2027 | Monet192 | Huxleys
-13.04.2027 | Luna Simao | Modus
-13.04.2027 | Ema Nikolovska & Hikaru Kanki | Pierre Boulez Saal
-14.04.2027 | Laurenz Nikolaus | Badehaus
-14.04.2027 | Hinnerk Köhn | Waschhaus Potsdam
-15.04.27 | Raum27 | Huxleys
+10.04.27 | Tulpe | Lido
+10.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+11.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+12.04.27 | Monet192 | Huxleys
+13.04.27 | Luna Simao | Modus
+13.4.27 | Ema Nikolovska & Hikaru Kanki | Pierre Boulez Saal
+14.4.27 | Laurenz Nikolaus | Badehaus
+14.04.27 | Hinnerk Köhn | Waschhaus Potsdam
+15.4.27 | Raum27 | Huxleys
 15.04.27 | Patricia Brennan | Pierre Boulez Saal
 16.04.27 | Alless. | Maaya
 16.04.27 | Marc Atlas | Mikropol
 16.04.27 | Nasmé Ensemble | Pierre Boulez Saal
-17.4.27 | Victory | Hole
-18.4.27 | Bibiza | Columbiahalle
+17.04.27 | Victory | Hole
+18.04.27 | Bibiza | Columbiahalle
 18.04.27 | Belcea Quartet | Pierre Boulez Saal
-18.4.27 | Michèl von Wussow | Privatclub
+18.04.27 | Michèl von Wussow | Privatclub
 20.04.27 | Akademiekonzert - Kammermusik mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
 21.04.27 | Junyan Chen | Pierre Boulez Saal
 22.04.27 | Katlix | Badehaus
@@ -1546,14 +1554,14 @@
 15.06.27 | Herbert Grönemeyer | Waldbühne
 21.07.27 | Rush | Uber Arena
 20.08.27 | Die Fantastischen Vier | Waldbühne
-11.09.27 | Danger Dan | Wuhlheide
+11.9.27 | Danger Dan | Wuhlheide
 02.10.27 | Lychee Lassi | Gretchen
 08.10.27 | Tom Twers | Huxleys
 23.10.27 | Subway To Sally | Passionskirche
 30.10.27 | Andrea Berg | Uber Arena
 16.11.27 | Andreas Vollenweider & Friends | Philharmonie
 27.11.27 | Sind | Columbiahalle
-29.01.28 | Kool Savas | Uber Arena
+29.1.28 | Kool Savas | Uber Arena
 28.12.30 | TZK | Columbiahalle
 02.-03.10.06 | Unity - VNV Nation, IAMX, Zeromancer plus more | Columbiahalle
 03.-05.07.26 | Rocktreff - 16 Bands Live / Eintritt frei - https://rocktreff.de/ | Volkspark Mariendorf
@@ -1563,6 +1571,7 @@
 07.-08.08.26 | Havelbeats Festival 2026 | Waschhaus Potsdam
 08.-09.08.26 | Magma Festival - Anthony Naples, Deki Alem und Joy Orbison plus more tba | RSO Berlin
 10.-12.09.26 | Berlin Swamp Fest 2026 https://www.swampconspiracy.org/ | Neue Zukunft
+15.-16.10.25 | new | La Hafla Weekender | Gretchen
 16.-19.10.26 | Nice One Weekender | Zenner
 17.-18.07.26 | Hoffest - 36 Jahre Schokoladen | Schokoladen
 17.-20.09.26 | Berlin Beat Invasion No. 8 - https://www.facebook.com/berlinbeatinvasion | Several Locations
