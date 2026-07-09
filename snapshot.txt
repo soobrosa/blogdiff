@@ -1,12 +1,4 @@
 === Gigs (gid 415332589) ===
-08.07.2026 | sold out | Angus + Julia Stone | Astra
-08.07.2026 | Dominique Fils-Aimé | Gretchen
-08.07.2026 | Backengrillen / tba | Neue Zukunft
-08.07.2026 | System Of A Down / Queens Of The Stone Age / Acid Bath | Olympiastadion
-08.07.2026 | The Schizophonics / Blister | Schokoladen
-08.07.2026 | Michael McColgan And The Bomb Squad / Arrested Denial | SO36
-08.07.2026 | Robyn | Uber Arena
-08.07.2026 | Die Dunkle Seite Der Diskokugel - Eintritt frei - Wild Wednesday | Wild At Heart
 09.07.2026 | Carolesdaughter | Lark
 09.07.2026 | A Thousand Horses | Privatclub
 09.07.2026 | Balaclava / Bumm Tschack Debatte | Schokoladen
@@ -57,6 +49,7 @@
 18.07.2026 | The Most Wuthering Heights Day Ever 2026 - 10th Anniversary | Görlitzer Park
 18.07.2026 | Lollapallooza Festival 2026 - Day 1 - https://www.lollapaloozade.com/ | Olympiastadion
 18.07.2026 | Hoffest - 36 Jahre Schokoladen - Tag 2 w/ Wax Sugar Face, Big Gainer, Peppi P., Maiorano, Schnallo, Red Mess | Schokoladen
+18.07.2026 | new | Fuzz Fest - Eintritt frei w/ Brezel Gröring & Psychoanalyse, Twiggy, Die Knöpfe, Friedhof der Moral plus more | Teepeeland
 18.07.2026 | Paulie Boy's Blues Band / Sammer Salah | Wild At Heart
 18.07.2026 | Mark Forster | Zitadelle Spandau
 19.07.2026 | Arch Enemy | Bi Nuu
@@ -339,14 +332,13 @@
 15.09.2026 | Curbside Lambsear | Silent Green
 15.09.2026 | Apache207 | Uber Arena
 15.09.2026 | Gen And The Degenerates | Urban Spree
-16.09.2026 | h3nce | Cassiopeia
+16.09.2026 | H3nce | Cassiopeia
 16.09.2026 | Lime Garden | Frannz
-16.09.2026 | Gia Margaret | Genezarethkirche
-16.09.2026 | new | Gia Margaret / Resavoir | Genezarethkirche
+16.09.2026 | Gia Margaret / Resavoir | Genezarethkirche
 16.09.2026 | new | Olgy Myko | Kantine Berghain
 16.09.2026 | Cory Hanson | Neue Zukunft
 16.09.2026 | Mazen El Bagir & Ensemble | Pierre Boulez Saal
-16.09.2026 | Maia Manser | Privatclub
+16.09.2026 | cancelled | Maia Manser | Privatclub
 16.09.2026 | Concrete Vehicles (fka Computer) | Schokoladen
 16.09.2026 | Apache207 | Uber Arena
 17.09.2026 | new venue | Sex Mask | Cassiopeia
@@ -459,6 +451,7 @@
 29.09.2026 | The Dear Hunter / Redwood | Frannz
 29.09.2026 | Ccosmo | Gretchen
 29.09.2026 | The Olllam | Lido
+29.09.2026 | new | Alexsucks | Mikropol
 30.09.2026 | Tenside / Aurorawave | Badehaus
 30.09.2026 | Ok Kid | Festsaal Kreuzberg
 30.09.2026 | Vundabar / Yot Club | Frannz
@@ -532,10 +525,10 @@
 06.10.2026 | Chri$tian Gate$ | Prachtwerk
 06.10.2026 | Jill Scott | Tempodrom
 07.10.2026 | Raised Fist | Columbia Theater
+07.10.2026 | new venue | Pomplamoose | Festsaal Kreuzberg
 07.10.2026 | The Bones Of J.R. Jones | Frannz
 07.10.2026 | Thee Sinseers | Gretchen
 07.10.2026 | Jack Savoretti | Huxleys
-07.10.2026 | Pomplamoose | Lido
 07.10.2026 | Allie X | Metropol
 07.10.2026 | Oliver Malcolm | Mikropol
 07.10.2026 | miniLab #18 - Lorena Izquierdo & Asta D., Sofia Salvo & Munsha, Ipek Odabasi | Ölbergkirche
@@ -553,6 +546,7 @@
 08.10.2026 | Shadow of Intent | Metropol
 08.10.2026 | Mondo Drags / Early Moods | Neue Zukunft
 08.10.2026 | Philip Sayce | Privatclub
+08.10.2026 | new | Otis Kane | Quasimodo
 08.10.2026 | Canarias Calling w/ Planlos X / Bifidos / Death By Horse / Enrale / Durchfall | SO36
 08.10.2026 | Niall Horan | Uber Arena
 08.10.2026 | Jay Park feat. Lngshot | Uber Eats Music Hall
@@ -599,6 +593,7 @@
 13.10.2026 | Krallice | Berghain
 13.10.2026 | Blood Red Shoes | Festsaal Kreuzberg
 13.10.2026 | Laibach | Huxleys
+13.10.2026 | new | Sebastian Schub | Prachtwerk
 13.10.2026 | Honne / Beka | Säälchen
 13.10.2026 | I Prevail | Velodrom
 14.10.2026 | My New Band Believe | 90mil
@@ -617,6 +612,7 @@
 15.10.2026 | The Beatles Tribute Show | Columbia Theater
 15.10.2026 | new | La Hafla Weekender - Day 1 | Gretchen
 15.10.2026 | sold out | Cat Power - "The Greatest" 20th Anniversary | Huxleys
+15.10.2026 | new | Spineshank / Hed P.E. | Lark
 15.10.2026 | Fink | Metropol
 15.10.2026 | Gewalt - 10 Jahre Gewalt Gala feat. Kevin Kuhn, Fee Kürten, Matthias Mewferst, Florian Pühs | Neue Zukunft
 15.10.2026 | Morgenstern Trio | Pierre Boulez Saal
@@ -720,6 +716,7 @@
 23.10.2026 | Wavvboy | Columbia Theater
 23.10.2026 | Behemoth / Dimmu Borgir / Dark Funeral | Columbiahalle
 23.10.2026 | Triggerfinger | Frannz
+23.10.2026 | new | Skeler | Gretchen
 23.10.2026 | Romero | Hole
 23.10.2026 | Kärbholz | Huxleys
 23.10.2026 | Cléa Vincent | Kantine Berghain
@@ -757,6 +754,7 @@
 25.10.2026 | Marie-Elisabeth Hecker & Martin Helmchen | Pierre Boulez Saal
 25.10.2026 | Smello | Privatclub
 25.10.2026 | The Slackers | SO36
+25.10.2026 | new | Jawdropped | Urban Spree
 26.10.2026 | Olli Schulz | Admiralspalast
 26.10.2026 | Berwyn | Gretchen
 26.10.2026 | Kitty, Daisy + Lewis | Huxleys
@@ -843,6 +841,7 @@
 02.11.2026 | Sports | SO36
 03.11.2026 | Zoh Amba | Bi Nuu
 03.11.2026 | Alela Diane | Columbia Theater
+03.11.2026 | new | Gloryhammer / Majestica / Arion | Festsaal Kreuzberg
 03.11.2026 | Etran de L'Air | Gretchen
 03.11.2026 | Underscores | Metropol
 03.11.2026 | Praise The Plague / A Secret Revealed | Neue Zukunft
@@ -885,6 +884,7 @@
 06.11.2026 | Norlyz geat. Malika Alaoui | Gretchen
 06.11.2026 | Jonny5 | Hole
 06.11.2026 | Clawfinger | Huxleys
+06.11.2026 | new | Rank Play The Smith | Junction Bar
 06.11.2026 | Westside Cowboy | Lido
 06.11.2026 | EXCREMENTORY GRINDFUCKERS + Support | Lindenpark Potsdam
 06.11.2026 | War Against War V - Gorgoroth, Mork, Wolvennest, Sarkrista, Drudensang, Xonor, Silhouette, Black Spikes uvm. - Day 1 | Orwohaus
@@ -1194,6 +1194,7 @@
 05.12.2026 | Reflektor Live - Der Musik-Podcast - Jan Müller im Gespräch mit…. | Colosseum
 05.12.2026 | cancelled | Zuna | Columbia Theater
 05.12.2026 | sold out | Sidos Weihnachtsshow 2026 | Columbiahalle
+05.12.2026 | new | Tank And The Bangas | Gretchen
 05.12.2026 | The New Roses / Massive Wagons | Hole
 05.12.2026 | Itchy | Huxleys
 05.12.2026 | Charlotte Kudella | Lark
@@ -1315,6 +1316,8 @@
 10.01.2027 | La Fonte Musica & Michele Pasotti | Pierre Boulez Saal
 11.01.2027 | U.D.O. | Huxleys
 12.01.2027 | Orden Ogan | Kesselhaus
+12.01.2027 | new | Heinz Strunk - Lesung | Volksbühne
+14.01.2027 | new | Tonique & Man | Kantine Berghain
 14.01.2027 | A'Coma | SO36
 15.01.2027 | Heavytones | Columbia Theater
 16.01.2027 | Kupfergold | hole
@@ -1403,6 +1406,7 @@
 23.02.2027 | Bernth | Columbia Theater
 23.02.2027 | Charlotte Wessels | Lido
 23.02.2027 | Dead Poet Society | Metropol
+23.02.2027 | new | Hayden Thorpe | Mikropol
 23.02.2027 | Trio Joubran | Pierre Boulez Saal
 24.02.2027 | Jaill | Columbia Theater
 24.02.2027 | Outlander In Concert | Uber Eats Music Hall
@@ -1411,8 +1415,10 @@
 25.02.2027 | Luca Vasta | Frannz
 25.02.2027 | Jaschu | Lido
 25.02.2027 | Agatha Is Dead | SO36
+26.02.2027 | new | Protomartyr | Bi Nuu
 26.02.2027 | Michelle Gurevich | Huxleys
 26.02.2027 | NEØV | Lark
+26.02.2027 | new | Isolation Berlin - Und aus den Wolken tropft die Zeit. 10 Jahre Berliner Schule / Protopop | Lido
 26.02.2027 | French 79 | Metropol
 26.02.2027 | Chorwerk Ruhr, I Solisti & Yuval Weinberg | Pierre Boulez Saal
 27.02.2027 | Union 1850 / Lupus / Lucky L | Cassiopeia
@@ -1427,6 +1433,7 @@
 03.03.2027 | Madeline Juno | Huxleys
 03.03.2027 | Midge Ure And Band Electronica | Metropol
 04.03.2027 | Blanco White | Huxleys
+04.03.2027 | new | Connor Skinner | Mikropol
 04.03.2027 | Nduduzo Makhathini & Omagugu; Special Guest: Ganavya | Pierre Boulez Saal
 05.03.2027 | Karate Andi | Festsaal Kreuzberg
 05.03.2027 | South Arcade | Lido
@@ -1486,22 +1493,22 @@
 08.04.2027 | sold out | Die Ärzte | Max-Schmeling-Halle
 08.04.2027 | Ian Hooper | Metropol
 09.04.2027 | Kati K | Columbia Theater
-09.04.2027 | sold out | Die Ärzte | Max-Schmeling-Halle
-09.04.2027 | William The Conqueror | Mikropol
-09.04.2027 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
-10.04.2027 | Mono Inc. | Admiralspalast
-10.04.2027 | Josh. | Columbia Theater
-10.04.2027 | Eläkeläiset | Festsaal Kreuzberg
-10.04.2027 | Leony | Huxleys
+09.04.27 | sold out | Die Ärzte | Max-Schmeling-Halle
+09.04.27 | William The Conqueror | Mikropol
+09.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+10.04.27 | Mono Inc. | Admiralspalast
+10.04.27 | Josh. | Columbia Theater
+10.4.27 | Eläkeläiset | Festsaal Kreuzberg
+10.4.27 | Leony | Huxleys
 10.04.27 | Tulpe | Lido
-10.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+10.4.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
 11.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
 12.04.27 | Monet192 | Huxleys
 13.04.27 | Luna Simao | Modus
-13.4.27 | Ema Nikolovska & Hikaru Kanki | Pierre Boulez Saal
-14.4.27 | Laurenz Nikolaus | Badehaus
+13.04.27 | Ema Nikolovska & Hikaru Kanki | Pierre Boulez Saal
+14.04.27 | Laurenz Nikolaus | Badehaus
 14.04.27 | Hinnerk Köhn | Waschhaus Potsdam
-15.4.27 | Raum27 | Huxleys
+15.04.27 | Raum27 | Huxleys
 15.04.27 | Patricia Brennan | Pierre Boulez Saal
 16.04.27 | Alless. | Maaya
 16.04.27 | Marc Atlas | Mikropol
@@ -1547,21 +1554,21 @@
 01.06.27 | John Vincent III | Privatclub
 05.06.27 | Akademiekonzert - Orchester der Barenboim-Said Akademie & Nabil Shehata | Pierre Boulez Saal
 05.06.27 | sold out | Die Ärzte | Wuhlheide
-06.06.27 | sold out | Die Ärzte | Wuhlheide
+6.6.27 | sold out | Die Ärzte | Wuhlheide
 07.06.27 | Akademiekonzert - Kammermusik mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
 08.06.27 | Kristian Bezuidenhout | Pierre Boulez Saal
 13.06.27 | Boulez Ensemble & Jörg Widmann | Pierre Boulez Saal
 15.06.27 | Herbert Grönemeyer | Waldbühne
 21.07.27 | Rush | Uber Arena
-20.08.27 | Die Fantastischen Vier | Waldbühne
+20.8.27 | Die Fantastischen Vier | Waldbühne
 11.9.27 | Danger Dan | Wuhlheide
-02.10.27 | Lychee Lassi | Gretchen
+2.10.27 | Lychee Lassi | Gretchen
 08.10.27 | Tom Twers | Huxleys
 23.10.27 | Subway To Sally | Passionskirche
 30.10.27 | Andrea Berg | Uber Arena
 16.11.27 | Andreas Vollenweider & Friends | Philharmonie
 27.11.27 | Sind | Columbiahalle
-29.1.28 | Kool Savas | Uber Arena
+29.01.28 | Kool Savas | Uber Arena
 28.12.30 | TZK | Columbiahalle
 02.-03.10.06 | Unity - VNV Nation, IAMX, Zeromancer plus more | Columbiahalle
 03.-05.07.26 | Rocktreff - 16 Bands Live / Eintritt frei - https://rocktreff.de/ | Volkspark Mariendorf
