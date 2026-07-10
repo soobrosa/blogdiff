@@ -86,7 +86,7 @@
 27.07.2026 | Lenny Kravitz | Uber Arena
 28.07.2026 | Yngwie Malmsteen | Huxleys
 28.07.2026 | The Queers / The 66ers | Wild At Heart
-29.07.2026 | Evolfo | Neue Zukunft
+29.07.2026 | Evolfo / Go Mahh | Neue Zukunft
 29.07.2026 | Luna del Ciervo feat. Shumay / Misa Negra / San Pedro Bonfim | Schokoladen
 29.07.2026 | Tales For The Tillerman - Eintritt frei - Wild Wednesday | Wild At Heart
 30.07.2026 | Less Than Jake / A Wilhelm Scream / The Suicide Machine | Columbia Theater
@@ -166,7 +166,7 @@
 18.08.2026 | Rose Tattoo / Velvet Rush | Astra
 18.08.2026 | Ron Sexsmith | Frannz
 18.08.2026 | Current Joys + Band / fantasy of a broken heart | Huxleys
-18.08.2026 | Dead Moon - a night with Toody Cole and her band | Neue Zukunft
+18.08.2026 | sold out | Dead Moon - a night with Toody Cole and her band | Neue Zukunft
 18.08.2026 | Deftones / Turnstile / Ecca Vandal | Wuhlheide
 18.08.2026 | OMD - Orchestral Manoeuvres in the Dark | Zitadelle Spandau
 19.08.2026 | Off Days 2026 - Blood Orange plus more acts | Columbiahalle
@@ -175,6 +175,7 @@
 19.08.2026 | Tiger Slap - Wild Wednesday - Eintritt frei | Wild At Heart
 20.08.2026 | ¥ØU$UK€ ¥UK1MAT$U / tba | Haus Der Visionäre
 20.08.2026 | Two Feet | Huxleys
+21.08.2026 | new | Clubs / Das Nest / Inessa Anxious | West Germany
 21.08.2026 | War On Woman / tba | Wild At Heart
 21.08.2026 | sold out | Kraftklub - Zusatzshow | Wuhlheide
 21.08.2026 | ZAZ | Zitadelle Spandau
@@ -222,7 +223,7 @@
 30.08.2026 | Buzz Kull / Body Deluxe / Dream Council | Cassiopeia
 30.08.2026 | Diana Ezerex | Kulturhaus Insel
 30.08.2026 | Wine Lips / The Boojums | Lido
-30.08.2026 | Dead Moon - a night with Toody Cole and her band / Top Down - additional show | Neue Zukunft
+30.08.2026 | sold out | Dead Moon - a night with Toody Cole and her band / Top Down - additional show | Neue Zukunft
 30.08.2026 | Elle + L's Festival - international female multi-genre festival - Day 2 - v | Several Locations
 30.08.2026 | Klassentreffen Festival Tag 2 w/ Sido, Kool Savas, Max Herre + Joy Denalane, Afrob + Ferris MC, Eko Fresh u.v.a. | Zentraler Festplatz
 31.08.2026 | Horsegirl | Neue Zukunft
@@ -1179,6 +1180,7 @@
 03.12.2026 | Iedereen | Neue Zukunft
 03.12.2026 | Kristin von der Goltz & Ensemble | Pierre Boulez Saal
 03.12.2026 | Joshua Burnside | Privatclub
+03.12.2026 | new | Dikka | Tempodrom
 03.12.2026 | Novulent | Urban Spree
 03.12.2026 | Dirk Michaelis | Waschhaus Potsdam
 04.12.2026 | Dominic Donner | Badehaus
@@ -1264,6 +1266,7 @@
 14.12.2026 | Gregory Porter | Philharmonie
 15.12.2026 | sold out | Sidos Weihnachtsshow 2026 | Columbiahalle
 15.12.2026 | Dominum | SO36
+16.12.2026 | new | Maeckes & die Katastrophen | Astra
 16.12.2026 | sold out | Sidos Weihnachtsshow 2026 | Columbiahalle
 16.12.2026 | Mika Noé | Festsaal Kreuzberg
 16.12.2026 | Azet | Huxleys
@@ -1449,6 +1452,7 @@
 08.03.2027 | Waed Bouhassoun & Orpheus 21 | Pierre Boulez Saal
 09.03.2027 | Turnover / Nothing | Festsaal Kreuzberg
 09.03.2027 | Elternzeitkonzert: Waed Bouhassoun & Orpheus 21 | Pierre Boulez Saal
+09.03.2027 | new | Robin Vehrs | Prachtwerk
 10.03.2027 | Tobias Feldmann, Andrei Ioniță & Nathalia Milstein | Pierre Boulez Saal
 11.03.2027 | Tränen | Columbia Theater
 11.03.2027 | Pierre-Laurent Aimard | Pierre Boulez Saal
@@ -1460,6 +1464,7 @@
 12.03.2027 | Girls Under Glass | Urban Spree
 13.03.2027 | Dschinghis Khan | Ernst-Reuter-Saal
 13.03.2027 | Akademie für Alte Musik Berlin, Sophie Rennert & Studierende der Barenboim-Said Akademie | Pierre Boulez Saal
+14.03.2027 | new | Haus F | Kesselhaus
 14.03.2027 | Anna Grey | Metropol
 14.03.2027 | Belcea Quartet | Pierre Boulez Saal
 15.03.2027 | Dea Matrona | Lido
@@ -1488,20 +1493,20 @@
 02.04.2027 | Leoniden | Columbiahalle
 03.04.2027 | Razz | Huxleys
 03.04.2027 | Stefan Temmingh, Mathis Wolfer & Ensemble | Pierre Boulez Saal
-04.04.2027 | Yungmon + Lyran Dasz | Lido
-07.04.2027 | Quartet Amabile | Pierre Boulez Saal
-08.04.2027 | sold out | Die Ärzte | Max-Schmeling-Halle
-08.04.2027 | Ian Hooper | Metropol
-09.04.2027 | Kati K | Columbia Theater
-09.04.27 | sold out | Die Ärzte | Max-Schmeling-Halle
-09.04.27 | William The Conqueror | Mikropol
+04.04.27 | Yungmon + Lyran Dasz | Lido
+07.04.27 | Quartet Amabile | Pierre Boulez Saal
+08.04.27 | sold out | Die Ärzte | Max-Schmeling-Halle
+08.04.27 | Ian Hooper | Metropol
+09.04.27 | Kati K | Columbia Theater
+9.4.27 | sold out | Die Ärzte | Max-Schmeling-Halle
+9.4.27 | William The Conqueror | Mikropol
 09.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
-10.04.27 | Mono Inc. | Admiralspalast
+10.4.27 | Mono Inc. | Admiralspalast
 10.04.27 | Josh. | Columbia Theater
-10.4.27 | Eläkeläiset | Festsaal Kreuzberg
-10.4.27 | Leony | Huxleys
+10.04.27 | Eläkeläiset | Festsaal Kreuzberg
+10.04.27 | Leony | Huxleys
 10.04.27 | Tulpe | Lido
-10.4.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+10.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
 11.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
 12.04.27 | Monet192 | Huxleys
 13.04.27 | Luna Simao | Modus
@@ -1549,17 +1554,17 @@
 22.05.27 | Christoph Sakwerda | Frannz
 23.05.27 | Elisabeth Leonskaja & Trio Così | Pierre Boulez Saal
 26.05.27 | Theodore Platt & Keval Shah | Pierre Boulez Saal
-28.05.27 | Kirill Gerstein & Gurdjieff Ensemble | Pierre Boulez Saal
+28.5.27 | Kirill Gerstein & Gurdjieff Ensemble | Pierre Boulez Saal
 29.05.27 | Heath Quartet | Pierre Boulez Saal
 01.06.27 | John Vincent III | Privatclub
 05.06.27 | Akademiekonzert - Orchester der Barenboim-Said Akademie & Nabil Shehata | Pierre Boulez Saal
 05.06.27 | sold out | Die Ärzte | Wuhlheide
-6.6.27 | sold out | Die Ärzte | Wuhlheide
-07.06.27 | Akademiekonzert - Kammermusik mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
-08.06.27 | Kristian Bezuidenhout | Pierre Boulez Saal
-13.06.27 | Boulez Ensemble & Jörg Widmann | Pierre Boulez Saal
+06.06.27 | sold out | Die Ärzte | Wuhlheide
+7.6.27 | Akademiekonzert - Kammermusik mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
+8.6.27 | Kristian Bezuidenhout | Pierre Boulez Saal
+13.6.27 | Boulez Ensemble & Jörg Widmann | Pierre Boulez Saal
 15.06.27 | Herbert Grönemeyer | Waldbühne
-21.07.27 | Rush | Uber Arena
+21.7.27 | Rush | Uber Arena
 20.8.27 | Die Fantastischen Vier | Waldbühne
 11.9.27 | Danger Dan | Wuhlheide
 2.10.27 | Lychee Lassi | Gretchen
