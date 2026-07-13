@@ -1,22 +1,4 @@
 === Gigs (gid 415332589) ===
-10.07.2026 | Lady Lazarus - Instore Gig & Signing | Coretex Recordstore
-10.07.2026 | Tulipa Ruiz | Gretchen
-10.07.2026 | cancelled | Eli | Mikropol
-10.07.2026 | Wood In Di Fire | Schokoladen
-10.07.2026 | Electric Teds / Mental Shakedown | Wild At Heart
-10.07.2026 | sold out | The Cure / The Twilight Sad / Just Mustard | Wuhlheide
-11.07.2026 | Recycle: Neosignal Berlin feat. Phace + Buunschin | Gretchen
-11.07.2026 | Jigitz | Kantine Berghain
-11.07.2026 | sold out | Die Toten Hosen / Beatsteaks / The Stranglers | Olympiastadion
-11.07.2026 | Moloch / Pink Wonder | Schokoladen
-11.07.2026 | Werwolf In Aspik / Adventure Team - 15 Uhr | Villa Kuriosum
-11.07.2026 | Pet Shop Boys | Waldbühne
-11.07.2026 | The Lamplighters / Die Ausreden - Benefizshow | Wild At Heart
-11.07.2026 | sold out | The Cure / The Twilight Sad / Just Mustard | Wuhlheide
-11.07.2026 | Old But Gold Festival | Zitadelle Spandau
-12.07.2026 | Glimmer | Neue Zukunft
-12.07.2026 | O.R.B. / Pult | Neue Zukunft
-12.07.2026 | sold out | The Cure / The Twilight Sad / Just Mustard | Wuhlheide
 13.07.2026 | Haevn | Classic Open Air
 13.07.2026 | Cút Lon / I Hate The Bouncers | Schokoladen
 14.07.2026 | sold out | House Of Protection | Mikropol
@@ -73,7 +55,7 @@
 25.07.2026 | cancelled | Vowws | Mikropol
 25.07.2026 | Faraquet | Neue Zukunft
 25.07.2026 | Cigarette Butt / Moppi Galoppi | Schokoladen
-25.07.2026 | new | Johnny Komet / tba | Schokoladen
+25.07.2026 | new | The Johnny Komet / Furie | Schokoladen
 25.07.2026 | The Crisps feat. Members of Radio Birdman, Lime Spiders, New Christs / Chris Masuak's Dog Soldier | Wild At Heart
 27.07.2026 | Kidd Voodoo | Columbia Theater
 27.07.2026 | Benedict Cork | Mikropol
@@ -274,7 +256,7 @@
 08.09.2026 | Noah Hill | Privatclub
 08.09.2026 | Weird Nightmare | Urban Spree
 09.09.2026 | Sigh | Badehaus
-09.09.2026 | Tara Clerkin Trio | Neue Zukunft
+09.09.2026 | Tara Clerkin Trio / Life | Neue Zukunft
 09.09.2026 | Lily Fitts | Privatclub
 09.09.2026 | Seraine Telli | Schokoladen
 09.09.2026 | La Retraite De La Peur - Eintritt frei - Wild Wednesday | Wild At Heart
@@ -1493,33 +1475,33 @@
 29.03.2027 | Boulez Ensemble & Daniel Barenboim | Pierre Boulez Saal
 29.03.2027 | Kaleo | Uber Eats Music Hall
 30.03.2027 | Jeeyoung Lim & Jonathan Ware | Pierre Boulez Saal
-02.04.27 | Leoniden | Columbiahalle
-03.04.27 | Razz | Huxleys
-03.04.27 | Stefan Temmingh, Mathis Wolfer & Ensemble | Pierre Boulez Saal
-04.04.27 | Yungmon + Lyran Dasz | Lido
-07.04.27 | Quartet Amabile | Pierre Boulez Saal
-8.4.27 | sold out | Die Ärzte | Max-Schmeling-Halle
-8.4.27 | Ian Hooper | Metropol
-09.04.27 | Kati K | Columbia Theater
-9.4.27 | sold out | Die Ärzte | Max-Schmeling-Halle
-09.04.27 | William The Conqueror | Mikropol
-09.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
-10.04.27 | Mono Inc. | Admiralspalast
-10.04.27 | Josh. | Columbia Theater
-10.04.27 | Eläkeläiset | Festsaal Kreuzberg
-10.04.27 | Leony | Huxleys
-10.04.27 | Tulpe | Lido
-10.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
-11.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+02.04.2027 | Leoniden | Columbiahalle
+03.04.2027 | Razz | Huxleys
+03.04.2027 | Stefan Temmingh, Mathis Wolfer & Ensemble | Pierre Boulez Saal
+04.04.2027 | Yungmon + Lyran Dasz | Lido
+07.04.2027 | Quartet Amabile | Pierre Boulez Saal
+08.04.2027 | sold out | Die Ärzte | Max-Schmeling-Halle
+08.04.2027 | Ian Hooper | Metropol
+09.04.2027 | Kati K | Columbia Theater
+09.04.2027 | sold out | Die Ärzte | Max-Schmeling-Halle
+09.04.2027 | William The Conqueror | Mikropol
+09.04.2027 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+10.04.2027 | Mono Inc. | Admiralspalast
+10.04.2027 | Josh. | Columbia Theater
+10.04.2027 | Eläkeläiset | Festsaal Kreuzberg
+10.04.2027 | Leony | Huxleys
+10.04.2027 | Tulpe | Lido
+10.04.2027 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+11.04.2027 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
 12.04.27 | Monet192 | Huxleys
 13.04.27 | Luna Simao | Modus
 13.04.27 | Ema Nikolovska & Hikaru Kanki | Pierre Boulez Saal
 14.04.27 | Laurenz Nikolaus | Badehaus
 14.04.27 | Hinnerk Köhn | Waschhaus Potsdam
-15.04.27 | Raum27 | Huxleys
-15.04.27 | Patricia Brennan | Pierre Boulez Saal
+15.4.27 | Raum27 | Huxleys
+15.4.27 | Patricia Brennan | Pierre Boulez Saal
 16.04.27 | Alless. | Maaya
-16.04.27 | Marc Atlas | Mikropol
+16.4.27 | Marc Atlas | Mikropol
 16.04.27 | Nasmé Ensemble | Pierre Boulez Saal
 17.04.27 | Victory | Hole
 18.04.27 | Bibiza | Columbiahalle
@@ -1554,23 +1536,23 @@
 16.05.27 | Nathalia Milstein | Pierre Boulez Saal
 20.05.27 | Elisabeth Leonskaja & Julius Drake | Pierre Boulez Saal
 21.05.27 | Konstantin Krimmel & Ammiel Bushakevitz | Pierre Boulez Saal
-22.5.27 | Christoph Sakwerda | Frannz
+22.05.27 | Christoph Sakwerda | Frannz
 23.05.27 | Elisabeth Leonskaja & Trio Così | Pierre Boulez Saal
 26.05.27 | Theodore Platt & Keval Shah | Pierre Boulez Saal
 28.05.27 | Kirill Gerstein & Gurdjieff Ensemble | Pierre Boulez Saal
 29.05.27 | Heath Quartet | Pierre Boulez Saal
 01.06.27 | John Vincent III | Privatclub
-5.6.27 | Akademiekonzert - Orchester der Barenboim-Said Akademie & Nabil Shehata | Pierre Boulez Saal
-5.6.27 | sold out | Die Ärzte | Wuhlheide
-6.6.27 | sold out | Die Ärzte | Wuhlheide
+05.06.27 | Akademiekonzert - Orchester der Barenboim-Said Akademie & Nabil Shehata | Pierre Boulez Saal
+05.06.27 | sold out | Die Ärzte | Wuhlheide
+06.06.27 | sold out | Die Ärzte | Wuhlheide
 07.06.27 | Akademiekonzert - Kammermusik mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
-8.6.27 | Kristian Bezuidenhout | Pierre Boulez Saal
-13.6.27 | Boulez Ensemble & Jörg Widmann | Pierre Boulez Saal
-15.6.27 | Herbert Grönemeyer | Waldbühne
-21.7.27 | Rush | Uber Arena
+08.06.27 | Kristian Bezuidenhout | Pierre Boulez Saal
+13.06.27 | Boulez Ensemble & Jörg Widmann | Pierre Boulez Saal
+15.06.27 | Herbert Grönemeyer | Waldbühne
+21.07.27 | Rush | Uber Arena
 20.08.27 | Die Fantastischen Vier | Waldbühne
-11.9.27 | Danger Dan | Wuhlheide
-2.10.27 | Lychee Lassi | Gretchen
+11.09.27 | Danger Dan | Wuhlheide
+02.10.27 | Lychee Lassi | Gretchen
 08.10.27 | Tom Twers | Huxleys
 23.10.27 | Subway To Sally | Passionskirche
 30.10.27 | Andrea Berg | Uber Arena
