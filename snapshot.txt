@@ -1,8 +1,6 @@
 === Gigs (gid 415332589) ===
-14.07.2026 | sold out | House Of Protection | Mikropol
-14.07.2026 | Ghosts Of Berlin / Whirlpool | Schokoladen
-14.07.2026 | Marillion | Tempodrom
 15.07.2026 | Gum Bleed / Dummy Toys | Badehaus
+15.07.2026 | new | Identity Shock / Preemtive Strike / Big Iron | OGH
 15.07.2026 | Toshin & The Teleporters | Schokoladen
 15.07.2026 | Foxy / Flatfood 56 | Wild At Heart
 16.07.2026 | G Sessions feat. Peter Somuah & more tba | Gretchen
@@ -20,6 +18,7 @@
 17.07.2026 | Silly - Open Air | Waschhaus Potsdam
 17.07.2026 | Zeit Driver - Record Release / tba | Wild At Heart
 18.07.2026 | Starbenders | Badehaus
+18.07.2026 | new | Lindhu Raras - Gamelan Music From The Javanese Courts | Galiläakirche
 18.07.2026 | The Most Wuthering Heights Day Ever 2026 - 10th Anniversary | Görlitzer Park
 18.07.2026 | Lollapallooza Festival 2026 - Day 1 - https://www.lollapaloozade.com/ | Olympiastadion
 18.07.2026 | Hoffest - 36 Jahre Schokoladen - Tag 2 w/ Wax Sugar Face, Big Gainer, Peppi P., Maiorano, Schnallo, Red Mess | Schokoladen
@@ -69,6 +68,7 @@
 30.07.2026 | cancelled | Becks | Revier Südost
 30.07.2026 | Nothing Works / Swiss Pleasure | Schokoladen
 31.07.2026 | Sacred Reich / Sarcator | Lido
+31.07.2026 | new | Echo Chamber / Wreckage / Blanket Hill | OGH
 31.07.2026 | The Lost Lyrics / The Resets | Schokoladen
 31.07.2026 | Evergreen Terrace / FxUxCxK | SO36
 31.07.2026 | The Sweet Kill / Cult Noir / tba | Tommy-Weisbecker-Haus
@@ -408,7 +408,7 @@
 25.09.2026 | Erobique | Waschhaus Potsdam
 25.09.2026 | The Soap Girls | Wild At Heart
 26.09.2026 | John Robb & Mark Reeder - 50 Jahre Punk – Talk mit Gästen (Alexander Hacke, Colin Newman), Projektionen und Fotoausstellungen | Columbia Theater
-26.09.2026 | Mad Tsai | Frannz
+26.09.2026 | new venue | Mad Tsai | Gretchen
 26.09.2026 | ASP | Huxleys
 26.09.2026 | The Flamin' Groovies / Kong Fuss + The Romantic Earthquake Band | Lido
 26.09.2026 | THE MURMELTEARS - Musik Toter - Musik verschiedener Künstler | Lindenpark Potsdam
@@ -922,6 +922,7 @@
 11.11.2026 | Daily Thompson / Constance Tomb | Cassiopeia
 11.11.2026 | Shinedown / Those Damn Crows | Columbiahalle
 11.11.2026 | Pohlmann | Frannz
+11.11.2026 | new | Midwife & Devin Shaffer | Genezarethkirche
 11.11.2026 | Nick Hakim | Gretchen
 11.11.2026 | Son Mieux | Hole
 11.11.2026 | Kilimanjaro | Lark
@@ -1110,6 +1111,7 @@
 27.11.2026 | RIN | Max-Schmeling-Halle
 27.11.2026 | Health / Vowws / Doodseskader | Metropol
 27.11.2026 | The Last Internationale | Mikropol
+27.11.2026 | new | Lack / Tonia Reeh / Jacob Bredahl | Neue Zukunft
 27.11.2026 | Simon Shaheen & Ensemble | Pierre Boulez Saal
 27.11.2026 | Tiffany Aris | Prachtwerk
 27.11.2026 | Rathmann | Privatclub
@@ -1491,17 +1493,17 @@
 03.04.2027 | Razz | Huxleys
 03.04.2027 | Stefan Temmingh, Mathis Wolfer & Ensemble | Pierre Boulez Saal
 04.04.2027 | Yungmon + Lyran Dasz | Lido
-07.04.2027 | Quartet Amabile | Pierre Boulez Saal
-08.04.2027 | sold out | Die Ärzte | Max-Schmeling-Halle
+07.04.27 | Quartet Amabile | Pierre Boulez Saal
+08.04.27 | sold out | Die Ärzte | Max-Schmeling-Halle
 08.04.27 | Ian Hooper | Metropol
 09.04.27 | Kati K | Columbia Theater
 09.04.27 | sold out | Die Ärzte | Max-Schmeling-Halle
-09.04.27 | William The Conqueror | Mikropol
-09.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
-10.4.27 | Mono Inc. | Admiralspalast
+9.4.27 | William The Conqueror | Mikropol
+9.4.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+10.04.27 | Mono Inc. | Admiralspalast
 10.4.27 | Josh. | Columbia Theater
 10.04.27 | Eläkeläiset | Festsaal Kreuzberg
-10.4.27 | Leony | Huxleys
+10.04.27 | Leony | Huxleys
 10.04.27 | Tulpe | Lido
 10.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
 11.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
@@ -1552,9 +1554,9 @@
 22.05.27 | Christoph Sakwerda | Frannz
 23.05.27 | Elisabeth Leonskaja & Trio Così | Pierre Boulez Saal
 26.05.27 | Theodore Platt & Keval Shah | Pierre Boulez Saal
-28.05.27 | Kirill Gerstein & Gurdjieff Ensemble | Pierre Boulez Saal
+28.5.27 | Kirill Gerstein & Gurdjieff Ensemble | Pierre Boulez Saal
 29.05.27 | Heath Quartet | Pierre Boulez Saal
-1.6.27 | John Vincent III | Privatclub
+01.06.27 | John Vincent III | Privatclub
 05.06.27 | Akademiekonzert - Orchester der Barenboim-Said Akademie & Nabil Shehata | Pierre Boulez Saal
 05.06.27 | sold out | Die Ärzte | Wuhlheide
 06.06.27 | sold out | Die Ärzte | Wuhlheide
@@ -1565,8 +1567,8 @@
 21.07.27 | Rush | Uber Arena
 20.08.27 | Die Fantastischen Vier | Waldbühne
 11.09.27 | Danger Dan | Wuhlheide
-02.10.27 | Lychee Lassi | Gretchen
-08.10.27 | Tom Twers | Huxleys
+2.10.27 | Lychee Lassi | Gretchen
+8.10.27 | Tom Twers | Huxleys
 23.10.27 | Subway To Sally | Passionskirche
 30.10.27 | Andrea Berg | Uber Arena
 16.11.27 | Andreas Vollenweider & Friends | Philharmonie
