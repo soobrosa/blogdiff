@@ -1,11 +1,7 @@
 === Gigs (gid 415332589) ===
-15.07.2026 | Gum Bleed / Dummy Toys | Badehaus
-15.07.2026 | new | Identity Shock / Preemtive Strike / Big Iron | OGH
-15.07.2026 | Toshin & The Teleporters | Schokoladen
-15.07.2026 | Foxy / Flatfood 56 | Wild At Heart
 16.07.2026 | G Sessions feat. Peter Somuah & more tba | Gretchen
 16.07.2026 | Pansy Division / Eat Lipstick / Bleach & The Bumholes | Lido
-16.07.2026 | Culture Wars | Mikropol
+16.07.2026 | sold out | Culture Wars | Mikropol
 16.07.2026 | Doom Gong / Ixzhilion | Neue Zukunft
 16.07.2026 | Juanes | Uber Eats Music Hall
 16.07.2026 | Pale State / tba | Wild At Heart
@@ -748,6 +744,7 @@
 26.10.2026 | Kitty, Daisy + Lewis | Huxleys
 26.10.2026 | Lots Of Hands | Kantine Berghain
 26.10.2026 | Hyd | Privatclub
+26.10.2026 | new | Ella Eyre | Quasimodo
 26.10.2026 | Guilt Trip / Judiciary / Justice For The Damned / Long Goodbye | SO36
 27.10.2026 | sold out | Angine de Poitrine | Astra
 27.10.2026 | The Guest List | Badehaus
@@ -914,6 +911,7 @@
 10.11.2026 | True Loves | Gretchen
 10.11.2026 | feeble little horse | Kantine Berghain
 10.11.2026 | Sons Of Legion | Lido
+10.11.2026 | new | Sons Of Legion | Lido
 10.11.2026 | Red Hot Chili Pipers | Mikropol
 10.11.2026 | Holy Fawn / Outlander | Privatclub
 10.11.2026 | Poppy Ackroyd | Silent Green
@@ -1386,6 +1384,7 @@
 13.02.2027 | Schubert-Woche: Young Singers III | Pierre Boulez Saal
 14.02.2027 | Marie Seidler & Wolfram Rieger | Pierre Boulez Saal
 15.02.2027 | Dagny | Columbia Theater
+15.02.2027 | new | Look Mum No Computer | Hole
 17.02.2027 | Michael Schulte | Columbia Theater
 17.02.2027 | Adam O’Farrill | Pierre Boulez Saal
 18.02.2027 | new | Knox | Columbia Theater
@@ -1472,6 +1471,7 @@
 18.03.2027 | Our Mirage / Lost In Hollywood / Out Of Mission | Hole
 18.03.2027 | Geburtstagskonzert - 10 Jahre Pierre Boulez Saal | Pierre Boulez Saal
 18.03.2027 | Maite Kelly | Uber Arena
+19.03.2027 | new | Ruby Haunt | Frannz
 19.03.2027 | PA Sports | Hole
 19.03.2027 | Kakkmaddafakka | Huxleys
 19.03.2027 | Tash Sultana | Velodrom
@@ -1558,6 +1558,7 @@
 29.05.27 | Heath Quartet | Pierre Boulez Saal
 01.06.27 | John Vincent III | Privatclub
 05.06.27 | Akademiekonzert - Orchester der Barenboim-Said Akademie & Nabil Shehata | Pierre Boulez Saal
+05.06.27 | new | Acht Eimer Hühnerherzen | SO36
 05.06.27 | sold out | Die Ärzte | Wuhlheide
 06.06.27 | sold out | Die Ärzte | Wuhlheide
 07.06.27 | Akademiekonzert - Kammermusik mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
@@ -1566,14 +1567,14 @@
 15.06.27 | Herbert Grönemeyer | Waldbühne
 21.07.27 | Rush | Uber Arena
 20.08.27 | Die Fantastischen Vier | Waldbühne
-11.09.27 | Danger Dan | Wuhlheide
+11.9.27 | Danger Dan | Wuhlheide
 2.10.27 | Lychee Lassi | Gretchen
 8.10.27 | Tom Twers | Huxleys
 23.10.27 | Subway To Sally | Passionskirche
 30.10.27 | Andrea Berg | Uber Arena
 16.11.27 | Andreas Vollenweider & Friends | Philharmonie
 27.11.27 | Sind | Columbiahalle
-29.01.28 | Kool Savas | Uber Arena
+29.1.28 | Kool Savas | Uber Arena
 28.12.30 | TZK | Columbiahalle
 02.-03.10.06 | Unity - VNV Nation, IAMX, Zeromancer plus more | Columbiahalle
 03.-05.07.26 | Rocktreff - 16 Bands Live / Eintritt frei - https://rocktreff.de/ | Volkspark Mariendorf
