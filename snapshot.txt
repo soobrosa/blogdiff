@@ -1,20 +1,4 @@
 === Gigs (gid 415332589) ===
-01.08.26 | McKay | Badehaus
-01.08.26 | The Zig Zag Jazz Festvial - https://zigzag-jazzfestival.de/ | Gasometer
-01.08.26 | Festival Entre Trópicos | Neue Zukunft
-01.08.26 | Schalko / Schwindel | Schokoladen
-01.08.26 | The Dickies / Cherry Bomb / The Unmarked | SO36
-01.08.26 | Sophia. - Open Air | Waschhaus Potsdam
-01.08.26 | Ruin Royal / Deadroads | Wild At Heart
-01.08.26 | Alligatoah | Wuhlheide
-02.08.26 | Municipal Waste / Battlecreek | Hole
-02.08.26 | sold out | Thievery Corporation | Huxleys
-02.08.26 | Molly Green | Kulturhaus Insel
-02.08.26 | Mothers Finest | Lido
-02.08.26 | Camila / Only / Leep | Neue Zukunft
-02.08.26 | Blitzer / Snitsh Pitsh | OGH
-02.08.26 | HTRK | Silent Green
-02.08.26 | Good Riddance / Faster Disaster | SO36
 03.08.26 | Soulfly | Columbia Theater
 03.08.26 | H2O / Jawless | Lido
 03.08.26 | cancelled | N8Noface | Mikropol
@@ -180,6 +164,7 @@
 28.08.26 | sold out | Trailerpark & Friends Open Air 2026 - Day 1 | Zitadelle Spandau
 29.08.26 | Ski Aggu | Astra
 29.08.26 | Milo030 / Pigeons / Magnolia | Badehaus
+29.08.26 | new | Kraftwerk | Bauhaus Dessau
 29.08.26 | Die Höchste Eisenbahn | Freilichtbühne Weissensee
 29.08.26 | Berlin Folk Festival Summer '26: Bedouine + Mia Wilson + James Michael Rodgers + LEETA | Gretchen
 29.08.26 | Sophia Kennedy - Pop-Kultur Festival | Kesselhaus
@@ -264,6 +249,7 @@
 05.09.26 | Svdestada / Märno / Brüd | Neue Zukunft
 05.09.26 | XSLF - Ex Stiff Little Fingers Herny Cluney + support - Punkrock Boat Show 02.00 pm | Paula-Thiede-Ufer 10
 05.09.26 | XSLF - Ex Stiff Little Fingers Herny Cluney + support - Punkrock Boat Show 05.00 pm | Paula-Thiede-Ufer 10
+05.09.26 | new | 25. Ankerfest w/ Oi!Ronie, Hell Nation Army, A Kind Of Protest, Manege frei, Gibfum, | Pumptrack
 05.09.26 | TAHA | SO36
 05.09.26 | Dritte Wahl - Open Air | Waschhaus Potsdam
 05.09.26 | No Sports / Les Calcatoggios | Wild At Heart
@@ -442,7 +428,7 @@
 22.09.26 | sold out | Cake - an evening with Cake | Huxleys
 22.09.26 | Armenische Kultur in Berlin – Musik, Tanz und kulturelle Brücken | Kesselhaus
 22.09.26 | Carla Dal Forno / Nein Rodero | Silent Green
-22.09.26 | new venue | Team Dresch | SO36
+22.09.26 | new venue | Team Dresch / Shirley Holmes | SO36
 22.09.26 | Alison Moyet | Tempodrom
 22.09.26 | Spiritbox / Jinjer / Dying Wish | Velodrom
 23.09.26 | ela. | Badehaus
@@ -1311,7 +1297,7 @@
 19.11.26 | Freya Skye | Uber Eats Music Hall
 19.11.26 | Bragolin / Carrellee | Urban Spree
 19.11.26 | Icarus Burns / Lasse Reinstroem | Wild At Heart
-20.11.26 | Ignite / Cancer Bats | Astra
+20.11.26 | Ignite / Cancer Bats / plus tba | Astra
 20.11.26 | Ella Stern | Bi Nuu
 20.11.26 | Nie Und Nimmer | Columbia Theater
 20.11.26 | José González | Columbiahalle
