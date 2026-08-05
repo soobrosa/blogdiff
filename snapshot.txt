@@ -1,12 +1,4 @@
 === Gigs (gid 415332589) ===
-04.08.26 | The Swag Jam - Live Hip Hop Jam Session | Badehaus
-04.08.26 | new | N8NOFACE | BAIZ
-04.08.26 | Systema Solar / Edna Martinez | Gretchen
-04.08.26 | Lara Hulo | Kulturhaus Insel
-04.08.26 | Thy Art Is Murder | Metropol
-04.08.26 | Cordoba78: 'Afterhour Kaltenbrunnen' Live + Signing | Rough Trade Berlin
-04.08.26 | Silent green Open Lab #9: JKZQ + franna | Silent Green
-04.08.26 | 40 Years Of Fucking Up - A film by NOFX - Movie Screening | SO36
 05.08.26 | Deez Nuts | Cassiopeia
 05.08.26 | Left To Die | Frannz
 05.08.26 | Front Line Assembly / Tension Control | Gretchen
@@ -46,6 +38,7 @@
 09.08.26 | EA80 / Das Nest | Cassiopeia
 09.08.26 | Magma Festival - Anthony Naples, Deki Alem und Joy Orbison plus more tba - Day 2 | RSO Berlin
 09.08.26 | sold out | Turbostaat / Zhaat - Matinee-Show - Hofkonzert | Schokoladen
+09.08.26 | new | Fleischfressende Pflanzen / tba - nachmittags! | Villa Kuriosum
 09.08.26 | Haseeeb Iqbal - Sip! - 15 Uhr / open air | Zenner
 11.08.26 | Ratos De Porão / Ruinache | Cassiopeia
 11.08.26 | Kee Avil | Neue Zukunft
@@ -133,7 +126,7 @@
 22.08.26 | sold out | Kraftklub | Wuhlheide
 23.08.26 | Filth / Ruins Of Perception | Badehaus
 23.08.26 | Young Rebel Set | Cassiopeia
-23.08.26 | Fleischfressende Pflanzen | Mellenseepark
+23.08.26 | new | Werwolf In Aspik - nachmittags | Mellenseepark
 23.08.26 | new | Drink Deep / La Haine / Blockage / Sorry I'm Late | Neue Zukunft
 23.08.26 | Generation Y Punk - Update einer Subkultur - Filmdoku zu Fanzines, Faschos und der Gen Y + Vortrag | Schokoladen
 23.08.26 | WHEN CHAI MET TOAST | SO36
@@ -150,6 +143,7 @@
 26.08.26 | Cousines Like Shit / Liiek / Face Value | Neue Zukunft
 26.08.26 | Luge / 13 Year Cicada | Schokoladen
 26.08.26 | Bar Italia - Pop-Kultur Festival | Silent Green
+26.08.26 | new | Ned Collette Band - Album Launch feat. Chris Abrahams, Steve Heather, Fredrik Kinbom & Hezron Chetty | The Church Herrfurthplatz
 26.08.26 | SOM | Urban Spree
 26.08.26 | Hermosa - Eintritt frei - Wild Wednesday | Wild At Heart
 27.08.26 | Kishi Bashi | Hole
@@ -248,7 +242,7 @@
 04.09.26 | new | Tocotronic | Waschhaus Potsdam
 04.09.26 | Lola / Muttis Lieblinge | Wild At Heart
 05.09.26 | Buzzcocks - Celebrating 50 years of Buzzcocks | Astra
-05.09.26 | Modern English | Badehaus
+05.09.26 | cancelled | Modern English | Badehaus
 05.09.26 | Kein Bock Auf Nazis - 20 Jahre Stabil - Familienfest + Konzert mit Paula Carolina, ZSK und anderen | Columbiahalle
 05.09.26 | sold out | DLTLLY | Festsaal Kreuzberg
 05.09.26 | Drangsal - 10 Jahre »Harieschaim« / Die Mausis | Heimathafen Neukölln
@@ -367,7 +361,6 @@
 16.09.26 | Gia Margaret / Resavoir | Genezarethkirche
 16.09.26 | Jiluka | Hole
 16.09.26 | Olga Myko | Kantine Berghain
-16.09.26 | Olgy Myko | Kantine Berghain
 16.09.26 | Cory Hanson / Cole Berliner | Neue Zukunft
 16.09.26 | Mazen El Bagir & Ensemble | Pierre Boulez Saal
 16.09.26 | cancelled | Maia Manser | Privatclub
@@ -504,6 +497,7 @@
 26.09.26 | Jesse Barnett | Mikropol
 26.09.26 | NIRANIUM - 5. FLINTA*-ACTS & Inklusion w/ Glooom, Eddie, Riot Spear, Bonsai Kitten, Nungara | Neue Zukunft
 26.09.26 | sold out | Current 93 | Silent Green
+26.09.26 | new | Cause A Riot / Muell / Shiv | Trixxter
 26.09.26 | Past Self | Urban Spree
 26.09.26 | Guitar Gangsters / Knifte | Wild At Heart
 27.09.26 | Silke Bischoff / The Second Sight | Columbia Theater
@@ -679,6 +673,7 @@
 09.10.26 | Wood In Di Fire | Schokoladen
 09.10.26 | Missstand / Endlich Schlechte Musik / ESA | Supamolly
 09.10.26 | Lisa O'Neill | Theater Im Delphi
+09.10.26 | new | 7Sioux / Nervous Assistant | Trixxter
 09.10.26 | Farol Negro | Wild At Heart
 10.10.26 | Ed O'Brien | Admiralspalast
 10.10.26 | Harmful | Badehaus
@@ -1362,6 +1357,7 @@
 21.11.26 | Mustbejohn | Prachtwerk
 21.11.26 | Glueboys | Privatclub
 21.11.26 | Awesome Scampis / tba | Schokoladen
+21.11.26 | new | Instigators / Pjolterguys | Trixxter
 21.11.26 | Mine | Uber Eats Music Hall
 21.11.26 | Wisborg / The Fright | Urban Spree
 21.11.26 | The Prodigy | Velodrom
@@ -1665,7 +1661,7 @@
 16.12.26 | Ankor & Self Deception / Lauren Babic | Lido
 16.12.26 | Keren Motseri & Joseph Puglia | Pierre Boulez Saal
 17.12.26 | Ibeyi | Columbia Theater
-17.12.26 | David J (Bauhaus / Love & Rockets) | Frannz
+17.12.26 | David J (Bauhaus / Love & Rockets) / special guest Paul Wallfisch (ex-Swans) | Frannz
 17.12.26 | Gotobeat & 7alent Scout present: SILOÉ | Gretchen
 17.12.26 | Keimzeit | Kesselhaus
 17.12.26 | Le Fly | Mikropol
@@ -1711,6 +1707,7 @@
 28.12.26 | B-Tight | Columbia Theater
 28.12.26 | Crucchi Gang | Columbiahalle
 28.12.26 | Anna | Festsaal Kreuzberg
+28.12.26 | new | TZK / Menstruationsmassaker | SO36
 28.12.26 | Matthias Reim | Uber Arena
 29.12.26 | Die Liga Der Gewöhnlichen Gentlemen | Bi Nuu
 29.12.26 | Extrabreit | Hole
@@ -2064,37 +2061,37 @@
 01.06.27 | John Vincent III | Privatclub
 05.06.27 | Akademiekonzert - Orchester der Barenboim-Said Akademie & Nabil Shehata | Pierre Boulez Saal
 05.06.27 | Acht Eimer Hühnerherzen | SO36
-5.6.27 | sold out | Die Ärzte | Wuhlheide
-6.6.27 | sold out | Die Ärzte | Wuhlheide
-7.6.27 | Akademiekonzert - Kammermusik mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
+05.06.27 | sold out | Die Ärzte | Wuhlheide
+06.06.27 | sold out | Die Ärzte | Wuhlheide
+07.06.27 | Akademiekonzert - Kammermusik mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
 8.6.27 | Kristian Bezuidenhout | Pierre Boulez Saal
-13.06.27 | Delil & Avie | Huxleys
-13.06.27 | Boulez Ensemble & Jörg Widmann | Pierre Boulez Saal
+13.6.27 | Delil & Avie | Huxleys
+13.6.27 | Boulez Ensemble & Jörg Widmann | Pierre Boulez Saal
 15.6.27 | Herbert Grönemeyer | Waldbühne
-19.6.27 | new | Forced To Mode - Open Air | Waschhaus Potsdam
-22.6.27 | Jarlath Regan | Columbia Theater
-03.07.27 | Berlin Breakout! 2027 | Astra
-16.07.27 | Wolfcity Fest - Day 1 | Neue Zukunft
+19.06.27 | new | Forced To Mode - Open Air | Waschhaus Potsdam
+22.06.27 | Jarlath Regan | Columbia Theater
+3.7.27 | Berlin Breakout! 2027 | Astra
+16.7.27 | Wolfcity Fest - Day 1 | Neue Zukunft
 17.7.27 | Wolfcity Fest - Day 2 | Neue Zukunft
-21.7.27 | Rush | Uber Arena
-31.7.27 | new | WIZO - Open Air | Waschhaus Potsdam
-20.08.27 | Die Fantastischen Vier | Waldbühne
-11.09.27 | Danger Dan | Wuhlheide
+21.07.27 | Rush | Uber Arena
+31.07.27 | new | WIZO - Open Air | Waschhaus Potsdam
+20.8.27 | Die Fantastischen Vier | Waldbühne
+11.9.27 | Danger Dan | Wuhlheide
 18.9.27 | Diorama | Hole
 25.09.27 | Christin Stark | Columbia Theater
 02.10.27 | Lychee Lassi | Gretchen
-08.10.27 | Tom Twers | Huxleys
+8.10.27 | Tom Twers | Huxleys
 23.10.27 | Kayef | Columbia Theater
 23.10.27 | Romero | Hole
 23.10.27 | Subway To Sally | Passionskirche
 30.10.27 | Andrea Berg | Uber Arena
-05.11.27 | THE BEAUTY OF GEMINA | Mikropol
+5.11.27 | THE BEAUTY OF GEMINA | Mikropol
 14.11.27 | Gregor Hägele | Columbia Theater
 16.11.27 | Andreas Vollenweider & Friends | Philharmonie
 27.11.27 | Sind | Columbiahalle
 27.11.27 | Wincent Weiss | Uber Arena
-29.01.28 | Kool Savas | Uber Arena
-19.05.28 | Julian Sommer | Huxleys
+29.1.28 | Kool Savas | Uber Arena
+19.5.28 | Julian Sommer | Huxleys
 28.12.30 | TZK | Columbiahalle
 02.-03.10.06 | cancelled | Unity - VNV Nation, IAMX, Zeromancer plus more | Columbiahalle
 05.-06.12.26 | De Mortem Et Diabolum XII - 2026 | Orwohaus
