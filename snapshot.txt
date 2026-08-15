@@ -1,13 +1,4 @@
 === Gigs (gid 415332589) ===
-13.08.26 | Hackedepicciotto / Masha Qrella | Brandenburger Tor
-13.08.26 | Blond - open air | Kulturbrauerei
-13.08.26 | Sound In The Garden - Open Air - Dopplereffekt, Space Afrika | Neue Nationalgalerie
-13.08.26 | Dandy Deniz | Neue Zukunft
-13.08.26 | Jungle: 'Sunshine' Listening Event | Rough Trade Berlin
-13.08.26 | Phoebe Bridgers: 'Lost Weekend' Listening Event | Rough Trade Berlin
-13.08.26 | Múr | Urban Spree
-13.08.26 | West-Eastern Divan Orchestra - Daniel Barenboim, Yo-Yo Ma Cello | Waldbühne
-13.08.26 | sold out | AnnenMayKantereit | Wuhlheide
 14.08.26 | Forstfest: A Distant Report - https://forstfest.com/ - Day 1 | Forsthaus Grünow / Müritz
 14.08.26 | Bricks Agency Open Air | Kulturbrauerei
 14.08.26 | Sound In The Garden - Open Air - Hildur Guðnadóttir & Sam Slater, Slauson Malone | Neue Nationalgalerie
@@ -527,6 +518,7 @@
 30.09.26 | Ok Kid / Pippa | Festsaal Kreuzberg
 30.09.26 | Vundabar / Yot Club | Frannz
 30.09.26 | Mop Mop feat. Anthony Joseph | Gretchen
+30.09.26 | new | Mass Of The Fermenting Dregs | Hole
 30.09.26 | Tarja | Huxleys
 30.09.26 | Holy Wave / BLKE | Kantine Berghain
 30.09.26 | new | Benny Bellson | Lark
@@ -1870,6 +1862,7 @@
 29.01.27 | Killerpilze | Huxleys
 29.01.27 | Reverend Hardy Hardon & The Church Of Elvis | Lido
 29.01.27 | Nothing But Thieves | Max-Schmeling-Halle
+29.01.27 | new | Steve Norman (Spandau Ballet) & The Sleevz | Metropol
 29.01.27 | Gilla Band | SO36
 30.01.27 | Let Me Entertain You | Admiralspalast
 30.01.27 | Wage Ware / Wind Walkers / Invent Animate | Columbia Theater
@@ -1997,6 +1990,7 @@
 05.03.27 | Karate Andi | Festsaal Kreuzberg
 05.03.27 | sold out | South Arcade | Lido
 05.03.27 | The Hirsch Effekt | Mikropol
+05.03.27 | new | Maiva | Prachtwerk
 05.03.27 | Enhypen | Uber Arena
 06.03.27 | Anda Morts | Astra
 06.03.27 | Mamas Gun | Columbia Theater
@@ -2064,38 +2058,38 @@
 26.03.27 | One Step Closer - Linkin Park Tribute | Kesselhaus
 26.03.27 | Melissa Aldana featuring Pablo Held | Pierre Boulez Saal
 26.03.27 | Kat Frankie - Bodies | Tempodrom
-27.3.27 | Dauerwelle Wasserstoff | Mikropol
-29.3.27 | Boulez Ensemble & Daniel Barenboim | Pierre Boulez Saal
-29.3.27 | Kaleo | Uber Eats Music Hall
-30.3.27 | Jeeyoung Lim & Jonathan Ware | Pierre Boulez Saal
+27.03.27 | Dauerwelle Wasserstoff | Mikropol
+29.03.27 | Boulez Ensemble & Daniel Barenboim | Pierre Boulez Saal
+29.03.27 | Kaleo | Uber Eats Music Hall
+30.03.27 | Jeeyoung Lim & Jonathan Ware | Pierre Boulez Saal
 31.03.27 | Jordan Rakei | Huxleys
 01.04.27 | new | Megadeath | UFO im Velodrom
 2.4.27 | Lance Butters | Columbia Theater
 2.4.27 | Leoniden | Columbiahalle
 3.4.27 | Victory / Why Amnesia | Hole
-03.04.27 | Razz | Huxleys
+3.4.27 | Razz | Huxleys
 03.04.27 | Stefan Temmingh, Mathis Wolfer & Ensemble | Pierre Boulez Saal
-3.4.27 | new | AK Ausserkontrolle | UFO im Velodrom
+03.04.27 | new | AK Ausserkontrolle | UFO im Velodrom
 4.4.27 | Yungmon + Lyran Dasz | Lido
 7.4.27 | Sarah Engels | Columbia Theater
-07.04.27 | Quartet Amabile | Pierre Boulez Saal
+7.4.27 | Quartet Amabile | Pierre Boulez Saal
 08.04.27 | Iggi Kelly | Frannz
-8.4.27 | Dr. Feelgood | Maschinenhaus
-08.04.27 | sold out | Die Ärzte | Max-Schmeling-Halle
-08.04.27 | Ian Hooper | Mikropol
-08.04.27 | Loua | Privatclub
-9.4.27 | Kati K | Columbia Theater
-9.4.27 | sold out | Die Ärzte | Max-Schmeling-Halle
+08.04.27 | Dr. Feelgood | Maschinenhaus
+8.4.27 | sold out | Die Ärzte | Max-Schmeling-Halle
+8.4.27 | Ian Hooper | Mikropol
+8.4.27 | Loua | Privatclub
+09.04.27 | Kati K | Columbia Theater
+09.04.27 | sold out | Die Ärzte | Max-Schmeling-Halle
 9.4.27 | William The Conqueror | Mikropol
-9.4.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+09.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
 09.04.27 | Ein Rosenkavalier | Privatclub
-10.4.27 | Mono Inc. | Admiralspalast
-10.04.27 | Josh. | Columbia Theater
-10.04.27 | Eläkeläiset | Festsaal Kreuzberg
-10.04.27 | Leony | Huxleys
-10.04.27 | Tulpe | Lido
+10.04.27 | Mono Inc. | Admiralspalast
+10.4.27 | Josh. | Columbia Theater
+10.4.27 | Eläkeläiset | Festsaal Kreuzberg
+10.4.27 | Leony | Huxleys
+10.4.27 | Tulpe | Lido
 10.04.27 | Big Daddy Wilson | Maschinenhaus
-10.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+10.4.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
 11.04.27 | Queen Mahoro | Badehaus
 11.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
 11.04.27 | Senta | Waschhaus Potsdam
@@ -2219,7 +2213,7 @@
 20.11.27 | Kanonfieber | Max-Schmeling-Halle
 27.11.27 | Sind | Columbiahalle
 27.11.27 | Wincent Weiss | Uber Arena
-3.12.27 | Smokie | Admiralspalast
+03.12.27 | Smokie | Admiralspalast
 18.12.27 | Finch | Velodrom
 29.1.28 | Kool Savas | Uber Arena
 19.5.28 | Julian Sommer | Huxleys
