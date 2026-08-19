@@ -1,7 +1,4 @@
 === Gigs (gid 415332589) ===
-17.08.26 | sold out | Evening Elephants | Kantine Berghain
-17.08.26 | Borderline | Mikropol
-17.08.26 | Grischa Lichtenberger / BK United / Hilde Wollenstein | Neue Zukunft
 18.08.26 | cancelled | Rose Tattoo / Velvet Rush | Astra
 18.08.26 | sold out | Fresse auf für queere Freiheit - Benefizkonzert in Gedenken an den CSD '26 | Columbiahalle
 18.08.26 | Ron Sexsmith | Frannz
@@ -20,6 +17,7 @@
 20.08.26 | Two Feet | Columbia Theater
 20.08.26 | G Sessions feat. KOOB & more | Gretchen
 20.08.26 | ¥ØU$UK€ ¥UK1MAT$U / tba | Haus Der Visionäre
+20.08.26 | new | Kowa Axis / Aidan Baker / Tim Wyskida | Morphine Raum
 21.08.26 | Shadowplay XX w/ Solar Flake / Special Guests: Black Nail Cabaret & Unify Separate | Bi Nuu
 21.08.26 | Teenage Couleur presents: 808s FOR CHARITY - Kinderhospiz Benefizkonzert | Gretchen
 21.08.26 | Fannie | Maschinenhaus
@@ -147,6 +145,7 @@
 04.09.26 | Vier Pianisten – Ein Konzert | Admiralspalast
 04.09.26 | Kizomba Night - Johnny Ramos Live | Badehaus
 04.09.26 | Haze | Bi Nuu
+04.09.26 | new | Gene Sophia & Friends / Sonderpark / LoboLoto / Rat Bit Kit / Diego Wedgewood - Saturn's Return | Café Engels
 04.09.26 | Myng | Hole
 04.09.26 | Corrupted Blood Club Show w/ tba | Huxleys
 04.09.26 | Brockhoff | Kantine Berghain
@@ -423,7 +422,7 @@
 25.09.26 | Drunken Swallows | Badehaus
 25.09.26 | Grenzkontrolle | Badehaus
 25.09.26 | Vega | Columbia Theater
-25.09.26 | Kitschkrieg / 255 / Blumengarten | Columbiahalle
+25.09.26 | postponed | Kitschkrieg / 255 / Blumengarten | Columbiahalle
 25.09.26 | Lotte | Festsaal Kreuzberg
 25.09.26 | Humanity's Last Breath / Vildhjarta / Enterprise Earth / Karmanjakah | Hole
 25.09.26 | Blockhead / ProleteR / Arms And Sleepers | Kantine Berghain
@@ -638,6 +637,7 @@
 09.10.26 | Gims | Columbiahalle
 09.10.26 | Mr. Scurff & moe. - 15 years Gretchen | Gretchen
 09.10.26 | Michael Koch | Heimathafen Neukölln
+09.10.26 | new | Lucy Bedroque | Hole
 09.10.26 | Kaizers Orchestra | Huxleys
 09.10.26 | Jay-Jay Johansson | Kantine Berghain
 09.10.26 | Sun's Sons | Kulturhaus Insel
@@ -1016,6 +1016,7 @@
 30.10.26 | Deloraine | Hole
 30.10.26 | Picture This / Dreamboys The Band / Marc Atlas | Huxleys
 30.10.26 | Carl Carlton & Melanie Wiegmann and the great band | Lido
+30.10.26 | new | Siovo | Lido
 30.10.26 | Nico Santos | Max-Schmeling-Halle
 30.10.26 | Melanie C | Metropol
 30.10.26 | Anchors + Hearts | Privatclub
@@ -1209,6 +1210,7 @@
 11.11.26 | Kilimanjaro | Lark
 11.11.26 | Red Hot Chilli Pipers | Metropol
 11.11.26 | Dan Owen | Privatclub
+11.11.26 | new | Phil Campbell's Bastards Son | Roadrunners
 11.11.26 | Bloc Party / Interpol | Uber Arena
 11.11.26 | The Howlers - EU Album Tour | Urban Spree
 11.11.26 | Rock Elegant - Eintritt frei / Wild Wednesday | Wild At Heart
@@ -1623,6 +1625,7 @@
 06.12.26 | System Olympia | Gretchen
 06.12.26 | Artemas / Henry Morris / Ella Boh | Huxleys
 06.12.26 | Seb Lowe | Kantine Berghain
+06.12.26 | new | Viko / Penglord | Kesselhaus
 06.12.26 | Senta - Das Mitmach-Popkonzert für die ganze Familie - 16 Uhr | Lido
 06.12.26 | ONE VIOLIN ORCHESTRA - Christmas Concert | Lindenpark Potsdam
 06.12.26 | Schattenformat | Mikropol
@@ -1709,6 +1712,7 @@
 13.12.26 | Lumaraa | Privatclub
 14.12.26 | Mental Cruelty / Ov Sulfur / Extermination / Dismemberment / Acranius | Hole
 14.12.26 | Gregory Porter | Philharmonie
+15.12.26 | new | Doubtboy / Gold.mp3 | Badehaus
 15.12.26 | sold out | Sidos Weihnachtsshow 2026 | Columbiahalle
 15.12.26 | Fellas | Gretchen
 15.12.26 | Dominum | SO36
@@ -2064,32 +2068,33 @@
 08.04.27 | Ian Hooper | Mikropol
 08.04.27 | Loua | Privatclub
 09.04.27 | Kati K | Columbia Theater
-9.4.27 | sold out | Die Ärzte | Max-Schmeling-Halle
-9.4.27 | William The Conqueror | Mikropol
-9.4.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
-9.4.27 | Ein Rosenkavalier | Privatclub
+09.04.27 | sold out | Die Ärzte | Max-Schmeling-Halle
+09.04.27 | William The Conqueror | Mikropol
+09.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+09.04.27 | Ein Rosenkavalier | Privatclub
 10.04.27 | Mono Inc. | Admiralspalast
 10.04.27 | Josh. | Columbia Theater
-10.4.27 | Eläkeläiset | Festsaal Kreuzberg
-10.4.27 | Leony | Huxleys
-10.4.27 | Tulpe | Lido
+10.04.27 | Eläkeläiset | Festsaal Kreuzberg
+10.04.27 | Leony | Huxleys
+10.04.27 | Tulpe | Lido
 10.04.27 | Big Daddy Wilson | Maschinenhaus
 10.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
-11.4.27 | Queen Mahoro | Badehaus
-11.4.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
-11.4.27 | Senta | Waschhaus Potsdam
+10.04.27 | new | PA69 | Velodrom
+11.04.27 | Queen Mahoro | Badehaus
+11.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
+11.04.27 | Senta | Waschhaus Potsdam
 12.04.27 | Monet192 | Huxleys
 12.04.27 | Moneti192 | Huxleys
-13.4.27 | RPWL | Maschinenhaus
+13.04.27 | RPWL | Maschinenhaus
 13.04.27 | Luna Simao | Modus
 13.04.27 | Ema Nikolovska & Hikaru Kanki | Pierre Boulez Saal
 14.04.27 | Laurenz Nikolaus | Badehaus
-14.4.27 | Monatik | Huxleys
-14.4.27 | Hinnerk Köhn | Waschhaus Potsdam
-15.4.27 | Raum27 | Huxleys
-15.4.27 | Patricia Brennan | Pierre Boulez Saal
+14.04.27 | Monatik | Huxleys
+14.04.27 | Hinnerk Köhn | Waschhaus Potsdam
+15.04.27 | Raum27 | Huxleys
+15.04.27 | Patricia Brennan | Pierre Boulez Saal
 16.04.27 | Les Bummms Boys | Frannz
-16.4.27 | Jan Plewka singt Rio Reiser - Lass uns ein Wunder sein | Kesselhaus
+16.04.27 | Jan Plewka singt Rio Reiser - Lass uns ein Wunder sein | Kesselhaus
 16.04.27 | Alless. | Maaya
 16.04.27 | Marc Atlas | Mikropol
 16.04.27 | Metro Verlaine | Neue Zukunft
@@ -2100,6 +2105,7 @@
 17.04.27 | new | In Extremo / Feuerschwanz | UFO im Velodrom
 18.04.27 | Rodrigo Y Gabriela | Columbia Theater
 18.04.27 | Bibiza | Columbiahalle
+18.04.27 | new | Ramzy | Lido
 18.04.27 | Belcea Quartet | Pierre Boulez Saal
 18.04.27 | Michèl von Wussow | Privatclub
 18.04.27 | Thirty Seconds To Mars | Velodrom
@@ -2153,6 +2159,7 @@
 19.05.27 | Monika Roscher Bigband | Kesselhaus
 20.05.27 | Till Brönner & SWR Big Band | Admiralspalast
 20.05.27 | Elisabeth Leonskaja & Julius Drake | Pierre Boulez Saal
+21.05.27 | new | Drunken Masters | Huxleys
 21.05.27 | Konstantin Krimmel & Ammiel Bushakevitz | Pierre Boulez Saal
 22.05.27 | Christoph Sakwerda | Frannz
 22.05.27 | KC Rebell | Huxleys
@@ -2179,6 +2186,7 @@
 17.07.27 | Wolfcity Fest - Day 2 | Neue Zukunft
 21.07.27 | Rush | Uber Arena
 31.07.27 | WIZO - Open Air | Waschhaus Potsdam
+14.08.27 | new | Bricks Agency Open Air - Bangerfabrique, Tara Emily, Miss Marla, Secret Act | Kulturbrauerei
 20.08.27 | Die Fantastischen Vier | Waldbühne
 11.09.27 | Danger Dan | Wuhlheide
 18.09.27 | Diorama | Hole
