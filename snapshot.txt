@@ -1,9 +1,4 @@
 === Gigs (gid 415332589) ===
-20.08.26 | Two Feet | Columbia Theater
-20.08.26 | G Sessions feat. KOOB & more | Gretchen
-20.08.26 | ¥ØU$UK€ ¥UK1MAT$U / tba | Haus Der Visionäre
-20.08.26 | new | Kowa Axis / Aidan Baker / Tim Wyskida | Morphine Raum
-20.08.26 | new | Lambchop: 'Punching the Clown' Listening Event - ohne Band / Eintritt frei | Rough Trade Berlin
 21.08.26 | Shadowplay XX w/ Solar Flake / Special Guests: Black Nail Cabaret & Unify Separate | Bi Nuu
 21.08.26 | Teenage Couleur presents: 808s FOR CHARITY - Kinderhospiz Benefizkonzert | Gretchen
 21.08.26 | Fannie | Maschinenhaus
@@ -22,6 +17,7 @@
 22.08.26 | DIE LEGENDE VON NORD | SO36
 22.08.26 | HIRAES + Supports | Urban Spree
 22.08.26 | new | Viilapalooza - Songwriterfestival w/ Viktor's Joy, Mia Ramer, Florian Illing, Los, JAni Dingsda, Laurentius The Profit | Villa Kuriosum
+22.08.26 | new | Fleischfressende Pflanzen / Vorsicht Kinder / Aunt | West Germany
 22.08.26 | Lilith + The Noise Boys / The Giraffe Men feat. Marietta's Sister | Wild At Heart
 22.08.26 | sold out | Kraftklub | Wuhlheide
 23.08.26 | Filth / Ruins Of Perception | Badehaus
@@ -1038,10 +1034,10 @@
 1.11.26 | Beyond Border / Trio Miillion Miles To Success / Modular | Privatclub
 1.11.26 | YOUNG POSSE | SO36
 1.11.26 | Tomora | UFO Velodrom
-01.11.26 | Heavysaurus | Waschhaus Potsdam
-02.11.26 | Joe Jackson + Band | Admiralspalast
-02.11.26 | Swapmeet | Badehaus
-02.11.26 | Citizen | Columbia Theater
+1.11.26 | Heavysaurus | Waschhaus Potsdam
+2.11.26 | Joe Jackson + Band | Admiralspalast
+2.11.26 | Swapmeet | Badehaus
+2.11.26 | Citizen | Columbia Theater
 02.11.26 | Gentleman | Columbiahalle
 02.11.26 | Eli Preiss | Festsaal Kreuzberg
 02.11.26 | Call Me Karizma | Frannz
@@ -1542,10 +1538,10 @@
 1.12.26 | Akademiekonzert - Kammermusik mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
 1.12.26 | Mt Jones | Privatclub
 1.12.26 | SHANTEL & BUCOVINA CLUB SOUNDSYSTEM | SO36
-02.12.26 | Selig | Astra
-02.12.26 | Nervy | Columbia Theater
-02.12.26 | sold out | Sidos Weihnachtsshow 2026 | Columbiahalle
-02.12.26 | Crashdiet | Frannz
+2.12.26 | Selig | Astra
+2.12.26 | Nervy | Columbia Theater
+2.12.26 | sold out | Sidos Weihnachtsshow 2026 | Columbiahalle
+2.12.26 | Crashdiet | Frannz
 02.12.26 | Wesghost | Hole
 02.12.26 | Oskar Haag | Kantine Berghain
 02.12.26 | Death Angel / Vio-Lence / tba | Kesselhaus
@@ -1788,10 +1784,10 @@
 12.1.27 | Orden Ogan | Kesselhaus
 12.1.27 | Heinz Strunk - Lesung | Volksbühne
 14.1.27 | Tonique & Man | Kantine Berghain
-14.01.27 | A'Coma | SO36
-15.01.27 | Heavytones | Columbia Theater
-15.01.27 | Hotel Rimini | Waschhaus Potsdam
-16.01.27 | Wishbone Ash | Frannz
+14.1.27 | A'Coma | SO36
+15.1.27 | Heavytones | Columbia Theater
+15.1.27 | Hotel Rimini | Waschhaus Potsdam
+16.1.27 | Wishbone Ash | Frannz
 16.01.27 | Kupfergold | Hole
 16.01.27 | Pothead | Huxleys
 16.01.27 | Anime Rap Revolution Vol. I | Kesselhaus
@@ -2195,10 +2191,10 @@
 20.11.27 | Kanonfieber | Max-Schmeling-Halle
 27.11.27 | Sind | Columbiahalle
 27.11.27 | Wincent Weiss | Uber Arena
-3.12.27 | Smokie | Admiralspalast
+03.12.27 | Smokie | Admiralspalast
 18.12.27 | Finch | Velodrom
-29.1.28 | Kool Savas | Uber Arena
-19.5.28 | Julian Sommer | Huxleys
+29.01.28 | Kool Savas | Uber Arena
+19.05.28 | Julian Sommer | Huxleys
 28.12.30 | TZK | Columbiahalle
 02.-03.10.06 | cancelled | Unity - VNV Nation, IAMX, Zeromancer plus more | Columbiahalle
 05.-06.12.26 | De Mortem Et Diabolum XII - 2026 | Orwohaus
