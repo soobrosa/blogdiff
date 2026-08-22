@@ -184,7 +184,7 @@
 08.09.26 | Junkyard Drive | Badehaus
 08.09.26 | Lambros. | Prachtwerk
 08.09.26 | Noah Hill | Privatclub
-08.09.26 | Weird Nightmare | Urban Spree
+08.09.26 | Weird Nightmare / Jan Schwarzkamp Power-Pop DJ Set | Urban Spree
 09.09.26 | Sigh | Badehaus
 09.09.26 | Tara Clerkin Trio / Life | Neue Zukunft
 09.09.26 | Lily Fitts | Privatclub
@@ -209,6 +209,7 @@
 11.09.26 | Devon Allman’s Blues Summit | Frannz
 11.09.26 | Testosterone | Gretchen
 11.09.26 | Marlo Grosshardt | Huxleys
+11.09.26 | new | Sexmag / Rapid / Deathly Scythe | K-Hole
 11.09.26 | Billy Childish & CTMF | Lido
 11.09.26 | Fun Horns 40 - remembering Miles | Maschinenhaus
 11.09.26 | Berlin Swamp Fest 2026 - Day 2 - https://www.swampconspiracy.org/ | Neue Zukunft
@@ -707,6 +708,7 @@
 14.10.26 | Jalen Ngonda / Brooke Combe | Huxleys
 14.10.26 | Alex Cameron | Kantine Berghain
 14.10.26 | Soft Loft | Lido
+14.10.26 | new | Eli | Mikropol
 14.10.26 | Starjunk 95 | Modus
 14.10.26 | Dazzling Killmen | Neue Zukunft
 14.10.26 | Elephant9 | Neue Zukunft
@@ -834,7 +836,7 @@
 21.10.26 | Khemmis / Celestial Sanctuary | Cassiopeia
 21.10.26 | Mal Élevé | Festsaal Kreuzberg
 21.10.26 | Reinhard Buhr | Frannz
-21.10.26 | Alpha Wolf | Hole
+21.10.26 | cancelled | Alpha Wolf | Hole
 21.10.26 | Parra For Cuva | Huxleys
 21.10.26 | Moliy | Kantine Berghain
 21.10.26 | Moliy | Kantine Berghain
@@ -1036,8 +1038,8 @@
 1.11.26 | Tomora | UFO Velodrom
 1.11.26 | Heavysaurus | Waschhaus Potsdam
 2.11.26 | Joe Jackson + Band | Admiralspalast
-2.11.26 | Swapmeet | Badehaus
-2.11.26 | Citizen | Columbia Theater
+02.11.26 | Swapmeet | Badehaus
+02.11.26 | Citizen | Columbia Theater
 02.11.26 | Gentleman | Columbiahalle
 02.11.26 | Eli Preiss | Festsaal Kreuzberg
 02.11.26 | Call Me Karizma | Frannz
@@ -1540,8 +1542,8 @@
 1.12.26 | SHANTEL & BUCOVINA CLUB SOUNDSYSTEM | SO36
 2.12.26 | Selig | Astra
 2.12.26 | Nervy | Columbia Theater
-2.12.26 | sold out | Sidos Weihnachtsshow 2026 | Columbiahalle
-2.12.26 | Crashdiet | Frannz
+02.12.26 | sold out | Sidos Weihnachtsshow 2026 | Columbiahalle
+02.12.26 | Crashdiet | Frannz
 02.12.26 | Wesghost | Hole
 02.12.26 | Oskar Haag | Kantine Berghain
 02.12.26 | Death Angel / Vio-Lence / tba | Kesselhaus
@@ -1786,8 +1788,8 @@
 14.1.27 | Tonique & Man | Kantine Berghain
 14.1.27 | A'Coma | SO36
 15.1.27 | Heavytones | Columbia Theater
-15.1.27 | Hotel Rimini | Waschhaus Potsdam
-16.1.27 | Wishbone Ash | Frannz
+15.01.27 | Hotel Rimini | Waschhaus Potsdam
+16.01.27 | Wishbone Ash | Frannz
 16.01.27 | Kupfergold | Hole
 16.01.27 | Pothead | Huxleys
 16.01.27 | Anime Rap Revolution Vol. I | Kesselhaus
@@ -1844,6 +1846,7 @@
 31.01.27 | A Life Divided | Frannz
 31.01.27 | Get Well Soon | Huxleys
 31.01.27 | Psyche / Sea Of Sin | Privatclub
+02.02.27 | new | Adéla | Metropol
 02.02.27 | Trio Gaspard | Pierre Boulez Saal
 03.02.27 | Akademiekonzert mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
 04.02.27 | Sollowege | Badehaus
@@ -1922,6 +1925,7 @@
 23.02.27 | P.O. Box / tba | Schokoladen
 24.02.27 | Jaill | Columbia Theater
 24.02.27 | Glasperlenspiel | Lido
+24.02.27 | new | Glasperlenspiel | Lido
 24.02.27 | Forever Pavot | Neue Zukunft
 24.02.27 | Outlander In Concert | Uber Eats Music Hall
 24.02.27 | new | Manowar | UFO im Velodrom
@@ -2132,6 +2136,7 @@
 08.05.27 | Vendetta Fest 2027 w/ tba- Day 2 | Neue Zukunft
 09.05.27 | Yulianna Avdeeva | Pierre Boulez Saal
 11.05.27 | Akademiekonzert - Kammermusik mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
+12.05.27 | new | Rian | Huxleys
 12.05.27 | Gracie Abrams | Uber Arena
 13.05.27 | Peter Kraus & Mike Kraus | Admiralspalast
 13.05.27 | Die Happy | Hole
@@ -2154,6 +2159,7 @@
 29.05.27 | Heath Quartet | Pierre Boulez Saal
 30.05.27 | Omar76 | Hole
 01.06.27 | John Vincent III | Privatclub
+02.06.27 | new | Jorja Smith | Zitadelle Spandau
 03.06.27 | Piano Man – A Tribute Concert to Billy Joel | Admiralspalast
 05.06.27 | Akademiekonzert - Orchester der Barenboim-Said Akademie & Nabil Shehata | Pierre Boulez Saal
 05.06.27 | Acht Eimer Hühnerherzen | SO36
