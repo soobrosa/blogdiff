@@ -1,20 +1,4 @@
 === Gigs (gid 415332589) ===
-12.10.26 | Freya Ridings | Admiralspalast
-12.10.26 | TMARO & PapaRaZzle | Badehaus
-12.10.26 | cancelled | Dizzee Rascal | Columbia Theater
-12.10.26 | Paris Jackson | Frannz
-12.10.26 | Streetlife International presents: BLACK MILK | Gretchen
-12.10.26 | Yaelokre | Hole
-12.10.26 | Camille Jansen | Kantine Berghain
-12.10.26 | new | HKSPK / Alkhemia / My Lament | Kulturhaus Insel
-12.10.26 | Xandria | Lido
-12.10.26 | Bleood | Metropol
-12.10.26 | Lords Of Lounge | Mikropol
-12.10.26 | Gizem Celik | Peter Edel
-12.10.26 | Staatskapelle Berlin & Gemma New | Pierre Boulez Saal
-12.10.26 | Tim Kascher | Prachtwerk
-12.10.26 | Brothers Moving / Patrick James | Privatclub
-12.10.26 | Danko Jones / Split Dogs | Waschhaus Potsdam
 13.10.26 | Kosmos & Orchester | Admiralspalast
 13.10.26 | El Tri | Astra
 13.10.26 | Declan Welsh + The Decadent West | Badehaus
