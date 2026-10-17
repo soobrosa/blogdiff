@@ -1,68 +1,4 @@
 === Gigs (gid 415332589) ===
-13.10.26 | Kosmos & Orchester | Admiralspalast
-13.10.26 | El Tri | Astra
-13.10.26 | Declan Welsh + The Decadent West | Badehaus
-13.10.26 | Krallice / Rashad Becker | Berghain
-13.10.26 | Blood Red Shoes | Festsaal Kreuzberg
-13.10.26 | Soulgigs presents: PJ MORTON | Gretchen
-13.10.26 | Laibach | Huxleys
-13.10.26 | Ferris & Sylvester | Monarch
-13.10.26 | sold out | Liars | Neue Zukunft
-13.10.26 | Spirit Mother / Yawn Man | Neue Zukunft
-13.10.26 | Sebastian Schub | Prachtwerk
-13.10.26 | Mr. Poetik | Privatclub
-13.10.26 | Caro: 'Returning to Innocence' Stripped Down Live + Signing | Rough Trade Berlin
-13.10.26 | Honne / Beka | Säälchen
-13.10.26 | Cut / CumSick | Schokoladen
-13.10.26 | Ryoko Ono / Hanno Leichtmann / Sergeant | Silent Green
-13.10.26 | new venue | I Prevail | UFO Velodrom
-14.10.26 | My New Band Believe | 90mil
-14.10.26 | Jahcoustic / Sebastian Sturm | Badehaus
-14.10.26 | Mar Malade | Columbia Theater
-14.10.26 | Yard Act | Festsaal Kreuzberg
-14.10.26 | The Delines / A.S. Fanning | Frannz
-14.10.26 | Des Rocs | Gretchen
-14.10.26 | bangerfabrique - Zusatzshow | Hole
-14.10.26 | Jalen Ngonda / Brooke Combe | Huxleys
-14.10.26 | Alex Cameron / Josh Da Costa | Kantine Berghain
-14.10.26 | new | Kristofer Svensson | KM28
-14.10.26 | Fee Penafiel | Kulturhaus Insel
-14.10.26 | Soft Loft | Lido
-14.10.26 | postponed | Eli - new date tba | Mikropol
-14.10.26 | Starjunk 95 | Modus
-14.10.26 | Dazzling Killmen / Prophet & Flesh | Neue Zukunft
-14.10.26 | Elephant9 | Neue Zukunft
-14.10.26 | new | David O’Dowda / Liv Solveig | Prachtwerk
-14.10.26 | cancelled | Telenova | Privatclub
-14.10.26 | Cosmic Kitten / Chaton Laveur | Schokoladen
-14.10.26 | Alpha Maid | Silent Green
-14.10.26 | Kantine Musik | Silent Green
-14.10.26 | Stail - Eintritt frei - Wild Wednesday | Wild At Heart
-15.10.26 | James Blake | Astra
-15.10.26 | Sotiria | Badehaus
-15.10.26 | The Beatles Tribute Show | Columbia Theater
-15.10.26 | Marlene Kuntz | Frannz
-15.10.26 | La Hafla Weekender - Day 1 | Gretchen
-15.10.26 | bangerfabrique | Hole
-15.10.26 | sold out | Cat Power - "The Greatest" 20th Anniversary | Huxleys
-15.10.26 | new | Jon Rose (violin, amplified tenor violin, recordings), Richard Scott (voltage-controlled electronics, DJ-console) & Nic Collins | KM28
-15.10.26 | Spineshank / Hed P.E. | Lark
-15.10.26 | Yung Saint Paul | Lido
-15.10.26 | Joe Hertenstein’s XCountry Bungalow featuring Daisy Payero | Maschinenhaus
-15.10.26 | Fink | Metropol
-15.10.26 | Gewalt - 10 Jahre Gewalt Gala feat. Kevin Kuhn, Fee Kürten, Matthias Mewferst, Florian Pühs | Neue Zukunft
-15.10.26 | Urisk / Tyrannus / Norkh | Neue Zukunft
-15.10.26 | Philharmonie Orchester London - Dirigent Robin Ticciati - Konzert zum Gedenken an Guiseppe Sinopoli | Philharmonie
-15.10.26 | Morgenstern Trio | Pierre Boulez Saal
-15.10.26 | Berre | Prachtwerk
-15.10.26 | I Promised The World | Privatclub
-15.10.26 | cancelled | 54 Ultra | Säälchen
-15.10.26 | Rika Bender + MEDUΣA | Schokoladen
-15.10.26 | Tito + Tarantula - Best Of Tour | SO36
-15.10.26 | Annett Louisan | Tempodrom
-15.10.26 | The Strokes | Uber Arena
-15.10.26 | new | Indie in Town: Vence, M.Lucky & Mirrors | Urban Spree
-15.10.26 | Miss Allie | Waschhaus Potsdam
 16.10.26 | James Blake | Astra
 16.10.26 | Philipp Lump | Badehaus
 16.10.26 | new | Stella & The Longos / Sua Galera | Bi Nuu
@@ -70,7 +6,7 @@
 16.10.26 | Prinz Pi / Laas | Columbiahalle
 16.10.26 | Bluthund / Zombiez | Festsaal Kreuzberg
 16.10.26 | La Hafla Weekender - Day 2 | Gretchen
-16.10.26 | Samurai Pizza Cats / Babybeard | Hole
+16.10.26 | Samurai Pizza Cats / Babybeard | Hole44
 16.10.26 | Civo | Huxleys
 16.10.26 | Pub Choir | Kleine Arena Tempodrom
 16.10.26 | AoxoToxoA | Kulturhaus Insel
@@ -82,6 +18,7 @@
 16.10.26 | cancelled | Kita Alexander / Lala Hayden | Mikropol
 16.10.26 | Makthaverskan / Molly Nilsson | Monarch
 16.10.26 | Heavy Psych Sounds Fest Berlin 2026 | Neue Zukunft
+16.10.26 | new | Scorn / Slow Burn / Chlorate | OGH
 16.10.26 | Elternzeitkonzert: Morgenstern Trio | Pierre Boulez Saal
 16.10.26 | Yola | Prachtwerk
 16.10.26 | Yung Street / Go(o)d Trip | Privatclub
@@ -100,9 +37,10 @@
 16.10.26 | Tomo Katsurada & Jonny Nash | Zenner
 17.10.26 | sold out | Ólafur Arnalds | Admiralspalast
 17.10.26 | Alexandra Capitanescu | Bi Nuu
+17.10.26 | new | Alexandra Căpitănescu | Bi Nuu
 17.10.26 | cancelled | Sixpence None The Richer | Columbia Theater
 17.10.26 | Future Palace | Festsaal Kreuzberg
-17.10.26 | Fast Boy | Hole
+17.10.26 | Fast Boy | Hole44
 17.10.26 | Betontod / Rogers | Huxleys
 17.10.26 | cancelled | Eve | Huxleys
 17.10.26 | Die Seilschaft | Kesselhaus
@@ -136,7 +74,7 @@
 18.10.26 | cancelled | Drink The Sea | Festsaal Kreuzberg
 18.10.26 | Some Sprouts / Telquist | Frannz
 18.10.26 | Takuya Nakamura - 15 years Gretchen | Gretchen
-18.10.26 | POW | Hole
+18.10.26 | POW | Hole44
 18.10.26 | Paul Carrack | Huxleys
 18.10.26 | Charlie Jeer | Kantine Berghain
 18.10.26 | 1000mods / tba | Lindenpark Potsdam
@@ -187,11 +125,12 @@
 21.10.26 | Khemmis / Celestial Sanctuary | Cassiopeia
 21.10.26 | Mal Élevé | Festsaal Kreuzberg
 21.10.26 | Reinhard Buhr | Frannz
-21.10.26 | cancelled | Alpha Wolf | Hole
-21.10.26 | Ruel / Sadie Jean | Hole
+21.10.26 | cancelled | Alpha Wolf | Hole44
+21.10.26 | Ruel / Sadie Jean | Hole44
 21.10.26 | Parra For Cuva | Huxleys
 21.10.26 | cancelled | Moliy | Kantine Berghain
 21.10.26 | new | Primitive Warfare / Head of the Baptist | Kulturhaus Insel
+21.10.26 | new | Sudden Lights | Lark
 21.10.26 | sold out | Kayla Shyx | Lido
 21.10.26 | The Lemonheads | Metropol
 21.10.26 | Da Ti | Mikropol
@@ -242,13 +181,13 @@
 23.10.26 | Cléa Vincent | Kantine Berghain
 23.10.26 | Florian Paul & die Kapelle der letzten Hoffnung | Kesselhaus
 23.10.26 | new | NatSat Duo with Angelika Niescier Satoko Fujii (piano), Natsuki Tamura (trumpet) & Angelika Niescier (alto saxophone) | KM28
+23.10.26 | new | SDH | Kulturhaus Insel
 23.10.26 | Feucht | Lark
 23.10.26 | Tyla Yaweh | Lido
 23.10.26 | Margot Erkner / Kpt. Plasto | Loge
 23.10.26 | Hank | Maschinenhaus
 23.10.26 | Thizzy52 | Metropol
 23.10.26 | Yung Pepp | Modus
-23.10.26 | Fiona Fiasco | Neue Zukunft
 23.10.26 | Narkose / Schimmel Über Berlin / Sexverbot / Carlo Karacho | Neue Zukunft
 23.10.26 | Tay Oskee / The New Light | Privatclub
 23.10.26 | EB Davis & The Superband | Quasimodo
@@ -263,12 +202,14 @@
 23.10.26 | Bonecrusher / Toledo Panic | Wild At Heart
 24.10.26 | Mythemia | Badehaus
 24.10.26 | CHELO | Bi Nuu
+24.10.26 | new | Fahnenflucht | Cassiopeia
 24.10.26 | Gökhan Türkmen | Columbia Theater
 24.10.26 | Ivo Martin | Columbiahalle
+24.10.26 | new | Kino Motel - Instore Gig | Dodo Beach Record Store
 24.10.26 | Leftovers | Festsaal Kreuzberg
 24.10.26 | Mr. Irish Bastard | Frannz
 24.10.26 | Maria Arnal - 15 Years Gretchen | Gretchen
-24.10.26 | Audrey Horne | Hole
+24.10.26 | Audrey Horne | Hole44
 24.10.26 | Oxo 86 / The Offenders | Huxleys
 24.10.26 | Ricarda Hoffmann | Kleine Arena Tempodrom
 24.10.26 | new | SNAP Kit Downes (keyboards), Camila Nebbia (tenor sax), Otis Sandsjö (tenor sax), Ketija Karahona (flute), Marta Warelis (piano) | KM28
@@ -283,7 +224,7 @@
 24.10.26 | Youngblood Brass Band | Quasimodo
 24.10.26 | Tough Mother - Record Release / Malmequer | Schokoladen
 24.10.26 | Kjartan Sveinsson + Gyda Valtysdottir + Bert Cools + Indré Jurgeleviciute | Silent Green
-24.10.26 | Brezel Göring & Psychoanalyse | Supamolly
+24.10.26 | Brezel Göring & Psychoanalyse / Ben Bloodygrave / Schnauze - Seapunks Soliparty | Supamolly
 24.10.26 | Beatrice Egli | Uber Arena
 24.10.26 | Nathan Fake | Urban Spree
 24.10.26 | sold out | Fuffifufzich | Waschhaus Potsdam
@@ -300,7 +241,7 @@
 25.10.26 | The Slackers / Wonderska | SO36
 25.10.26 | The Sleeveens | Trixxter
 25.10.26 | Tokio Hotel | UFO im Velodrom
-25.10.26 | Jawdropped | Urban Spree
+25.10.26 | cancelled | Jawdropped | Urban Spree
 26.10.26 | postponed | Fischer-Z - new date 04.11.26 | Admiralspalast
 26.10.26 | sold out | Olli Schulz | Admiralspalast
 26.10.26 | Fabian Kuhn | Badehaus
@@ -314,7 +255,7 @@
 27.10.26 | sold out | Angine de Poitrine / Gros Mené | Astra
 27.10.26 | The Guest List | Badehaus
 27.10.26 | DJ KRUSH - 15 Years Gretchen | Gretchen
-27.10.26 | Wolves In The Throne Room | Hole
+27.10.26 | Wolves In The Throne Room | Hole44
 27.10.26 | Son Lux / Mmeadows | Huxleys
 27.10.26 | Sego / Joe Traxler | Kantine Berghain
 27.10.26 | Greg Mendez | Lark
@@ -331,17 +272,18 @@
 27.10.26 | Superfan / Coals | Silent Green
 27.10.26 | Tyla | Uber Eats Music Hall
 28.10.26 | Vince | Badehaus
+28.10.26 | new | DOLLA / TOBII | Bi Nuu
 28.10.26 | new | DOLLA × TOBII | Bi Nuu
-28.10.26 | The Bausa | Columbia Theater
 28.10.26 | Ebow | Columbiahalle
 28.10.26 | Teenage Fanclub | Frannz
 28.10.26 | Mocky & Friends - LA Meets Berlin Jam - 15 years Gretchen | Gretchen
-28.10.26 | The Home Team | Hole
+28.10.26 | The Home Team | Hole44
 28.10.26 | Warren Zeiders | Huxleys
 28.10.26 | Nemzzz | Kesselhaus
 28.10.26 | cancelled | Schluma | Lark
 28.10.26 | Philipp Poisel | Lido
 28.10.26 | Nirvana Tribute | Maschinenhaus
+28.10.26 | new venue | The Bausa | Mikropol
 28.10.26 | The Clockworks | Neue Zukunft
 28.10.26 | Susie Ibarra | Pierre Boulez Saal
 28.10.26 | Plaka / Saturno 4000 | Schokoladen
@@ -360,7 +302,7 @@
 29.10.26 | Dagobert | Frannz
 29.10.26 | Myles Sanko - 15 Years Gretchen | Gretchen
 29.10.26 | Goldie Boutilier | Heimathafen Neukölln
-29.10.26 | Kate Ryan | Hole
+29.10.26 | Kate Ryan | Hole44
 29.10.26 | Kelela | Huxleys
 29.10.26 | Yosho | Kantine Berghain
 29.10.26 | new | Nguyễn + Transitory with Audrey Chen, trio for synthesizers, voice & electronics // Zhao Ziyi, solo electronics // Alex Zhang Hungtai & Seiji Morimoto | KM28
@@ -374,6 +316,7 @@
 29.10.26 | U.e. (Ulla) + Martin Brandlmayr | Silent Green
 29.10.26 | Booze & Glory / Doc Rotten | SO36
 29.10.26 | The World of Hans Zimmer | Uber Arena
+29.10.26 | new | Flame Parade / Alice Gift / Anna Grob | Urban Spree
 30.10.26 | Die Sterne / Hackedepicciotto / Joachim Franz Büchner Duo | Astra
 30.10.26 | Campa - Record Release | Badehaus
 30.10.26 | Boris / Planning For Burial | Bi Nuu
@@ -383,9 +326,10 @@
 30.10.26 | Aniqo feat. Love Supreme & Jonny - Pre-Album-Releaseshow | Galiläakirche
 30.10.26 | Botticelli Baby - 15 Years Gretchen | Gretchen
 30.10.26 | Jules Ahoi | Heimathafen Neukölln
-30.10.26 | cancelled | Deloraine | Hole
+30.10.26 | cancelled | Deloraine | Hole44
 30.10.26 | Picture This / Dreamboys The Band / Marc Atlas | Huxleys
 30.10.26 | new | Sabrina Ma (percussion and electronics) plays music of Alessandro Massobrio, Philippe Manoury and Toshi Ichiyanagi | KM28
+30.10.26 | new | The Risen Dread / Syridas | Kulturhaus Insel
 30.10.26 | cancelled | Carl Carlton & Melanie Wiegmann and the great band | Lido
 30.10.26 | sold out | Siovo | Lido
 30.10.26 | Nico Santos | Max-Schmeling-Halle
@@ -403,7 +347,7 @@
 31.10.26 | Unterwelt Festival | Festsaal Kreuzberg
 31.10.26 | 100000 Tonnen Kruppstahl / ryr / War / Deibel | Friedenskirche
 31.10.26 | Mark Guiliana Beat Music | Gretchen
-31.10.26 | postponed | Jero19 - new date 23.01.27 | Hole
+31.10.26 | postponed | Jero19 - new date 23.01.27 | Hole44
 31.10.26 | D'Artagnan / Storm Seeker / Doppelbock | Huxleys
 31.10.26 | Brosie | Kulturhaus Insel
 31.10.26 | Mgna Crrrta - Live at Bleach Berlin | Lark
@@ -435,15 +379,16 @@
 01.11.26 | Beyond Border / Trio Miillion Miles To Success / Modular | Privatclub
 01.11.26 | new | Jazzfest Berlin – Ches Smith: Clone Row | Quasimodo
 01.11.26 | YOUNG POSSE | SO36
+01.11.26 | new | Daiana Lou | Urban Spree
 01.11.26 | Heavysaurus | Waschhaus Potsdam
 02.11.26 | Joe Jackson + Band | Admiralspalast
 02.11.26 | Swapmeet | Badehaus
 02.11.26 | Citizen | Columbia Theater
-02.11.26 | Gentleman | Columbiahalle
 02.11.26 | Eli Preiss | Festsaal Kreuzberg
 02.11.26 | Call Me Karizma | Frannz
 02.11.26 | Bel Cobain | Gretchen
 02.11.26 | Jamie Baum Quartet + Anke Helfrich Trio + Judith Owen Septett | Heimathafen Neukölln
+02.11.26 | new venue | Gentleman | Huxleys
 02.11.26 | cancelled | Gast | Kantine Berghain
 02.11.26 | sold out | Fontaines D.C. / Chalk | Max-Schmeling-Halle
 02.11.26 | Tokyo Tea Room | Mikropol
@@ -453,13 +398,15 @@
 02.11.26 | Sports | SO36
 02.11.26 | Don Toliver | Uber Arena
 03.11.26 | Zoh Amba | Bi Nuu
+03.11.26 | new | Zoh Amba / Ned Collette | Bi Nuu
 03.11.26 | Alela Diane | Columbia Theater
 03.11.26 | Gloryhammer / Majestica / Arion | Festsaal Kreuzberg
 03.11.26 | Cardinals | Frannz
 03.11.26 | Etran de L'Air | Gretchen
-03.11.26 | Underscores / Umru | Hole
+03.11.26 | Underscores / Umru | Hole44
 03.11.26 | Zimmer90 | Huxleys
-03.11.26 | The Paris Match | Kantine Berghain
+03.11.26 | cancelled | The Paris Match | Kantine Berghain
+03.11.26 | new | Decipher | Kulturhaus Insel
 03.11.26 | Panicbaby | Lido
 03.11.26 | Praise The Plague / A Secret Revealed | Neue Zukunft
 03.11.26 | Lizz Wright | Philharmonie
@@ -473,63 +420,68 @@
 04.11.26 | Dirty Three - kein support! 20 Uhr Beginn! | Columbia Theater
 04.11.26 | AESTHETIC PERFECTION | Frannz
 04.11.26 | daoud | Gretchen
-04.11.26 | Kyle Alessandro | Hole
-4.11.26 | Haute & Freddy's | Huxleys
-4.11.26 | Lane 8 | Kesselhaus
-4.11.26 | Noah Guthrie | Kulturhaus Insel
-4.11.26 | Vandalisbin | Lark
-4.11.26 | Death Valley Girls / Bella + The Bizarre | Lido
-4.11.26 | Ed Maverick | Metropol
-4.11.26 | Sharaktah | Mikropol
-4.11.26 | Quiet Light | Monarch
-4.11.26 | Lost In Lona | Neue Zukunft
-4.11.26 | Melt-Banana / MPC Lafote | Neue Zukunft
-4.11.26 | KatzPAscale | Prachtwerk
-4.11.26 | Big Sleep | Privatclub
-4.11.26 | new | Moving as a Giant / Soul Clear | Schokoladen
-4.11.26 | goat (jp) / Camila Nebbia | Silent Green
-4.11.26 | Heisskalt | SO36
-4.11.26 | The Witcher In Concert | Tempodrom
-4.11.26 | Deep Purple | Uber Arena
-4.11.26 | Magnat- Eintritt frei / Wild Wednesday | Wild At Heart
-5.11.26 | Regard | Bi Nuu
-5.11.26 | Monolord / Mars Red Sky | Columbia Theater
-5.11.26 | Beast In Black / Frozen Crown / Sonata Artica | Columbiahalle
-5.11.26 | Nox A Carnival Vol. 13 - Day 1 | Drugstore im Rockhaus
-5.11.26 | Leuchtstoff | Frannz
-5.11.26 | Àbáse | Gretchen
-5.11.26 | Mietze Conte | Hole
-5.11.26 | Anime Songs In Concert / Petra Scheeser | Huxleys
-5.11.26 | President / Dreamwake / Vianova | Kesselhaus
-5.11.26 | MasterPeace - The Bob Dylan Project | Maschinenhaus
-5.11.26 | cancelled | Naomi Sharon | Metropol
-5.11.26 | Avalanche Effect | Mikropol
-5.11.26 | The Beauty Of Gemina | Mikropol
-5.11.26 | new | Olof Dreijer | Modus
-5.11.26 | Yulianna Avdeeva | Pierre Boulez Saal
-5.11.26 | new | MICHA | Prachtwerk
-5.11.26 | cancelled | Marnele | Privatclub
-5.11.26 | Shearwater / Loma / Any Kind | Privatclub
-5.11.26 | new | Los Sara Fontán / Franna | Schokoladen
-5.11.26 | Jethro Tull | Tempodrom
-5.11.26 | D-Block Europe & French Montana | Uber Eats Music Hall
-5.11.26 | Subway Park / tba | Wild At Heart
-5.11.26 | 180 min w / Polygonia | Zenner
-6.11.26 | Die Verlierer | Astra
-6.11.26 | Darlin | Badehaus
-6.11.26 | Saigon Soul Revival | Bi Nuu
-6.11.26 | ELEINE | Cassiopeia
-6.11.26 | Coeur De Pirate | Columbia Theater
-6.11.26 | Nox A Carnival Vol. 13 - Day 2 | Drugstore im Rockhaus
-6.11.26 | Fat Dog | Festsaal Kreuzberg
-6.11.26 | Radio Free Alice | Frannz
+04.11.26 | Kyle Alessandro | Hole44
+04.11.26 | new | The Aura | Hole44
+04.11.26 | Haute & Freddy's | Huxleys
+04.11.26 | Lane 8 | Kesselhaus
+04.11.26 | Noah Guthrie | Kulturhaus Insel
+04.11.26 | Vandalisbin | Lark
+04.11.26 | Death Valley Girls / Bella + The Bizarre | Lido
+04.11.26 | Ed Maverick | Metropol
+04.11.26 | Sharaktah | Mikropol
+04.11.26 | Quiet Light | Monarch
+04.11.26 | Lost In Lona | Neue Zukunft
+04.11.26 | Melt-Banana / MPC Lafote | Neue Zukunft
+04.11.26 | KatzPAscale | Prachtwerk
+04.11.26 | Big Sleep | Privatclub
+04.11.26 | new | Most Wanted: Music Club Festival 2026 - Day 1 | RAW Gelände
+04.11.26 | new | Moving as a Giant / Soul Clear | Schokoladen
+04.11.26 | goat (jp) / Camila Nebbia | Silent Green
+04.11.26 | Heisskalt | SO36
+04.11.26 | The Witcher In Concert | Tempodrom
+04.11.26 | Deep Purple | Uber Arena
+04.11.26 | Magnat- Eintritt frei / Wild Wednesday | Wild At Heart
+05.11.26 | Regard | Bi Nuu
+05.11.26 | Monolord / Mars Red Sky | Columbia Theater
+05.11.26 | Beast In Black / Frozen Crown / Sonata Artica | Columbiahalle
+05.11.26 | Nox A Carnival Vol. 13 - Day 1 | Drugstore im Rockhaus
+05.11.26 | Leuchtstoff | Frannz
+05.11.26 | Àbáse | Gretchen
+05.11.26 | Mietze Conte | Hole44
+05.11.26 | Anime Songs In Concert / Petra Scheeser | Huxleys
+05.11.26 | President / Dreamwake / Vianova | Kesselhaus
+05.11.26 | MasterPeace - The Bob Dylan Project | Maschinenhaus
+05.11.26 | cancelled | Naomi Sharon | Metropol
+05.11.26 | Avalanche Effect | Mikropol
+05.11.26 | The Beauty Of Gemina | Mikropol
+05.11.26 | new | Olof Dreijer | Modus
+05.11.26 | Yulianna Avdeeva | Pierre Boulez Saal
+05.11.26 | new | MICHA | Prachtwerk
+05.11.26 | cancelled | Marnele | Privatclub
+05.11.26 | Shearwater / Loma / Any Kind | Privatclub
+05.11.26 | new | Most Wanted: Music Club Festival 2026 - Day 2 | RAW Gelände
+05.11.26 | new | Los Sara Fontán / Franna | Schokoladen
+05.11.26 | Jethro Tull | Tempodrom
+05.11.26 | D-Block Europe & French Montana | Uber Eats Music Hall
+05.11.26 | new | R.A. The Rugged Man | Urban Spree
+05.11.26 | Subway Park / tba | Wild At Heart
+05.11.26 | 180 min w / Polygonia | Zenner
+06.11.26 | Die Verlierer | Astra
+06.11.26 | Darlin | Badehaus
+06.11.26 | Saigon Soul Revival | Bi Nuu
+06.11.26 | ELEINE | Cassiopeia
+06.11.26 | Coeur De Pirate | Columbia Theater
+06.11.26 | Nox A Carnival Vol. 13 - Day 2 | Drugstore im Rockhaus
+06.11.26 | Fat Dog | Festsaal Kreuzberg
+06.11.26 | Radio Free Alice | Frannz
 6.11.26 | Norlyz geat. Malika Alaoui | Gretchen
-6.11.26 | Jonny5 | Hole
+6.11.26 | Jonny5 | Hole44
 6.11.26 | Clawfinger | Huxleys
 6.11.26 | cancelled | Rock Legends | Huxleys
 6.11.26 | Rank Play The Smith | Junction Bar
 6.11.26 | Fayan | Kesselhaus
 6.11.26 | Die Weiteren Aussichten / Alles Karo | Kulturhaus Insel
+6.11.26 | new | 234 | Lark
 6.11.26 | Westside Cowboy / Wyatt | Lido
 6.11.26 | EXCREMENTORY GRINDFUCKERS + Support | Lindenpark Potsdam
 6.11.26 | Split Dogs | Mikropol
@@ -551,7 +503,7 @@
 7.11.26 | Mariybu | Festsaal Kreuzberg
 7.11.26 | Rey & Kjavik | Gretchen
 7.11.26 | Benjamin Steer | Heimathafen Neukölln
-7.11.26 | April Art / Dymytry Paradox | Hole
+7.11.26 | April Art / Dymytry Paradox | Hole44
 7.11.26 | sold out | Acht Eimer Hühnerherzen - ZEHN Jubiläumskonzert mit Ehrengästen | Huxleys
 7.11.26 | Unter Meinem Bett - Franceso Wilking, Moritz Krämer & weitere | Kesselhaus
 7.11.26 | Cordoba78 | Lark
@@ -581,6 +533,7 @@
 8.11.26 | Undacava | Hole44
 8.11.26 | Ckay | Huxleys
 8.11.26 | Fiddlaffairs | Kesselhaus
+8.11.26 | new | Ikan Hyu | Mikropol
 8.11.26 | Jack And The Weatherman | Privatclub
 8.11.26 | Nichtseattle / Blumes | RBB Sendesaal
 8.11.26 | Klassik Radio Live in Concert – Die Nacht der Filmmusik | Tempodrom
@@ -607,6 +560,7 @@
 10.11.26 | True Loves | Gretchen
 10.11.26 | sold out | feeble little horse | Kantine Berghain
 10.11.26 | Worldpeace DMT | Lark
+10.11.26 | new | Morgan St. Jean | Maschinenhaus
 10.11.26 | Red Hot Chili Pipers | Metropol
 10.11.26 | Godzilla In The Kitchen / Mudfinger | Neue Zukunft
 10.11.26 | Holy Fawn / Outlander | Neue Zukunft
@@ -623,7 +577,7 @@
 11.11.26 | Pohlmann | Frannz
 11.11.26 | Midwife & Devin Shaffer | Genezarethkirche
 11.11.26 | Nick Hakim | Gretchen
-11.11.26 | Son Mieux | Hole
+11.11.26 | Son Mieux | Hole44
 11.11.26 | Sharp Pins | Kantine Berghain
 11.11.26 | Kilimanjaro | Lark
 11.11.26 | Red Hot Chilli Pipers | Metropol
@@ -632,6 +586,7 @@
 11.11.26 | Phil Campbell's Bastards Son | Roadrunners
 11.11.26 | Bureau De Change / Mad Kitten | Schokoladen
 11.11.26 | Sintonia 2026 Attunement II: Nnux + Cinna Peyghamy | Silent Green
+11.11.26 | new | OOES | SO36
 11.11.26 | Undertale - The Determination Symphony | Tempodrom
 11.11.26 | Bloc Party / Interpol | Uber Arena
 11.11.26 | The Howlers - EU Album Tour | Urban Spree
@@ -642,8 +597,9 @@
 12.11.26 | Bonaparte - 20 Years | Columbiahalle
 12.11.26 | Messa | Frannz
 12.11.26 | Nils Petter Molvær Trio | Gretchen
-12.11.26 | Ash | Hole
+12.11.26 | Ash | Hole44
 12.11.26 | new | Pat And The Pissers / Die Haare | K19
+12.11.26 | new | Santiago Cruz | Kesselhaus
 12.11.26 | Isaac Jensen | Kulturhaus Insel
 12.11.26 | Wilt / Thistle. | Lark
 12.11.26 | Our Promise | Lido
@@ -667,7 +623,7 @@
 13.11.26 | Hämatom / J.B.O. / Anstandslos / Durchgeknallt | Columbiahalle
 13.11.26 | Kytes | Festsaal Kreuzberg
 13.11.26 | new | Sababa 5 | Gretchen
-13.11.26 | cancelled | Dari | Hole
+13.11.26 | cancelled | Dari | Hole44
 13.11.26 | Digitalism | Kesselhaus
 13.11.26 | Kids with Buns | Lark
 13.11.26 | Jakuzi | Lido
@@ -698,7 +654,7 @@
 14.11.26 | Liedfett | Gretchen
 14.11.26 | Recycle: Blackout Berlin ft. Black Sun Empire, Merikan, Siren | Gretchen
 14.11.26 | Razorlight | Heimathafen Neukölln
-14.11.26 | Massendefekt | Hole
+14.11.26 | Massendefekt | Hole44
 14.11.26 | Elgrandetoto | Huxleys
 14.11.26 | sold out | Flower Face | Lark
 14.11.26 | Ultra Sunn / Sydney Valette / Sad Madona | Lido
@@ -744,6 +700,7 @@
 16.11.26 | Saint Levant | Columbiahalle
 16.11.26 | Marthe X Pilani Bubu | Gretchen
 16.11.26 | Jessie Ware / Naomi Scott | Huxleys
+16.11.26 | new | Omar Doom | Kantine am Berghain
 16.11.26 | Connor Kelly & The Time Warp | Lark
 16.11.26 | Frankie + The Witch Fingers / Iguana Death Cult / No Sugar | Lido
 16.11.26 | Guy Offenbach / Nowaves | Neue Zukunft
@@ -757,7 +714,7 @@
 17.11.26 | Home Front - presented by Berlin Breakout! | Frannz
 17.11.26 | Solomon Fox | Gretchen
 17.11.26 | Hip Hop Lebt - Live Podcast + Konzert | Heimathafen Neukölln
-17.11.26 | The Wedding Present - Seamonsters 35th Anniversary Tour | Hole
+17.11.26 | The Wedding Present - Seamonsters 35th Anniversary Tour | Hole44
 17.11.26 | Kingfishr | Huxleys
 17.11.26 | Adult DVD | Kantine Berghain
 17.11.26 | Dave Lofts | Lark
@@ -777,7 +734,7 @@
 18.11.26 | Apsilon - Zusatzshow | Columbiahalle
 18.11.26 | DESIRE | Frannz
 18.11.26 | SML | Gretchen
-18.11.26 | Evergrey | Hole
+18.11.26 | Evergrey | Hole44
 18.11.26 | sold out | The Pretty Reckless / Yonaka | Huxleys
 18.11.26 | Rowli | Lido
 18.11.26 | Monsters Of Liedermaching | Peter Edel
@@ -796,7 +753,7 @@
 19.11.26 | sold out | Apsilon | Columbiahalle
 19.11.26 | Chinchilla | Frannz
 19.11.26 | Elder Island | Heimathafen Neukölln
-19.11.26 | Digital Stars @ Miku Expo | Hole
+19.11.26 | Digital Stars @ Miku Expo | Hole44
 19.11.26 | Eluveitie | Huxleys
 19.11.26 | Mollie Elizabeth | Maschinenhaus
 19.11.26 | Imperial Triumphant / Knoll | Neue Zukunft
@@ -816,9 +773,11 @@
 20.11.26 | José González | Columbiahalle
 20.11.26 | Soffie | Frannz
 20.11.26 | Little Barrie | Gretchen
-20.11.26 | Neoni | Hole
+20.11.26 | new | Recyle: Classix | Gretchen
+20.11.26 | Neoni | Hole44
 20.11.26 | The Hardkiss / Felin | Huxleys
 20.11.26 | Oswald | Kesselhaus
+20.11.26 | new | Marlin Beach | Kulturhaus Insel
 20.11.26 | Yacht | Kulturhaus Insel
 20.11.26 | Cassia / Rum Jungle | Lido
 20.11.26 | Shanti Powa / DJ Lou Large | Maschinenhaus
@@ -842,9 +801,10 @@
 21.11.26 | Brings | Columbiahalle
 21.11.26 | Burnout Ostwest / AG Plaste | Festsaal Kreuzberg
 21.11.26 | The Bug presents: Pressure | Gretchen
-21.11.26 | Tanzwut | Hole
+21.11.26 | Tanzwut | Hole44
 21.11.26 | 100 Kilo Herz / Drei Meter Feldweg / Alenna Rose | Huxleys
 21.11.26 | 60 Juno | Kantine Berghain
+21.11.26 | new | Ice Sealed Eyes | Kulturhaus Insel
 21.11.26 | Allt / Avralize Bite Down | Lido
 21.11.26 | Die Zöllner - Bigband 2026 | Maschinenhaus
 21.11.26 | Im Kreise der Familia 3 | Mikropol
@@ -866,6 +826,7 @@
 22.11.26 | Long Distance Calling | Columbia Theater
 22.11.26 | sold out | Boy Harsher / Choir Boy | Columbiahalle
 22.11.26 | Fatoumata Diawara | Festsaal Kreuzberg
+22.11.26 | new | Zelo | Hole44
 22.11.26 | Ronis Goliath | Huxleys
 22.11.26 | Salomea | Kantine Berghain
 22.11.26 | David McCredie | Lark
@@ -898,7 +859,7 @@
 24.11.26 | Portugal. The Man | Columbiahalle
 24.11.26 | Gurriers / Elnola Gay | Frannz
 24.11.26 | The Veils | Gretchen
-24.11.26 | Moon Walker | Hole
+24.11.26 | Moon Walker | Hole44
 24.11.26 | Strangelove - The Depeche Mode Experience | Huxleys
 24.11.26 | June Cocó | Kulturhaus Insel
 24.11.26 | Glaive / Kurtains | Lido
@@ -917,10 +878,12 @@
 25.11.26 | Bára Gísladóttir / Robert Piotrowicz | Berghain
 25.11.26 | Bára Gísladóttir »Silva« | Berghain
 25.11.26 | The Ruins Of Beverast / Esoteric / Imha Tarikat | Bi Nuu
+25.11.26 | new | Modestep | Cassiopeia
 25.11.26 | Afrob + Ferris MC | Festsaal Kreuzberg
 25.11.26 | The Scratch / Dug | Frannz
 25.11.26 | Venjent | Gretchen
 25.11.26 | Horsegiirl / DJ_Dave | Huxleys
+25.11.26 | new | ARTMS | Kesselhaus
 25.11.26 | The Black Atlantic | Kulturhaus Insel
 25.11.26 | Dizzy Dros | Lark
 25.11.26 | Re6ce | Maschinenhaus
@@ -930,6 +893,7 @@
 25.11.26 | William Parker, Shabaka & Hamid Drake | Pierre Boulez Saal
 25.11.26 | ELL | Privatclub
 25.11.26 | Elle + L's Festival - international female multi-genre festival - https://www.elleandls.com/ | Privatclub
+25.11.26 | new | Shkodra Elektronike | SO36
 25.11.26 | Alexander Klaws - a very special musical christmas | Tempodrom
 25.11.26 | Faux Real | Urban Spree
 25.11.26 | Bryson Tiller / Majid Jordan | Velodrom
@@ -938,7 +902,7 @@
 26.11.26 | Baby Lasagna | Columbia Theater
 26.11.26 | Grossstadtgeflüster | Columbiahalle
 26.11.26 | Kinderzimmer Productions | Frannz
-26.11.26 | Faroon | Hole
+26.11.26 | Faroon | Hole44
 26.11.26 | Artemas / Henry Morris / Ella Boh | Huxleys
 26.11.26 | Greek | Lark
 26.11.26 | Slift | Lido
@@ -955,8 +919,9 @@
 27.11.26 | sold out | Grossstadtgeflüster | Columbiahalle
 27.11.26 | new | SBP4 | Frannz Club
 27.11.26 | EB Davis & The Superband feat. Kat Baloun | Heimathafen Neukölln
-27.11.26 | John Coffey | Hole
+27.11.26 | John Coffey | Hole44
 27.11.26 | Swiss + Die Anderen / Moonkid | Huxleys
+27.11.26 | new | The Dark Tenor | Kesselhaus
 27.11.26 | Tim Vantol | Kulturhaus Insel
 27.11.26 | new | OC | Maschinenhaus
 27.11.26 | RIN | Max-Schmeling-Halle
@@ -970,6 +935,7 @@
 27.11.26 | Rathman | Privatclub
 27.11.26 | Sting The Police - A Tribute by Glam Up! | Quasimodo
 27.11.26 | CAVA – Record Release Day 1 / Apollo | Schokoladen
+27.11.26 | new | Die Wallerts – Humppa Weihnachtszirkus | SO36
 27.11.26 | FÏX8:SËD8 / NER\OGRIS / SCHNEIDER | Urban Spree
 27.11.26 | Ransom / Heat A Tact | Wild At Heart
 28.11.26 | Dominik Hartz | Astra
@@ -980,7 +946,7 @@
 28.11.26 | Muff Potter / Van Urst | Festsaal Kreuzberg
 28.11.26 | Fancy | Frannz
 28.11.26 | Cosmo presents: Big Up! Berlin | Gretchen
-28.11.26 | Donna Savage + Brenk Sinatra | Hole
+28.11.26 | Donna Savage + Brenk Sinatra | Hole44
 28.11.26 | Hanba! | K19
 28.11.26 | Ciao Lucifer | Lark
 28.11.26 | Jonny Mahoro | Lido
@@ -1018,7 +984,7 @@
 30.11.26 | Platina | Columbia Theater
 30.11.26 | sold out | Bosse | Festsaal Kreuzberg
 30.11.26 | Okvsho +experience | Gretchen
-30.11.26 | The Sheepdogs | Hole
+30.11.26 | The Sheepdogs | Hole44
 30.11.26 | Thrown / Counterparts / No Cure / Heavensgate | Huxleys
 30.11.26 | Yaeger | Kantine Berghain
 30.11.26 | Tex Singt Leonard Cohen | Lido
@@ -1032,14 +998,14 @@
 30.11.26 | Ben Folds | RBB Sendesaal
 30.11.26 | Shaking Hand | Schokoladen
 30.11.26 | Kid Kapichi | SO36
-30.11.26 | DYSE | Waschhaus Potsdam
-1.12.26 | Tom Gaebel & His Orchestra | Admiralspalast
-1.12.26 | EMF | Bi Nuu
-1.12.26 | Cold Years | Cassiopeia
-1.12.26 | Endless Wellness | Festsaal Kreuzberg
-1.12.26 | Widowspeak | Frannz
-1.12.26 | Toshiki Soekima | Gretchen
-1.12.26 | Mnek | Hole
+30.11.26 | DŸSE | Waschhaus Potsdam
+01.12.26 | Tom Gaebel & His Orchestra | Admiralspalast
+01.12.26 | EMF | Bi Nuu
+01.12.26 | Cold Years | Cassiopeia
+01.12.26 | Endless Wellness | Festsaal Kreuzberg
+01.12.26 | Widowspeak | Frannz
+01.12.26 | Toshiki Soekima | Gretchen
+1.12.26 | Mnek | Hole44
 1.12.26 | Nathan Ball | Lark
 1.12.26 | Chloe Slater | Maschinenhaus
 1.12.26 | Sace6 | Mikropol
@@ -1053,7 +1019,7 @@
 2.12.26 | Nervy | Columbia Theater
 2.12.26 | sold out | Sidos Weihnachtsshow 2026 - 1 | Columbiahalle
 2.12.26 | Crashdiet | Frannz
-2.12.26 | Wesghost | Hole
+2.12.26 | Wesghost | Hole44
 2.12.26 | Oskar Haag | Kantine Berghain
 2.12.26 | Death Angel / Vio-Lence / tba | Kesselhaus
 2.12.26 | Wednesday 13 | Lido
@@ -1069,7 +1035,7 @@
 3.12.26 | Enno Bunger | Columbia Theater
 3.12.26 | sold out | Sidos Weihnachtsshow 2026 - 2 | Columbiahalle
 3.12.26 | Dreiviertelblut | Frannz
-3.12.26 | cancelled | Prateek Kuhad | Hole
+3.12.26 | cancelled | Prateek Kuhad | Hole44
 3.12.26 | Völkerball | Huxleys
 3.12.26 | Cockney Rejects | Lido
 3.12.26 | Alex Henry Foster | Mikropol
@@ -1091,7 +1057,7 @@
 4.12.26 | Four Imaginary Boys | Frannz
 4.12.26 | Gotts Street Park | Gretchen
 4.12.26 | The Japanese House | Heimathafen Neukölln
-4.12.26 | Julia Wolf / Scro | Hole
+4.12.26 | Julia Wolf / Scro | Hole44
 4.12.26 | Jimmy Kelly & The Streetorchestra | Huxleys
 4.12.26 | new | Charlotte Plank | Kantine Berghain
 4.12.26 | Thomas Zehetmair & Pierre-Laurent Aimard | Pierre Boulez Saal
@@ -1109,7 +1075,7 @@
 5.12.26 | sold out | Sidos Weihnachtsshow 2026 - 4 | Columbiahalle
 5.12.26 | Tank And The Bangas | Gretchen
 5.12.26 | new | Stiehler/Lucaciu – Weihnachtskonzert | Heimathafen Neukölln
-5.12.26 | The New Roses / Massive Wagons | Hole
+5.12.26 | The New Roses / Massive Wagons | Hole44
 5.12.26 | Itchy / Schmutzki | Huxleys
 5.12.26 | sold out | Dead Phoenix | Kulturhaus Insel
 5.12.26 | Charlotte Kudella | Lark
@@ -1127,14 +1093,16 @@
 5.12.26 | The Act | Wiener Blut
 5.12.26 | The Razorblades / Los Apollos | Wild At Heart
 6.12.26 | Gregorian | Admiralspalast
+6.12.26 | new | Emelie Trahan | Badehaus
+6.12.26 | new | Senser | Cassiopeia
 6.12.26 | Julia Meladin | Columbia Theater
 6.12.26 | sold out | Sidos Weihnachtsshow 2026 - 5 | Columbiahalle
 6.12.26 | Kuult | Frannz
 6.12.26 | System Olympia | Gretchen
-6.12.26 | MCND | Hole
+6.12.26 | MCND | Hole44
 6.12.26 | Artemas / Henry Morris / Ella Boh - additional show | Huxleys
 6.12.26 | Seb Lowe | Kantine Berghain
-6.12.26 | Viko / Penglord | Kesselhaus
+6.12.26 | Viko & Penglord | Kesselhaus
 6.12.26 | Senta - Das Mitmach-Popkonzert für die ganze Familie - 16 Uhr | Lido
 6.12.26 | ONE VIOLIN ORCHESTRA - Christmas Concert | Lindenpark Potsdam
 6.12.26 | Schattenformat | Mikropol
@@ -1145,8 +1113,10 @@
 6.12.26 | A7S | Säälchen
 6.12.26 | 13. Punkfilmfest Berlin - 7 Tage, 14 Filme, 50 Kurzfilme, 2 Konzerte, Akustikpunk im Kino - Day 5 | Several Locations
 6.12.26 | Beabadoobee | Tempodrom
+6.12.26 | new | Planta Industrial | Urban Spree
 6.12.26 | Punk & Rock'n Roll Flohmarkt | Wild At Heart
 7.12.26 | Voilá / Austin Giorgio / Not A Toy | Astra
+7.12.26 | new | VOILÀ / Austin Giorgio / Not A Toy | Astra Kulturhaus
 7.12.26 | Spite House presented by Berlin Breakout w/ Prize Horse / Wrong Man | Cassiopeia
 7.12.26 | Oleg Vynnyk | Columbia Theater
 7.12.26 | XWAVE | Huxleys
@@ -1169,7 +1139,7 @@
 9.12.26 | Unreleased Berlin | Astra
 9.12.26 | sold out | Sidos Weihnachtsshow 2026 - 7 | Columbiahalle
 9.12.26 | Herrenmagazin | Festsaal Kreuzberg
-9.12.26 | Haaland936 | Hole
+9.12.26 | Haaland936 | Hole44
 9.12.26 | Mighty Oaks | Huxleys
 9.12.26 | Rémi.Fr | Kantine Berghain
 9.12.26 | Oathbreaker / Portayal Of Guilt | Kesselhaus
@@ -1181,6 +1151,7 @@
 9.12.26 | sold out | Phoebe Bridgers | Velodrom
 9.12.26 | Ghost Moon Echo - Eintritt frei / Wild Wednesday | Wild At Heart
 10.12.26 | sold out | Chapo102 | Astra
+10.12.26 | new | Jakob Dobers & Band + Arne Zank | B.L.O. Kantine
 10.12.26 | new | Kontravoid / Spike Hellis / Nation Unrest | Cassiopeia
 10.12.26 | Soen | Columbia Theater
 10.12.26 | sold out | Sidos Weihnachtsshow 2026 - 8 | Columbiahalle
@@ -1197,7 +1168,7 @@
 11.12.26 | Green Lung / High On Fire / Gnome | Astra
 11.12.26 | Dillon | Columbia Theater
 11.12.26 | sold out | Sidos Weihnachtsshow 2026 - 9 | Columbiahalle
-11.12.26 | MandelKokainSchnaps | Hole
+11.12.26 | MandelKokainSchnaps | Hole44
 11.12.26 | Kwam.E | Huxleys
 11.12.26 | Philippa Kinsky | Lark
 11.12.26 | Remote Bondage | Lido
@@ -1210,13 +1181,13 @@
 11.12.26 | Krautfuzz | tba
 11.12.26 | Nimo | Velodrom
 11.12.26 | Commando | Wild At Heart
-12.12.26 | Krautfuzz / Pyrolator | B.L.O. Kantine
+12.12.26 | Krautfuzz / Pyrolator / Aiden Baker | B.L.O. Kantine
 12.12.26 | Paulk | Badehaus
 12.12.26 | Goldroger | Columbia Theater
 12.12.26 | sold out | Sidos Weihnachtsshow 2026 - 10 | Columbiahalle
 12.12.26 | Montreal | Festsaal Kreuzberg
 12.12.26 | A night with GULVØSS II | Frannz
-12.12.26 | Haller | Hole
+12.12.26 | Haller | Hole44
 12.12.26 | Laing - Die Grosse Gala - Zusatzshow | Huxleys
 12.12.26 | EBBB | Lark
 12.12.26 | Rauhbein | Lido
@@ -1224,6 +1195,7 @@
 12.12.26 | Leonkoro Quartet | Pierre Boulez Saal
 12.12.26 | Jerome Froese | Privatclub
 12.12.26 | Always Amy - A Tribute to Amy Winehouse | Quasimodo
+12.12.26 | new | Doc Horn & The Hornbabes | Roadrunners
 12.12.26 | Miss Bashful | Säälchen
 12.12.26 | new | Duesenjaeger / Tremors | Schokoladen
 12.12.26 | The Butlers - 40 years of Ska + Soulpower | SO36
@@ -1238,14 +1210,14 @@
 13.12.26 | sold out | Sidos Weihnachtsshow 2026 - 11 | Columbiahalle
 13.12.26 | Sebastian Hämer | Frannz
 13.12.26 | Sly5thAve | Gretchen
-13.12.26 | Newbeat | Hole
+13.12.26 | Newbeat | Hole44
 13.12.26 | Dayseeker / Northlane / Siamese | Huxleys
-13.12.26 | DYSE | Kulturhaus Insel
+13.12.26 | DŸSE | Kulturhaus Insel
 13.12.26 | Megaloh / Umse / Lakmann | Lido
 13.12.26 | Alexander Lonquich | Pierre Boulez Saal
 13.12.26 | Lumaraa | Privatclub
 13.12.26 | YOK | Schokoladen
-14.12.26 | Mental Cruelty / Ov Sulfur / Extermination / Dismemberment / Acranius | Hole
+14.12.26 | Mental Cruelty / Ov Sulfur / Extermination / Dismemberment / Acranius | Hole44
 14.12.26 | Fejká | Lido
 14.12.26 | Gregory Porter | Philharmonie
 15.12.26 | Doubtboy / Goldy.mp3 | Badehaus
@@ -1271,6 +1243,7 @@
 17.12.26 | Siloé | Gretchen
 17.12.26 | Xeno & Oaklander | Kantine Berghain
 17.12.26 | Keimzeit | Kesselhaus
+17.12.26 | new | Lail & Lomar | Lomabrdo
 17.12.26 | Glenn Leonard's Temptation Revue | Metropol
 17.12.26 | Le Fly | Mikropol
 17.12.26 | Rebekka Bakken | Passionskirche
@@ -1284,6 +1257,7 @@
 18.12.26 | Erdmöbel | Columbia Theater
 18.12.26 | sold out | Sidos Weihnachtsshow 2026 - 15 | Columbiahalle
 18.12.26 | Half Me | Mikropol
+18.12.26 | new | X-Mas Party w/ Big Sandy & His Fly-Rite Boys / The Round Up Boys | Roadrunners
 18.12.26 | Zombiez | SO36
 18.12.26 | Pinoreks | Waschhaus Potsdam
 18.12.26 | Rolando Random The Young Soul Rebels | Wild At Heart
@@ -1292,7 +1266,7 @@
 19.12.26 | Herzblut Jahresabschluss + Zu Hause Normal Böse | Bi Nuu
 19.12.26 | sold out | Sidos Weihnachtsshow 2026 - 16 | Columbiahalle
 19.12.26 | Frittenbude - 20 Jahre Filmriss | Festsaal Kreuzberg
-19.12.26 | Veysel | Hole
+19.12.26 | Veysel | Hole44
 19.12.26 | Orgi's Weihnachtsshow | Huxleys
 19.12.26 | Die Toten Ärzte / Bernward Büker Bande | Lido
 19.12.26 | DxBxSx | Neue Zukunft
@@ -1329,7 +1303,7 @@
 28.12.26 | TZK / Menstruationsmassaker | SO36
 28.12.26 | Matthias Reim | Uber Arena
 29.12.26 | Die Liga Der Gewöhnlichen Gentlemen | Bi Nuu
-29.12.26 | Extrabreit | Hole
+29.12.26 | Extrabreit | Hole44
 29.12.26 | 17 Hippies | Kesselhaus
 29.12.26 | Sir András Schiff, Jörg Widmann & Isabelle Faust | Pierre Boulez Saal
 29.12.26 | Rummelsnuff / Maat Asbach | SO36
@@ -1343,6 +1317,7 @@
 31.12.26 | Klingonz / Evil Devil / Church Of Convidence | Wild At Heart
 1.1.27 | Roncalli & Deutsches Symphonie Orchester - Neujahrskonzert | Tempodrom
 2.1.27 | Sir András Schiff & Julian Prégardien | Pierre Boulez Saal
+2.1.27 | new | HANDS LABEL NIGHT BERLIN 2027 | Urban Spree
 2.1.27 | Knattertones / tba | Wild At Heart
 4.1.27 | Thees Uhlmann - solo | Theater Des Westens
 6.1.27 | new | Dark Selbo / CHEEKY | Schokoladen
@@ -1354,6 +1329,7 @@
 8.1.27 | Stahlzeit | Tempodrom
 8.1.27 | Veta / Barking Spiders | Wild At Heart
 9.1.27 | Heroes - David Bowie Tribute | Maschinenhaus
+9.1.27 | new | The Explosion Rockets / Ike and The Capers | Roadrunners
 9.1.27 | Rat Hole | Schokoladen
 9.1.27 | Wayward Caines / tba | Wild At Heart
 10.1.27 | La Fonte Musica & Michele Pasotti | Pierre Boulez Saal
@@ -1363,30 +1339,30 @@
 12.1.27 | Heinz Strunk - Lesung | Volksbühne
 13.1.27 | Die Dunkle Seite der Discokugel - Wild Wednesday Eintritt frei | Wild At Heart
 14.1.27 | Tonique & Man | Kantine Berghain
-14.01.27 | Ove | Kulturhaus Insel
-14.01.27 | A'Coma | SO36
-15.01.27 | Heavytones | Columbia Theater
-15.01.27 | Hotel Rimini | Waschhaus Potsdam
-15.01.27 | Eight Piece Box / tba | Wild At Heart
-16.01.27 | Wishbone Ash | Frannz
-16.01.27 | Kupfergold | Hole
-16.01.27 | Pothead | Huxleys
-16.01.27 | Anime Rap Revolution Vol. I | Kesselhaus
-16.01.27 | Akademiekonzert - Orchester der Barenboim-Said Akademie & Nabil Shehata | Pierre Boulez Saal
-16.01.27 | Hasenscheisse | Privatclub
-16.01.27 | Angelika Express / Power Müsli Of Death | Schokoladen
-16.01.27 | The Zipheads / tba | Wild At Heart
-17.01.27 | Blacktoothed | Cassiopeia
-17.01.27 | The Black Dahlia Murder | Columbia Theater
-18.01.27 | The Music of Star Wars – Live in Concert | Admiralspalast
-18.01.27 | Atlas | Badehaus
-18.01.27 | Anne Clark + Band | Huxleys
-19.01.27 | Der König der Löwen – The Music live in Concert | Admiralspalast
-19.01.27 | Anne Clark + Band | Huxleys
-19.01.27 | Afterhours | SO36
-20.01.27 | The Magic of Hans Zimmer – The Concert | Admiralspalast
-20.01.27 | Sawyer Hill | Badehaus
-20.01.27 | Kauta | Columbia Theater
+14.1.27 | Ove | Kulturhaus Insel
+14.1.27 | A'Coma | SO36
+15.1.27 | Heavytones | Columbia Theater
+15.1.27 | Hotel Rimini | Waschhaus Potsdam
+15.1.27 | Eight Piece Box / tba | Wild At Heart
+16.1.27 | Wishbone Ash | Frannz
+16.1.27 | Kupfergold | Hole44
+16.1.27 | Pothead | Huxleys
+16.1.27 | Anime Rap Revolution Vol. I | Kesselhaus
+16.1.27 | Akademiekonzert - Orchester der Barenboim-Said Akademie & Nabil Shehata | Pierre Boulez Saal
+16.1.27 | Hasenscheisse | Privatclub
+16.1.27 | Angelika Express / Power Müsli Of Death | Schokoladen
+16.1.27 | The Zipheads / tba | Wild At Heart
+17.1.27 | Blacktoothed | Cassiopeia
+17.1.27 | The Black Dahlia Murder | Columbia Theater
+18.1.27 | The Music of Star Wars – Live in Concert | Admiralspalast
+18.1.27 | Atlas | Badehaus
+18.1.27 | Anne Clark + Band | Huxleys
+19.1.27 | Der König der Löwen – The Music live in Concert | Admiralspalast
+19.1.27 | Anne Clark + Band | Huxleys
+19.1.27 | Afterhours | SO36
+20.1.27 | The Magic of Hans Zimmer – The Concert | Admiralspalast
+20.1.27 | Sawyer Hill | Badehaus
+20.1.27 | Kauta | Columbia Theater
 20.01.27 | Jenny Thiele | Kulturhaus Insel
 20.01.27 | J. Bernardt | Lido
 20.01.27 | Cuarteto Casals | Pierre Boulez Saal
@@ -1402,7 +1378,7 @@
 23.01.27 | Transsylvanians | Badehaus
 23.01.27 | Catch Your Breath / Elijah / Ocean Sleeper | Columbia Theater
 23.01.27 | Dave Hause + The Mermaid | Frannz
-23.01.27 | Jero19 | Hole
+23.01.27 | Jero19 | Hole44
 23.01.27 | KYLES TOLONE | Lindenpark Potsdam
 23.01.27 | Tania Giannouli & Nils Petter Molvær | Pierre Boulez Saal
 23.01.27 | Fliehende Stürme / Der Fluch / Totenwald / Elektrokohle | SO36
@@ -1443,11 +1419,12 @@
 30.01.27 | Let Me Entertain You | Admiralspalast
 30.01.27 | Wage Ware / Wind Walkers / Invent Animate | Columbia Theater
 30.01.27 | Spanish Love Songs / Carly Cosgrove / Michael Cera Palin | Gretchen
-30.01.27 | Tim Peters | Hole
+30.01.27 | Tim Peters | Hole44
 30.01.27 | Zate | Huxleys
 30.01.27 | Demented Are Go | Lido
 30.01.27 | Mono | Metropol
 30.01.27 | Piotr Anderszewski | Pierre Boulez Saal
+30.01.27 | new | Jared James Nichols | Prachtwerk
 30.01.27 | Los Bandidos / tba | Wild At Heart
 31.01.27 | A Life Divided | Frannz
 31.01.27 | Get Well Soon | Huxleys
@@ -1455,11 +1432,13 @@
 02.02.27 | Adéla | Huxleys
 02.02.27 | Giles Corey | Lido
 02.02.27 | Trio Gaspard | Pierre Boulez Saal
+03.02.27 | new | Silvan Esso | Astra
 03.02.27 | Akademiekonzert mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
 04.02.27 | Sollowege | Badehaus
 04.02.27 | Delain | Columbia Theater
 04.02.27 | Enslaved / Solstafir / Gaahls Wyrd | Festsaal Kreuzberg
-04.02.27 | Grave Digger | Hole
+04.02.27 | Grave Digger | Hole44
+04.02.27 | new | Dummy | Kantine Berghain
 04.02.27 | Bad Company Legacy & Dave Colwell & Robert Hart / M.o.n.o.k.e.l. | Lido
 04.02.27 | Sim | Metropol
 04.02.27 | William Youn | Pierre Boulez Saal
@@ -1468,7 +1447,7 @@
 05.02.27 | Game of Thrones & House of the Dragon – Das Konzert | Admiralspalast
 05.02.27 | Light The Blind | Badehaus
 05.02.27 | new | Omasta | Gretchen
-05.02.27 | Dina Summer | Hole
+05.02.27 | Dina Summer | Hole44
 05.02.27 | OG LU | Huxleys
 05.02.27 | HISS | Kesselhaus
 05.02.27 | The Mary Wallopers | Kesselhaus
@@ -1477,27 +1456,29 @@
 05.02.27 | 2LAde | Mikropol
 05.02.27 | new | Jazz Night ft. Wonder Marino 4 & Silke Eberhard | Quasimodo
 05.02.27 | Ina Müller | Tempodrom
-6.2.27 | Yu | Astra
-6.2.27 | Carolina Deslandes | Gretchen
-6.2.27 | Jazzrausch Bigband | Heimathafen Neukölln
-6.2.27 | new | Hollywood Undead | Huxleys
-6.2.27 | Iskander Moon | Lark
-6.2.27 | Fake Names | Lido
-6.2.27 | Tabea Zimmermann & Antoine Tamestit | Pierre Boulez Saal
-6.2.27 | Yung | Privatclub
-6.2.27 | Mahler/Fondermann & the beast / Litbarski | Schokoladen
-6.2.27 | Ina Müller | Tempodrom
-6.2.27 | Unheilig + special guest | Uber Arena
-6.2.27 | Unpeople | Urban Spree
-7.2.27 | Bury Tomorrow / Stick To Your Guns / Elwood Stray / Windwaker | Columbiahalle
-7.2.27 | Basement / Fleshwater / Béton Armé | Huxleys
-7.2.27 | Kahraman Deniz | Privatclub
-7.2.27 | Ina Müller | Tempodrom
-8.2.27 | Two Door Cinema Club / The Royston Club | Columbiahalle
-8.2.27 | Iceage | Privatclub
-8.2.27 | new | Venin Carmin | Schokoladen
+06.02.27 | Yu | Astra
+06.02.27 | new | yara | Badehaus
+06.02.27 | Carolina Deslandes | Gretchen
+06.02.27 | Jazzrausch Bigband | Heimathafen Neukölln
+06.02.27 | new | Hollywood Undead | Huxleys
+06.02.27 | Iskander Moon | Lark
+06.02.27 | Fake Names | Lido
+06.02.27 | Tabea Zimmermann & Antoine Tamestit | Pierre Boulez Saal
+06.02.27 | Yung | Privatclub
+06.02.27 | Mahler/Fondermann & the beast / Litbarski | Schokoladen
+06.02.27 | Ina Müller | Tempodrom
+06.02.27 | Unheilig + special guest | Uber Arena
+06.02.27 | Unpeople | Urban Spree
+07.02.27 | Bury Tomorrow / Stick To Your Guns / Elwood Stray / Windwaker | Columbiahalle
+07.02.27 | Basement / Fleshwater / Béton Armé | Huxleys
+07.02.27 | Kahraman Deniz | Privatclub
+07.02.27 | Ina Müller | Tempodrom
+08.02.27 | Two Door Cinema Club / The Royston Club | Columbiahalle
+08.02.27 | new | Madra Salach | Frannz
+08.02.27 | Iceage | Privatclub
+08.02.27 | new | Venin Carmin | Schokoladen
 8.2.27 | Cage The Elephant | Tempodrom
-9.2.27 | Almost Monday | Hole
+9.2.27 | Almost Monday | Hole44
 9.2.27 | Frankie Stew & Harvey Gunn | Huxleys
 9.2.27 | new | Comastatic | Mikropol
 9.2.27 | new | Sofia Camara | Mikropol
@@ -1505,7 +1486,7 @@
 9.2.27 | Johnny Dynamite | Schokoladen
 9.2.27 | One Vision of Yueen feat Marc Martel | Uber Arena
 10.2.27 | Toxische Pommes | Heimathafen Neukölln
-10.2.27 | Mothica / Harpy | Hole
+10.2.27 | Mothica / Harpy | Hole44
 10.2.27 | Night Lovell | Metropol
 10.2.27 | Daniel Benyamin | Schokoladen
 10.2.27 | Skryptonite | Tempodrom
@@ -1522,7 +1503,7 @@
 12.2.27 | Enemy Inside | Frannz
 12.2.27 | IBIBO Sound Machine | Gretchen
 12.2.27 | East Forest | Heimathafen Neukölln
-12.2.27 | Lauren Sanderson | Hole
+12.2.27 | Lauren Sanderson | Hole44
 12.2.27 | In Color | Kantine Berghain
 12.2.27 | Dirty Honey | Lido
 12.2.27 | Die Seilschaft - Die Band von Gundermann | Lindenpark Potsdam
@@ -1535,6 +1516,7 @@
 13.2.27 | Elder / Temple Fang | Festsaal Kreuzberg
 13.2.27 | Die Bolschewistische Kurkapelle Schwarz-Rot | Frannz
 13.2.27 | new | Clap Your Hands Say Yeah | Gretchen
+13.2.27 | new | Ugly | Kantine Berghain
 13.2.27 | Gringo Mayer & Die Kegelbahn | Lido
 13.2.27 | The Legendary Pink Dots | Mikropol
 13.2.27 | Schubert-Woche: Young Singers III | Pierre Boulez Saal
@@ -1543,8 +1525,8 @@
 14.2.27 | The Zac Schulze Gang | Privatclub
 14.2.27 | The Music of Queen – Live Tour 2027 | Tempodrom
 15.2.27 | Dagny | Columbia Theater
-15.2.27 | Look Mum No Computer | Hole
-16.2.27 | Signs Of The Swarm / Ten56 / Oceans Ate Alaska / Face Yourself | Hole
+15.2.27 | Look Mum No Computer | Hole44
+16.2.27 | Signs Of The Swarm / Ten56 / Oceans Ate Alaska / Face Yourself | Hole44
 16.2.27 | Flowerovlove | Privatclub
 16.2.27 | Beat It! – Die Erfolgsshow über den King of Pop | Tempodrom
 16.2.27 | Five Finger Death Punch | Uber Arena
@@ -1561,6 +1543,7 @@
 18.2.27 | The Magic Mumble Jumble | Heimathafen Neukölln
 18.2.27 | Forced To Mode | Kesselhaus
 18.2.27 | Amble | Metropol
+18.2.27 | new | Master Peace | Mikropol
 18.2.27 | The Klittens | Schokoladen
 18.2.27 | Beat It! – Die Erfolgsshow über den King of Pop | Tempodrom
 18.2.27 | new | John Summit | UFO im Velodrom
@@ -1570,7 +1553,7 @@
 19.2.27 | Brunke | Frannz
 19.2.27 | Los Bitchos | Gretchen
 19.2.27 | BAC | Heimathafen Neukölln
-19.2.27 | Hudson Freeman | Hole
+19.2.27 | Hudson Freeman | Hole44
 19.2.27 | Draconian / Saturnus / Ann My Guard | Lido
 19.2.27 | Juse Ju | Metropol
 19.2.27 | Solar Fake | Passionskirche
@@ -1597,36 +1580,40 @@
 22.2.27 | Melrose Avenue | Columbia Theater
 22.2.27 | Julia Jacklin | Festsaal Kreuzberg
 22.2.27 | Adam Green / Turner Cody & The Soldiers Of Love | Heimathafen Neukölln
+22.2.27 | new | Quinn Oulton | Mikropol
 22.2.27 | Honig & Meursault | Schokoladen
 22.2.27 | MC Windhund | SO36
 23.2.27 | Sleeping With Sirens / Arm's Length / Like Roses | Astra
 23.2.27 | Joel Sarakula | Badehaus
 23.2.27 | Bernth | Columbia Theater
 23.2.27 | new | Thee Marloes | Gretchen
+23.2.27 | new | Django Django | Hole44
 23.2.27 | Charlotte Wessels & The Obesession | Lido
 23.2.27 | Dead Poet Society | Metropol
 23.2.27 | Hayden Thorpe | Mikropol
 23.2.27 | Trio Joubran | Pierre Boulez Saal
 23.2.27 | P.O. Box / tba | Schokoladen
 24.2.27 | Jaill | Columbia Theater
-24.02.27 | Chat Pile | Festsaal Kreuzberg
-24.02.27 | Glasperlenspiel | Lido
-24.02.27 | Forever Pavot | Neue Zukunft
-24.02.27 | Ripe | Privatclub
-24.02.27 | Outlander In Concert | Uber Eats Music Hall
-24.02.27 | Manowar | UFO im Velodrom
-25.02.27 | Matze Rossi & Band | Cassiopeia
-25.02.27 | Levka | Columbia Theater
-25.02.27 | Uncle Acid & The Deadbeats / Conan / Earth Tongue | Festsaal Kreuzberg
-25.02.27 | Luca Vasta | Frannz
-25.02.27 | Ana Lua Caiano | Gretchen
-25.02.27 | Lost Society / Hokka | Hole
-25.02.27 | Jaschu | Lido
+24.2.27 | Chat Pile | Festsaal Kreuzberg
+24.2.27 | Glasperlenspiel | Lido
+24.2.27 | Forever Pavot | Neue Zukunft
+24.2.27 | Ripe | Privatclub
+24.2.27 | new | Helena Deland | Silent Green
+24.2.27 | Outlander In Concert | Uber Eats Music Hall
+24.2.27 | Manowar | UFO im Velodrom
+25.2.27 | new | Bloodred Hourglass / Byrmir / Pridian | Bi Nuu
+25.2.27 | Matze Rossi & Band | Cassiopeia
+25.2.27 | Levka | Columbia Theater
+25.2.27 | Uncle Acid & The Deadbeats / Conan / Earth Tongue | Festsaal Kreuzberg
+25.2.27 | Luca Vasta | Frannz
+25.2.27 | Ana Lua Caiano | Gretchen
+25.2.27 | Lost Society / Hokka | Hole44
+25.2.27 | Jaschu | Lido
 25.02.27 | Agatha Is Dead | SO36
 25.02.27 | new | Robby Hoffmann | Tempodrom
 26.02.27 | Protomartyr | Bi Nuu
-26.02.27 | new | DRAMA | Gretchen
-26.02.27 | new | Peelingflesh | Hole
+26.02.27 | new | Drama | Gretchen
+26.02.27 | new | Peelingflesh | Hole44
 26.02.27 | Michelle Gurevich | Huxleys
 26.02.27 | Boondawg | Kesselhaus
 26.02.27 | NEØV | Lark
@@ -1640,6 +1627,7 @@
 27.02.27 | Schandmaul | Columbia Theater
 27.02.27 | new | Tutti Bounce | Gretchen
 27.02.27 | Trentemøller | Huxleys
+27.02.27 | new | Three For Silver | Kulturhaus Insel
 27.02.27 | Leila | Lark
 27.02.27 | new | Liaze | Lido
 27.02.27 | ROBERTA MAMELI & LE CONCERT DE L’HOSTEL DIEU | Pierre Boulez Saal
@@ -1654,6 +1642,7 @@
 01.03.27 | postponed | Kovacs - new date 17.10.27 | Metropol
 02.03.27 | new | Royal Blood | Columbiahalle
 02.03.27 | Emeli Sande | Huxleys
+02.03.27 | new | Bianca Steck | Kulturhaus Insel
 02.03.27 | Marie-Laure Garnier & Célia Oneto Bensaid | Pierre Boulez Saal
 02.03.27 | The Menzingers / The Flatliners | SO36
 03.03.27 | The Next Movement | Gretchen
@@ -1663,7 +1652,7 @@
 03.03.27 | To Athena | Privatclub
 04.03.27 | This Is Loreley / Liam Parsons | Columbia Theater
 04.03.27 | Jersey | Festsaal Kreuzberg
-04.03.27 | Chris Stapleton Roadshow Tribute | Hole
+04.03.27 | Chris Stapleton Roadshow Tribute | Hole44
 04.03.27 | Blanco White | Huxleys
 04.03.27 | Camille | Kammermusiksaal Philharmonie
 04.03.27 | Connor Skinner | Mikropol
@@ -1681,6 +1670,7 @@
 06.03.27 | Anda Morts | Astra
 06.03.27 | Mamas Gun | Columbia Theater
 06.03.27 | Prezident + Jay Baez | Gretchen
+06.03.27 | new | Cleopatrick | Hole44
 06.03.27 | Mr. Hurley & Die Pulveraffen / Vogelfrey | Huxleys
 06.03.27 | Bombus | Mikropol
 06.03.27 | WIEŻE FABRY - Sky's The Limit! Fest | Neue Zukunft
@@ -1694,18 +1684,22 @@
 09.03.27 | Tiny Habits | Columbia Theater
 09.03.27 | Turnover / Nothing | Festsaal Kreuzberg
 09.03.27 | Delta Goodrem | Huxleys
+09.03.27 | new | Fine | Lido
+09.03.27 | new | Kula Shaker | Metropol
 09.03.27 | Elternzeitkonzert: Waed Bouhassoun & Orpheus 21 | Pierre Boulez Saal
 09.03.27 | Robin Vehrs | Prachtwerk
+10.03.27 | new | Evil Invaders / Exhorder / Heathen / Warfield | Bi Nuu
 10.03.27 | Haiden Henderson | Columbia Theater
 10.03.27 | Paula Cole | Frannz
 10.03.27 | Palace | Huxleys
+10.03.27 | new | La Priest | Kantine Berghain
 10.03.27 | Hammer King | Lido
 10.03.27 | Cosima Kiby | Mikropol
 10.03.27 | Tobias Feldmann, Andrei Ioniță & Nathalia Milstein | Pierre Boulez Saal
 11.03.27 | Tränen | Columbia Theater
 11.03.27 | Ami Warning | Festsaal Kreuzberg
 11.03.27 | Camilla George | Gretchen
-11.03.27 | D’espairsRay | Hole
+11.03.27 | D’espairsRay | Hole44
 11.03.27 | Cult Of Luna / Bruit / Youth Code | Huxleys
 11.03.27 | Anna-Maria Zimmermann | Kesselhaus
 11.03.27 | Pierre-Laurent Aimard | Pierre Boulez Saal
@@ -1722,8 +1716,10 @@
 12.03.27 | Akademie für Alte Musik Berlin, Sophie Rennert & Studierende der Barenboim-Said Akademie | Pierre Boulez Saal
 12.03.27 | Bernd Begemann & Die Befreiung | Privatclub
 12.03.27 | Girls Under Glass | Urban Spree
+13.03.27 | new | Shygirl | Columbiahalle
 13.03.27 | Dschinghis Khan | Ernst-Reuter-Saal
-13.03.27 | Morgan Wallen Tribute UK | Hole
+13.03.27 | new | Marika Hackman | Heimathafen Neukölln
+13.03.27 | Morgan Wallen Tribute UK | Hole44
 13.03.27 | Paul Sies | Lido
 13.03.27 | Daniel Ceylan | Maschinenhaus
 13.03.27 | Kremer | Privatclub
@@ -1746,7 +1742,7 @@
 17.03.27 | Paulwetz | Huxleys
 17.03.27 | Die Nacht der Musicals | Tempodrom
 18.03.27 | Pippo Pollina | Ernst-Reuter-Saal
-18.03.27 | Our Mirage / Lost In Hollywood / Out Of Mission | Hole
+18.03.27 | Our Mirage / Lost In Hollywood / Out Of Mission | Hole44
 18.03.27 | new | Palaye Royale | Huxleys
 18.03.27 | Agassi | Kantine Berghain
 18.03.27 | Geburtstagskonzert - 10 Jahre Pierre Boulez Saal | Pierre Boulez Saal
@@ -1755,7 +1751,7 @@
 18.03.27 | Pop Divas – Das Tribute-Konzert der Superstars | Tempodrom
 18.03.27 | Maite Kelly | Uber Arena
 19.03.27 | Ruby Haunt | Frannz
-19.03.27 | PA Sports | Hole
+19.03.27 | PA Sports | Hole44
 19.03.27 | Kakkmaddafakka | Huxleys
 19.03.27 | Eala | Lark
 19.03.27 | Graveyard / Blue Pills | Metropol
@@ -1776,7 +1772,7 @@
 21.03.27 | The Warning | Uber Eats Music Hall
 22.03.27 | Nessa Barrett | Columbiahalle
 22.03.27 | Emma Ruth Rundle | Festsaal Kreuzberg
-22.03.27 | Squeeze | Hole
+22.03.27 | Squeeze | Hole44
 23.03.27 | Pokey Lafarge | Lido
 23.03.27 | Sophie Hunger & Ensemble | Philharmonie
 23.03.27 | Naseer Shamma | Pierre Boulez Saal
@@ -1786,17 +1782,19 @@
 24.03.27 | May Erlewine | Mikropol
 24.03.27 | Sienna Spiro | Tempodrom
 25.03.27 | KMFDM | Columbia Theater
-25.03.27 | new | Bella Poarch | Hole
+25.03.27 | new | Bella Poarch | Hole44
 25.03.27 | BHZ | UFO im Velodrom
 26.03.27 | One Step Closer - Linkin Park Tribute | Kesselhaus
 26.03.27 | Melissa Aldana featuring Pablo Held | Pierre Boulez Saal
 26.03.27 | Kat Frankie - Bodies | Tempodrom
+27.03.27 | new | Sector 5 | Kulturhaus Insel
 27.03.27 | Dauerwelle Wasserstoff | Mikropol
 27.03.27 | Desperate Journalist / tba | Schokoladen
 28.03.27 | Rumours of Fleetwood Mac | Tempodrom
 29.03.27 | new | Jack Wyllie / Phi-Psonics | Gretchen
 29.03.27 | Boulez Ensemble & Daniel Barenboim | Pierre Boulez Saal
 29.03.27 | Kaleo | Uber Eats Music Hall
+30.03.27 | new | Brooke Combe | Mikropol
 30.03.27 | Jeeyoung Lim & Jonathan Ware | Pierre Boulez Saal
 31.03.27 | new date | Nieve Ella / Sofia & The Antoinettes | Columbia Theater
 31.03.27 | Jordan Rakei | Huxleys
@@ -1808,7 +1806,7 @@
 02.04.27 | new | Materazi Future Club | Schokoladen
 02.04.27 | Deadline | SO36
 03.04.27 | Setyoursails / Throatcut / Heaven.Exe | Badehaus
-03.04.27 | cancelled | Victory / Why Amnesia | Hole
+03.04.27 | cancelled | Victory / Why Amnesia | Hole44
 03.04.27 | Razz | Huxleys
 03.04.27 | Stefan Temmingh, Mathis Wolfer & Ensemble | Pierre Boulez Saal
 03.04.27 | AK Ausserkontrolle | UFO im Velodrom
@@ -1820,12 +1818,14 @@
 04.04.27 | Trettmann | UFO im Velodrom
 05.04.27 | The Vernon Spring | Silent Green
 06.04.27 | Chris De Burgh | Columbiahalle
+06.04.27 | new | Herbst | Hole44
 06.04.27 | Alberta Cross | Lido
 06.04.27 | Jett Rebel | Mikropol
 07.04.27 | Sarah Engels | Columbia Theater
 07.04.27 | Druckluft | Kleine Arena Tempodrom
 07.04.27 | Quartet Amabile | Pierre Boulez Saal
 07.04.27 | Giovanni Zarrella | Tempodrom
+08.04.27 | new date | Fiona Fiasco | 8MM Bar
 08.04.27 | High Fade | Bi Nuu
 08.04.27 | Iggi Kelly | Frannz
 08.04.27 | Dr. Feelgood | Maschinenhaus
@@ -1841,13 +1841,14 @@
 09.04.27 | William The Conqueror | Mikropol
 09.04.27 | Alina Ibragimova & Cédric Tiberghien | Pierre Boulez Saal
 09.04.27 | Ein Rosenkavalier | Privatclub
+09.04.27 | new | Damien Rice | Tempodrom
 10.04.27 | Mono Inc. | Admiralspalast
 10.04.27 | new | Dubioza Kolektiv | Astra
 10.04.27 | new | Betty Ford Boys | Bi Nuu
 10.04.27 | Josh. | Columbia Theater
 10.04.27 | Eläkeläiset | Festsaal Kreuzberg
 10.04.27 | Jack Pott | Frannz
-10.04.27 | new | Keo | Hole
+10.04.27 | new | Keo | Hole44
 10.04.27 | Leony | Huxleys
 10.04.27 | new | Dressed Like Boys | Lark
 10.04.27 | Tulpe | Lido
@@ -1863,7 +1864,7 @@
 12.04.27 | Monet192 | Huxleys
 13.04.27 | Snarky Puppy | Columbiahalle
 13.04.27 | Kellermensch | Frannz
-13.04.27 | Ghostkid / Dropout Kings / Seven Blood / Stain The Canvas | Hole
+13.04.27 | Ghostkid / Dropout Kings / Seven Blood / Stain The Canvas | Hole44
 13.04.27 | RPWL | Maschinenhaus
 13.04.27 | Luna Simao | Modus
 13.04.27 | Ema Nikolovska & Hikaru Kanki | Pierre Boulez Saal
@@ -1886,7 +1887,7 @@
 16.04.27 | Lilli | Prachtwerk
 17.04.27 | Spider Murphy Gang | Astra
 17.04.27 | Devision Redux | Columbia Theater
-17.04.27 | Mekdes | Hole
+17.04.27 | Mekdes | Hole44
 17.04.27 | Dragonforce / Visions Of Atlantis / Wings Of Steel | Huxleys
 17.04.27 | Passenger | Tempodrom
 17.04.27 | Maffay & Oerding | Uber Arena
@@ -1902,7 +1903,7 @@
 18.04.27 | Thirty Seconds To Mars | Velodrom
 19.04.27 | Celebrating Meat Loaf' – The Neverland Express | Admiralspalast
 19.04.27 | Jake Bugg | Heimathafen Neukölln
-19.04.27 | Jack Kays And His Band | Hole
+19.04.27 | Jack Kays And His Band | Hole44
 19.04.27 | Thomas Bergersen | Uber Arena
 20.04.27 | Akademiekonzert - Kammermusik mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
 21.04.27 | Joy Oladokun | Frannz
@@ -1922,7 +1923,7 @@
 24.04.27 | Ministry / Die Krupps | Columbiahalle
 24.04.27 | Moonkid | Frannz
 24.04.27 | Xavi | Gretchen
-24.04.27 | The Lainey Wilson Experience | Hole
+24.04.27 | The Lainey Wilson Experience | Hole44
 24.04.27 | Waving The Guns | Huxleys
 24.04.27 | new date | Tiffany Aris | Prachtwerk
 24.04.27 | Der Herr der Ringe - Die zwei Türme in concert | Uber Arena
@@ -1941,17 +1942,19 @@
 29.04.27 | M. Byrd & Friends | Monarch
 29.04.27 | Signum Quartett | Pierre Boulez Saal
 29.04.27 | Rogers | SO36
-30.04.27 | Breakdown Of Sanitiy | Hole
+30.04.27 | Breakdown Of Sanitiy | Hole44
+30.04.27 | new | Nichtseattle | Lido
 30.04.27 | Paula Hartmann | Max-Schmeling-Halle
 30.04.27 | Dave Hill's Slade | Metropol
 30.04.27 | Elternzeitkonzert: Signum Quartett | Pierre Boulez Saal
 01.05.27 | Tindersticks | Admiralspalast
 01.05.27 | Mo-Torres | Columbia Theater
 01.05.27 | HGICH.T | SO36
-02.05.27 | Pibes Chorros / Jarfaiter | Hole
+02.05.27 | Pibes Chorros / Jarfaiter | Hole44
 02.05.27 | Ellice | Huxleys
 02.05.27 | Carolin Widmann & Gabriele Carcano | Pierre Boulez Saal
 02.05.27 | LEA | Uber Arena
+03.05.27 | new | Orbital | Festsaal Kreuzberg
 03.05.27 | new | Peter Hammill | Passionskirche
 05.05.27 | Benne | Frannz
 05.05.27 | Curtis Stigers | Kammermusiksaal Philharmonie
@@ -1975,6 +1978,7 @@
 08.05.27 | Alex Mofa Gang | Lido
 08.05.27 | Crystal F | Metropol
 08.05.27 | Vendetta Fest 2027 w/ tba- Day 2 | Neue Zukunft
+08.05.27 | new | Jennifer Rostock | Velodrom
 09.05.27 | Leslie Mandoki | Columbia Theater
 09.05.27 | new | Bokassa | Frannz Club
 09.05.27 | Yulianna Avdeeva | Pierre Boulez Saal
@@ -1987,22 +1991,23 @@
 12.05.27 | Hilary Duff / Rebecca Black | Velodrom
 13.05.27 | Peter Kraus & Mike Kraus | Admiralspalast
 13.05.27 | Fortuna Ehrenfeld | Festsaal Kreuzberg
-13.05.27 | Die Happy | Hole
+13.05.27 | Die Happy | Hole44
 13.05.27 | new | Jay-Jay Johanson | Lido
 13.05.27 | Nils Mönkemeyer & Ensemble | Pierre Boulez Saal
 13.05.27 | new | The Godfathers | Quasimodo
-13.05.27 | Gracie Abrams | Uber Arena
-14.05.27 | Lambrini Girls | Astra
-14.05.27 | Desertfest Berlin 2027 - www.desertfest-tickets.de - Day 1 | Columbia Areal
+13.5.27 | Gracie Abrams | Uber Arena
+14.5.27 | Lambrini Girls | Astra
+14.5.27 | Desertfest Berlin 2027 - www.desertfest-tickets.de - Day 1 | Columbia Areal
 14.05.27 | Trio con Brio Copenhagen | Pierre Boulez Saal
 14.5.27 | Abbamania | Uber Arena
-15.5.27 | Desertfest Berlin 2027 - www.desertfest-tickets.de - Day 2 | Columbia Areal
-15.5.27 | Julia Kleiter & Julius Drake | Pierre Boulez Saal
-15.05.27 | Hubert von Goisern | RBB Sendesaal
-16.5.27 | Desertfest Berlin 2027 - www.desertfest-tickets.de - Day 3 | Columbia Areal
+15.05.27 | Desertfest Berlin 2027 - www.desertfest-tickets.de - Day 2 | Columbia Areal
+15.05.27 | Julia Kleiter & Julius Drake | Pierre Boulez Saal
+15.5.27 | Hubert von Goisern | RBB Sendesaal
+16.05.27 | Desertfest Berlin 2027 - www.desertfest-tickets.de - Day 3 | Columbia Areal
 16.05.27 | Nathalia Milstein | Pierre Boulez Saal
 16.05.27 | Malmequer & Friends | Schokoladen
-16.5.27 | Thomas Anders sings Modern Talking | Tempodrom
+16.05.27 | Thomas Anders sings Modern Talking | Tempodrom
+18.05.27 | new | Snayx | Kantine Berghain
 18.05.27 | Sombr | Uber Arena
 19.05.27 | Loreen | Astra
 19.05.27 | Monika Roscher Bigband | Kesselhaus
@@ -2011,22 +2016,24 @@
 20.05.27 | Elisabeth Leonskaja & Julius Drake | Pierre Boulez Saal
 21.05.27 | Drunken Masters | Huxleys
 21.05.27 | Konstantin Krimmel & Ammiel Bushakevitz | Pierre Boulez Saal
+21.05.27 | new | Bess Atwell | Privatclub
 21.05.27 | Dieter Bohlen | Uber Eats Music Hall
 22.05.27 | Christoph Sakwerda | Frannz
 22.05.27 | KC Rebell | Huxleys
 22.05.27 | new | Bleech 9:3 | Lido
 23.05.27 | Millenium Kid | Huxleys
-23.05.27 | Elisabeth Leonskaja & Trio Così | Pierre Boulez Saal
+23.5.27 | Elisabeth Leonskaja & Trio Così | Pierre Boulez Saal
 24.05.27 | Erasure | Uber Eats Music Hall
 26.05.27 | Theodore Platt & Keval Shah | Pierre Boulez Saal
 26.05.27 | Attack on Titan Live | Tempodrom
 27.05.27 | Attack on Titan Live | Tempodrom
 28.05.27 | Fewjar | Lido
-28.5.27 | Kirill Gerstein & Gurdjieff Ensemble | Pierre Boulez Saal
+28.05.27 | Kirill Gerstein & Gurdjieff Ensemble | Pierre Boulez Saal
 28.05.27 | Bee Gees by Maincourse | Tempodrom
 29.05.27 | new | Klangstabil / Bakterielle Infektion | Cassiopeia
 29.05.27 | Heath Quartet | Pierre Boulez Saal
-30.05.27 | Omar76 | Hole
+29.05.27 | new | Mike + The Mechanics | Tempodrom
+30.05.27 | Omar76 | Hole44
 01.06.27 | John Vincent III | Privatclub
 02.06.27 | Jorja Smith | Zitadelle Spandau
 03.06.27 | Piano Man – A Tribute Concert to Billy Joel | Admiralspalast
@@ -2040,6 +2047,7 @@
 08.06.27 | Luka Bloom | Columbia Theater
 08.06.27 | Kristian Bezuidenhout | Pierre Boulez Saal
 08.06.27 | blink-182 / Billy Talent | Waldbühne
+12.06.27 | new | Carla Ahad | Beach Neukölln
 12.06.27 | 65 United! | Uber Arena
 12.06.27 | Take That / Michael Patrick Kelly | Waldbühne
 12.06.27 | Ikkimel & Friends | Wuhlheide
@@ -2074,24 +2082,25 @@
 10.09.27 | Kolja Goldstein | Metropol
 11.09.27 | Archive | Uber Eats Music Hall
 11.09.27 | Danger Dan | Wuhlheide
-18.09.27 | Diorama | Hole
+18.09.27 | new | Lina | Columbia Theater
+18.09.27 | Diorama | Hole44
 18.09.27 | Element Of Crime | Wuhlheide
 23.09.27 | Kollegah & Farid Bang | Uber Eats Music Hall
 24.09.27 | new | Sido – Ich liebe es Tour 2027 - 1 | Max-Schmeling-Halle
 25.09.27 | Christin Stark | Columbia Theater
 25.09.27 | Montez | Uber Arena
-29.09.27 | Britallica / Spinors | Privatclub
-30.09.27 | Mass Of The Fermenting Dregs | Hole
-30.09.27 | New Waves Day Club Edition - Mouth Ulcers / Then Comes Silence / The Depths | Lido
-01.10.27 | Vega | Kesselhaus
-02.10.27 | Lychee Lassi | Gretchen
-03.10.27 | Scala & Kolacny Brothers | Tempodrom
-04.10.27 | Bernhard Brink | Admiralspalast
-06.10.27 | Jain | Huxleys
+29.9.27 | Britallica / Spinors | Privatclub
+30.9.27 | Mass Of The Fermenting Dregs | Hole44
+30.9.27 | New Waves Day Club Edition - Mouth Ulcers / Then Comes Silence / The Depths | Lido
+1.10.27 | Vega | Kesselhaus
+2.10.27 | Lychee Lassi | Gretchen
+3.10.27 | Scala & Kolacny Brothers | Tempodrom
+4.10.27 | Bernhard Brink | Admiralspalast
+6.10.27 | Jain | Huxleys
 07.10.27 | The Mission | Columbia Theater
-8.10.27 | D/TROIT | Frannz
-8.10.27 | Tom Twers | Huxleys
-8.10.27 | new | Sido – Ich liebe es Tour 2027 - 2 | Max-Schmeling-Halle
+08.10.27 | D/TROIT | Frannz
+08.10.27 | Tom Twers | Huxleys
+08.10.27 | new | Sido – Ich liebe es Tour 2027 - 2 | Max-Schmeling-Halle
 12.10.27 | Foreigner / Europe | Max-Schmeling-Halle
 15.10.27 | Avec / Nono | Frannz
 16.10.27 | Drogu | Badehaus
@@ -2099,14 +2108,14 @@
 19.10.27 | new | Brit Floyd | Admiralspalast
 22.10.27 | new | Eisbrecher | Columbiahalle
 23.10.27 | Kayef | Columbia Theater
-23.10.27 | Romero | Hole
+23.10.27 | Romero | Hole44
 23.10.27 | Subway To Sally | Passionskirche
 23.10.27 | Nena | Uber Arena
 28.10.27 | Die Prinzen | Uber Arena
 30.10.27 | Andrea Berg | Uber Arena
-05.11.27 | THE BEAUTY OF GEMINA | Mikropol
+5.11.27 | THE BEAUTY OF GEMINA | Mikropol
 6.11.27 | Deine Freunde - 1 | Tempodrom
-7.11.27 | Deine Freunde - 2 | Tempodrom
+07.11.27 | Deine Freunde - 2 | Tempodrom
 11.11.27 | Jan Garbarek Group feat. Trilok Gurtu | Philharmonie
 12.11.27 | new | Vicky | Huxleys
 13.11.27 | Agnes Obel | Uber Eats Music Hall
@@ -2118,14 +2127,15 @@
 27.11.27 | Wincent Weiss | Uber Arena
 03.12.27 | Smokie | Admiralspalast
 03.12.27 | new | Provinz | Max-Schmeling-Halle
-4.12.27 | new | Provinz - Zusatzshow | Max-Schmeling-Halle
+04.12.27 | new | Provinz - Zusatzshow | Max-Schmeling-Halle
 18.12.27 | sold out | Finch | Velodrom
 19.12.27 | Genetikk | Huxleys
 29.01.28 | Kool Savas | Uber Arena
 31.03.28 | Kerstin Ott | Max-Schmeling-Halle
-19.5.28 | Julian Sommer | Huxleys
+19.05.28 | Julian Sommer | Huxleys
 28.12.30 | TZK | Columbiahalle
 02.-08.12.26 | 13. Punkfilmfest Berlin - 7 Tage, 14 Filme, 50 Kurzfilme, 2 Konzerte, Akustikpunk im Kino | Several Locations
+04.-05.11.26 | new | Most Wanted: Music Club Festival 2026 | RAW Gelände
 05.-06.12.26 | De Mortem Et Diabolum XII - 2026 | Orwohaus
 05.-08.11.26 | Nox A Carnival Vol. 13 | Drugstore im Rockhaus
 06.-07.11.26 | War Against War V - Gorgoroth, Mork, Wolvennest, Sarkrista, Drudensang, Xonor, Silhouette, Black Spikes uvm. | Orwohaus
