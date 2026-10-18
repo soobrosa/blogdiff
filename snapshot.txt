@@ -1,43 +1,6 @@
 === Gigs (gid 415332589) ===
-16.10.26 | James Blake | Astra
-16.10.26 | Philipp Lump | Badehaus
-16.10.26 | new | Stella & The Longos / Sua Galera | Bi Nuu
-16.10.26 | Vineeth Sreenivasan | Columbia Theater
-16.10.26 | Prinz Pi / Laas | Columbiahalle
-16.10.26 | Bluthund / Zombiez | Festsaal Kreuzberg
-16.10.26 | La Hafla Weekender - Day 2 | Gretchen
-16.10.26 | Samurai Pizza Cats / Babybeard | Hole44
-16.10.26 | Civo | Huxleys
-16.10.26 | Pub Choir | Kleine Arena Tempodrom
-16.10.26 | AoxoToxoA | Kulturhaus Insel
-16.10.26 | World Brain | Lark
-16.10.26 | Girl In Your Area / Tami T | Lido
-16.10.26 | Across Oceans | Maschinenhaus
-16.10.26 | sold out | Marteria | Max-Schmeling-Halle
-16.10.26 | Fink | Metropol
-16.10.26 | cancelled | Kita Alexander / Lala Hayden | Mikropol
-16.10.26 | Makthaverskan / Molly Nilsson | Monarch
-16.10.26 | Heavy Psych Sounds Fest Berlin 2026 | Neue Zukunft
-16.10.26 | new | Scorn / Slow Burn / Chlorate | OGH
-16.10.26 | Elternzeitkonzert: Morgenstern Trio | Pierre Boulez Saal
-16.10.26 | Yola | Prachtwerk
-16.10.26 | Yung Street / Go(o)d Trip | Privatclub
-16.10.26 | cancelled | Est Gee | Säälchen
-16.10.26 | Boris Bond / Thee B.T's | Schokoladen
-16.10.26 | Laturb / Tiny Doris | SO36
-16.10.26 | Anastacia | Tempodrom
-16.10.26 | Brutal Verschimmelt / Rosa Beton | Tommy-Weisbecker-Haus
-16.10.26 | Simple Plan / Neck Deep / Charlotte Sands | UFO Velodrom
-16.10.26 | Nekrotsoulithra | Urban Spree
-16.10.26 | Frau Lehman | Waschhaus Potsdam
-16.10.26 | Project Pitchfork | Waschhaus Potsdam
-16.10.26 | Die Schwimmen "Wifi on Ice" Release Show / Helmar | West Germany
-16.10.26 | Madlocks / Los Mierda | Wild At Heart
-16.10.26 | Nice One Weekender - Day 1 | Zenner
-16.10.26 | Tomo Katsurada & Jonny Nash | Zenner
 17.10.26 | sold out | Ólafur Arnalds | Admiralspalast
 17.10.26 | Alexandra Capitanescu | Bi Nuu
-17.10.26 | new | Alexandra Căpitănescu | Bi Nuu
 17.10.26 | cancelled | Sixpence None The Richer | Columbia Theater
 17.10.26 | Future Palace | Festsaal Kreuzberg
 17.10.26 | Fast Boy | Hole44
