@@ -1,34 +1,4 @@
 === Gigs (gid 415332589) ===
-12.11.26 | Helmut Lotti goes Classic | Admiralspalast
-12.11.26 | Guacayo | Badehaus
-12.11.26 | GVLLOW / Haunt Me | Cassiopeia
-12.11.26 | Bonaparte - 20 Years | Columbiahalle
-12.11.26 | Messa | Frannz Club
-12.11.26 | Nils Petter Molvær Trio | Gretchen
-12.11.26 | Hijaz mit Mandlen | Heimathafen Neukölln
-12.11.26 | Ash | Hole44
-12.11.26 | Overmono | Huxleys
-12.11.26 | Pat And The Pissers / Die Haare | K19
-12.11.26 | Love'n'Joy / Rasco | Kantine am Berghain
-12.11.26 | Santiago Cruz | Kesselhaus
-12.11.26 | Isaac Jensen | Kulturhaus Insel
-12.11.26 | Wilt / Thistle. | Lark
-12.11.26 | Our Promise | Lido
-12.11.26 | Max Prosa | Lindenpark Potsdam
-12.11.26 | Mammoth / Florence Black | Metropol
-12.11.26 | Heylucas | Mikropol
-12.11.26 | Elephant Stone / Sacred Buzz - Double Album Release Show | Neue Zukunft
-12.11.26 | Berliner Philharmoniker / Zubin Mehta / Pinchas Zukerman | Philharmonie
-12.11.26 | NASEER SHAMMA & ENSEMBLE | Pierre Boulez Saal
-12.11.26 | Yndling | Prachtwerk
-12.11.26 | Kanadia | Privatclub
-12.11.26 | Steven Wilson: 'Requiem for a Village' DJ Set + Signing | Rough Trade Berlin
-12.11.26 | new date | Kelsey Lu | Säälchen
-12.11.26 | Pyro One / KET | Schokoladen
-12.11.26 | Nasty / Crawlspace / Printglass / Ghetto Justice | SO36
-12.11.26 | UNS / Gäste | Urban Spree
-12.11.26 | sold out | Gregor Meyle + Band | Waschhaus Potsdam
-12.11.26 | DeeCracks / Power Apes | Wild At Heart
 13.11.26 | Alceu Valenca | Astra
 13.11.26 | CR7Z | Badehaus
 13.11.26 | Stakeout | Bi Nuu
@@ -185,6 +155,7 @@
 18.11.26 | Muse | Uber Arena
 18.11.26 | Taemin | Uber Eats Music Hall
 18.11.26 | Papa Roach / Sleep Theory / Landmvrks | Velodrom
+18.11.26 | new | Punk-A-Velli Vol. 5 w/ Die Puppenschmuggler, Mietminderung, Mangelware, Big Gainer | Werk9 / Markgrafenstr 26
 18.11.26 | Panthercaps - Eintritt frei / Wild Wednesday | Wild At Heart
 19.11.26 | David Bowie Symphony | Admiralspalast
 19.11.26 | Anna Von Hausswolff | Astra
@@ -425,7 +396,7 @@
 27.11.26 | Ransom / Heat A Tact | Wild At Heart
 28.11.26 | Skyline Green | Badehaus
 28.11.26 | Freddie Dickson | Baketown
-28.11.26 | Dominik Hartz | Columbia Theater
+28.11.26 | postponed | Dominik Hartz - new date tba | Columbia Theater
 28.11.26 | postponed | Nieve Ella / Sofia & The Antoinettes - new date 31.03.27 | Columbia Theater
 28.11.26 | Fatoni | Columbiahalle
 28.11.26 | Rosa Beton, Tungsten Tips, Justus Jever & The K-Holes, Atieros - Soli-Benefizkonzert zugunsten der Hilfe für obdachlose Menschen und ihrer Tiere | Drugstore im Rockhaus
@@ -1196,7 +1167,7 @@
 22.2.27 | MC Windhund | SO36
 23.2.27 | Sleeping With Sirens / Arm's Length / Like Roses | Astra
 23.2.27 | Joel Sarakula | Badehaus
-23.2.27 | Bernth | Columbia Theater
+23.02.27 | Bernth | Columbia Theater
 23.02.27 | Thee Marloes | Gretchen
 23.02.27 | Django Django | Hole44
 23.02.27 | Jacob Banks | Kesselhaus
@@ -1310,7 +1281,7 @@
 06.03.27 | Mr. Hurley & Die Pulveraffen / Vogelfrey | Huxleys
 06.03.27 | new | Ahzumkot | Lido
 06.03.27 | Die Lärmer | Lindenpark Potsdam
-06.03.27 | Kool & The Gang | Max-Schmeling-Halle
+6.3.27 | Kool & The Gang | Max-Schmeling-Halle
 6.3.27 | Bombus | Mikropol
 6.3.27 | WIEŻE FABRY - Sky's The Limit! Fest | Neue Zukunft
 6.3.27 | Steinza | Prachtwerk
@@ -1442,7 +1413,7 @@
 20.3.27 | Feuerengel - Rammstein Tribute | Kesselhaus
 20.3.27 | Finn Forster | Lark
 20.3.27 | GOETHES ERBEN + ANKE HACHFELD - „Dystopie frisst Empathie“ Part V | Lindenpark Potsdam
-20.3.27 | Orange Blue | Passionskirche
+20.03.27 | Orange Blue | Passionskirche
 20.03.27 | Moses Boyd | Säälchen
 20.03.27 | James Blunt | Uber Arena
 21.03.27 | OG Keemo | Columbiahalle
@@ -1588,6 +1559,7 @@
 14.04.27 | Laurenz Nikolaus | Badehaus
 14.04.27 | new | Ider | Columbia Theater
 14.04.27 | Wanda | Columbiahalle
+14.04.27 | new | Dylan | Hole44
 14.04.27 | Monatik | Huxleys
 14.04.27 | new | Black Marble | SO36
 14.04.27 | RY X | Tempodrom
@@ -1634,7 +1606,7 @@
 19.04.27 | Ashe | Tempodrom
 19.04.27 | Thomas Bergersen | Uber Arena
 20.04.27 | Akademiekonzert - Kammermusik mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
-21.04.27 | Joy Oladokun | Frannz Club
+21.04.27 | cancelled | Joy Oladokun | Frannz Club
 21.04.27 | Junyan Chen | Pierre Boulez Saal
 21.04.27 | The 12 Tenors | Tempodrom
 21.04.27 | Simple Minds / Level 42 | Uber Arena
@@ -1827,16 +1799,16 @@
 07.06.27 | Akademiekonzert - Kammermusik mit Studierenden der Barenboim-Said Akademie | Pierre Boulez Saal
 08.06.27 | Luka Bloom | Columbia Theater
 08.06.27 | Kristian Bezuidenhout | Pierre Boulez Saal
-08.06.27 | blink-182 / Billy Talent | Waldbühne
-10.06.27 | new | Beach Bunny | Hole44
+8.6.27 | blink-182 / Billy Talent | Waldbühne
+10.6.27 | new | Beach Bunny | Hole44
 12.6.27 | Carla Ahad | Beach Neukölln
-12.6.27 | Ikkimel & Friends | Parkbühne Wuhlheide
+12.06.27 | Ikkimel & Friends | Parkbühne Wuhlheide
 12.6.27 | 65 United! | Uber Arena
 12.06.27 | Take That / Michael Patrick Kelly | Waldbühne
-12.6.27 | new | Fall Out Boy / A Day To Remember / Neck Deep | Zitadelle Spandau
-13.06.27 | Delil & Avie | Huxleys
+12.06.27 | new | Fall Out Boy / A Day To Remember / Neck Deep | Zitadelle Spandau
+13.6.27 | Delil & Avie | Huxleys
 13.06.27 | Boulez Ensemble & Jörg Widmann | Pierre Boulez Saal
-13.6.27 | 65 United! | Uber Arena
+13.06.27 | 65 United! | Uber Arena
 13.06.27 | Sting | Zitadelle Spandau
 15.06.27 | sold out | Herbert Grönemeyer | Waldbühne
 16.06.27 | sold out | Herbert Grönemeyer | Waldbühne
@@ -1854,9 +1826,9 @@
 28.06.27 | Don Omar | Uber Arena
 30.06.27 | U2 | Olympiastadion
 02.07.27 | Harry Styles / Getdown Services | Flughafen Tempelhof
-03.07.27 | Berlin Breakout! 2027 | Astra
+3.7.27 | Berlin Breakout! 2027 | Astra
 03.07.27 | Harry Styles / Getdown Services | Flughafen Tempelhof
-4.7.27 | The Hooters | Columbia Theater
+04.07.27 | The Hooters | Columbia Theater
 06.07.27 | Patti Smith Quartet | Zitadelle Spandau
 14.07.27 | Amy MacDonald | Zitadelle Spandau
 16.07.27 | Wolfcity Fest - Day 1 | Neue Zukunft
@@ -1915,13 +1887,13 @@
 01.10.27 | Vega | Kesselhaus
 02.10.27 | Lychee Lassi | Gretchen
 02.10.27 | Jean-Michel Jarre | Uber Arena
-03.10.27 | Scala & Kolacny Brothers | Tempodrom
+3.10.27 | Scala & Kolacny Brothers | Tempodrom
 04.10.27 | Bernhard Brink | Admiralspalast
-6.10.27 | Jain | Huxleys
+06.10.27 | Jain | Huxleys
 07.10.27 | The Mission | Columbia Theater
-07.10.27 | Leo Kaminski | Lark
+7.10.27 | Leo Kaminski | Lark
 08.10.27 | D/TROIT | Frannz Club
-8.10.27 | Tom Twers | Huxleys
+08.10.27 | Tom Twers | Huxleys
 08.10.27 | Keimzeit | Lindenpark Potsdam
 08.10.27 | Sido – Ich liebe es Tour 2027 - 2 | Max-Schmeling-Halle
 09.10.27 | new date | Skipinnish | Columbia Theater
@@ -1948,12 +1920,12 @@
 29.10.27 | Rodeo 5000 | Badehaus
 29.10.27 | new | Matterz | Columbia Theater
 30.10.27 | Andrea Berg | Uber Arena
-5.11.27 | Kieran Goss / Annie Kinsella | Lindenpark Potsdam
+05.11.27 | Kieran Goss / Annie Kinsella | Lindenpark Potsdam
 05.11.27 | THE BEAUTY OF GEMINA | Mikropol
-05.11.27 | The Beauty Of Gemina | Mikropol
-06.11.27 | Deine Freunde - 1 | Tempodrom
-6.11.27 | William Shakespeare’s Romeo + Juliet Film in Concert | Uber Eats Music Hall
-7.11.27 | Deine Freunde - 2 | Tempodrom
+5.11.27 | The Beauty Of Gemina | Mikropol
+6.11.27 | Deine Freunde - 1 | Tempodrom
+06.11.27 | William Shakespeare’s Romeo + Juliet Film in Concert | Uber Eats Music Hall
+07.11.27 | Deine Freunde - 2 | Tempodrom
 11.11.27 | Conic Rose | Gretchen
 11.11.27 | Jan Garbarek Group feat. Trilok Gurtu | Philharmonie
 11.11.27 | new | Grossstadtwahnsinn Festival 2027 - Day 1 | SO36
@@ -1971,8 +1943,8 @@
 20.11.27 | Bruce Dickinson | Uber Eats Music Hall
 27.11.27 | Sind | Columbiahalle
 27.11.27 | Wincent Weiss | Uber Arena
-3.12.27 | Smokie | Admiralspalast
-3.12.27 | Provinz | Max-Schmeling-Halle
+03.12.27 | Smokie | Admiralspalast
+03.12.27 | Provinz | Max-Schmeling-Halle
 04.12.27 | Provinz - Zusatzshow | Max-Schmeling-Halle
 10.12.27 | new | Julian Sommer | Huxleys
 18.12.27 | sold out | Finch | Velodrom
