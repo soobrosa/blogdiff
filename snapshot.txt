@@ -1,32 +1,4 @@
 === Gigs (gid 415332589) ===
-19.11.26 | David Bowie Symphony | Admiralspalast
-19.11.26 | Anna Von Hausswolff | Astra
-19.11.26 | Sobredosis de Soda | Badehaus
-19.11.26 | cancelled | Unzucht / The Last Decade | Cassiopeia
-19.11.26 | Bulgarian Cartrader | Columbia Theater
-19.11.26 | sold out | Apsilon | Columbiahalle
-19.11.26 | Chinchilla | Frannz Club
-19.11.26 | G Session feat. Ray Lozano & Adeolu | Gretchen
-19.11.26 | Elder Island | Heimathafen Neukölln
-19.11.26 | Digital Stars @ Miku Expo | Hole44
-19.11.26 | Eluveitie | Huxleys
-19.11.26 | cancelled | Pupsies | Kantine am Berghain
-19.11.26 | new | KELL KUHN SCHROT | Lombardo Bar
-19.11.26 | Mollie Elizabeth | Maschinenhaus
-19.11.26 | Goldie333 / JnnrHndrxx / Oranya | Modus
-19.11.26 | Imperial Triumphant / Knoll / Confusion Master | Neue Zukunft
-19.11.26 | new | Tiger Beat / Payola | Neue Zukunft
-19.11.26 | Berliner Philharmoniker / Maxim Emelyanychev / Yun Zeng | Philharmonie
-19.11.26 | Yes, I'm very tired now | Privatclub
-19.11.26 | Melissa Auf Der Maur in conversation with Christof Ellinghaus at Prachtwerk - My 90s Rock Photographs | Rough Trade Berlin
-19.11.26 | Infinity Song | Säälchen
-19.11.26 | Apart / Llana | Schokoladen
-19.11.26 | Die Anstalt / Güner Künier / The Pleasure Majenta | SO36
-19.11.26 | sold out | The Pogues | Tempodrom
-19.11.26 | Freya Skye | Uber Eats Music Hall
-19.11.26 | Bragolin / Carrellee | Urban Spree
-19.11.26 | Moneybrother | Waschhaus Potsdam
-19.11.26 | Icarus Burns / Lasse Reinstroem | Wild At Heart
 20.11.26 | Ignite / Cancer Bats / Outspoken / 1000 Löwen Unter Feinden | Astra
 20.11.26 | Gauchito Club | Badehaus
 20.11.26 | Ella Stern | Bi Nuu
@@ -53,7 +25,7 @@
 20.11.26 | Earthbong / Frost, Pisse & Elend | Neue Zukunft
 20.11.26 | The Irish Folk Festival 2026 | Passionskirche
 20.11.26 | Berliner Philharmoniker / Maxim Emelyanychev / Yun Zeng | Philharmonie
-20.11.26 | Chasing Abbey | Prachtwerk
+20.11.26 | sold out | Chasing Abbey | Prachtwerk
 20.11.26 | Golden Apes / tba | Privatclub
 20.11.26 | Jazz Night feat. Flow Rea | Quasimodo
 20.11.26 | ParkPunk / FCKSCHTZL | Schokoladen
@@ -552,7 +524,7 @@
 10.12.26 | new date | Phoebe Bridgers | Uber Arena
 11.12.26 | Green Lung / High On Fire / Gnome | Astra
 11.12.26 | new | TNF47 | Badehaus
-11.12.26 | Dillon | Columbia Theater
+11.12.26 | Dillon / Nalan | Columbia Theater
 11.12.26 | sold out | Sidos Weihnachtsshow 2026 - 9 | Columbiahalle
 11.12.26 | MandelKokainSchnaps | Hole44
 11.12.26 | postponed | Kwam.E - new date 26.09.27 | Huxleys
@@ -573,7 +545,7 @@
 11.12.26 | Krautfuzz | tba
 11.12.26 | William Arcuri | Theater im Delphi
 11.12.26 | INNA | Uber Eats Music Hall
-11.12.26 | Nimo | Velodrom
+11.12.26 | postponed | Nimo - new date tba | Velodrom
 11.12.26 | new | Maria Reich / Bernhard Meyer / Laura Robles / Olga Reznichenko / Peter Meyer | West Germany
 11.12.26 | Commando | Wild At Heart
 12.12.26 | Krautfuzz / Pyrolator / Aiden Baker | B.L.O. Kantine
@@ -602,7 +574,7 @@
 12.12.26 | Quest For Rescue / Waran | Trixxter
 12.12.26 | postponed | Elif - new date: 25.09.27 | Uber Eats Music Hall
 12.12.26 | Twin Noir / Hinfort | Urban Spree
-12.12.26 | Nimo | Velodrom
+12.12.26 | postponed | Nimo - new date tba | Velodrom
 12.12.26 | Gerhard Schöne | Waschhaus Potsdam
 12.12.26 | new | Rock élégant / Jejeje | West Germany
 12.12.26 | 667 Xmas Punkrock Party | Wiener Blut
@@ -630,7 +602,7 @@
 15.12.26 | sold out | Sidos Weihnachtsshow 2026 - 12 | Columbiahalle
 15.12.26 | Fellas | Gretchen
 15.12.26 | Charity Salsa Benefizkonzert: Conexion Plus Band & La Melodica Orquesta | Huxleys
-15.12.26 | Beaks | Kantine am Berghain
+15.12.26 | sold out | Beaks | Kantine am Berghain
 15.12.26 | new | Mink pres. Return To Sender | Silent Green
 15.12.26 | Dominum | SO36
 16.12.26 | Maeckes & die Katastrophen | Astra
@@ -2063,6 +2035,7 @@
 20.11.27 | Kanonfieber | Max-Schmeling-Halle
 20.11.27 | The Dead South | Tempodrom
 20.11.27 | Bruce Dickinson | Uber Eats Music Hall
+21.11.27 | new | Lichterkinder | Uber Eats Music Hall
 24.11.27 | new | Hang Massive | Huxleys
 25.11.27 | new | Disney in Concert | Uber Arena
 27.11.27 | Sind | Columbiahalle
@@ -2084,7 +2057,7 @@
 20.12.27 | new | Der Nussknacker concertant | Kammermusiksaal Philharmonie
 18.01.28 | new | Atlas | Badehaus
 29.01.28 | Kool Savas | Uber Arena
-07.02.28 | Ben Folds | RBB Sendesaal
+7.2.28 | Ben Folds | RBB Sendesaal
 10.3.28 | new | Northern Lite | Waschhaus Potsdam
 31.3.28 | Kerstin Ott | Max-Schmeling-Halle
 5.4.28 | Agatha Is Dead! | Huxleys
